@@ -1,1 +1,29 @@
-{"version":"1.0","hashes":{}}
+{
+  "version": "1.1",
+  "provisions": [
+    {
+      "id": "verify-001",
+      "description": "DL 1700 Article 12-A",
+      "document_id": "pe-dl-1700",
+      "provision_ref": "art12a",
+      "op": "2480387-2",
+      "expected_sha256": "6a603ae3c68c04d2a92e4853de9a2dce47290b94ae341f38dc73ac7cb19c39dc"
+    },
+    {
+      "id": "verify-002",
+      "description": "DL 1741 Article 12-A",
+      "document_id": "pe-dl-1741",
+      "provision_ref": "art12a",
+      "op": "2487222-3",
+      "expected_sha256": "ab2a51175865cb5a845596f7b986a13f5ff05901b8ecd32fa5b31dfe96e4e22a"
+    },
+    {
+      "id": "verify-003",
+      "description": "Reglamento IA 31814 Article 1",
+      "document_id": "pe-ds-reglamento-ia-31814",
+      "provision_ref": "art1",
+      "op": "2436426-1",
+      "expected_sha256": "6be12cae02a1827830039df0793ab51b0e2324532a14a167a639408f71d3f361"
+    }
+  ]
+}

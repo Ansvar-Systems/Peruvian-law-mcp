@@ -44,15 +44,14 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Peruvian)',
-          url: 'https://spij.minjus.gob.pe',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          name: 'Diario Oficial El Peruano',
+          authority: 'Editora Perú / Estado Peruano',
+          url: 'https://busquedas.elperuano.pe',
+          license: 'Official publication terms',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
-          languages: ['en'],
+            'Curated set of Peruvian cybersecurity, digital governance, and data protection norms ' +
+            'with official HTML text available via /api/visor_html/{op}.',
+          languages: ['es'],
         },
       ],
       database: {

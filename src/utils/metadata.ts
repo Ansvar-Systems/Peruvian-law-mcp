@@ -30,12 +30,11 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (spij.minjus.gob.pe) — Government (State Chancellery of Peruvian)',
-    jurisdiction: 'EE',
+    data_source: 'Diario Oficial El Peruano (busquedas.elperuano.pe) — Editora Perú / Estado Peruano',
+    jurisdiction: 'PE',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Peruvian). ' +
-      'Always verify with the official Official Legal Database portal (spij.minjus.gob.pe).',
+      'This dataset is derived from official legal publications in Diario Oficial El Peruano. ' +
+      'Always verify critical legal interpretations with the official publication and current legal status.',
     freshness,
   };
 }

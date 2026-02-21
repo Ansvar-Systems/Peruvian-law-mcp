@@ -1,24 +1,35 @@
 #!/usr/bin/env tsx
 /**
- * Drift detection for Peruvian Law MCP.
+ * Character-by-character verification for selected provisions.
  *
- * Checks if upstream www.riigiteataja.ee content has changed since last ingestion.
- * Uses the golden-hashes.json fixture to verify content integrity.
+ * For each fixture entry:
+ * 1) fetches official HTML from El Peruano,
+ * 2) parses provisions,
+ * 3) compares official extracted text vs SQLite content exactly,
+ * 4) verifies pinned SHA-256 hash.
  */
 
+import { createHash } from 'crypto';
 import { readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import Database from 'better-sqlite3';
+
+import { fetchWithRateLimit } from './lib/fetcher.js';
+import { parsePeruvianHtml, KEY_PERUVIAN_ACTS } from './lib/parser.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const hashesPath = join(__dirname, '../fixtures/golden-hashes.json');
+const dbPath = join(__dirname, '../data/database.db');
+const upstreamBase = 'https://busquedas.elperuano.pe/api/visor_html';
 
 interface GoldenHash {
   id: string;
   description: string;
-  upstream_url: string;
+  document_id: string;
+  provision_ref: string;
+  op: string;
   expected_sha256: string;
-  expected_snippet: string;
 }
 
 interface HashFixture {
@@ -26,57 +37,78 @@ interface HashFixture {
   provisions: GoldenHash[];
 }
 
-async function main(): Promise<void> {
-  console.log('Peruvian Law MCP — Drift Detection');
-  console.log('=====================================\n');
+function sha256(text: string): string {
+  return createHash('sha256').update(text).digest('hex');
+}
 
-  const fixture: HashFixture = JSON.parse(readFileSync(hashesPath, 'utf-8'));
-  console.log(`Checking ${fixture.provisions.length} provisions...\n`);
+async function main(): Promise<void> {
+  console.log('Peruvian Law MCP — Source Verification');
+  console.log('======================================\n');
+
+  const fixture = JSON.parse(readFileSync(hashesPath, 'utf-8')) as HashFixture;
+  const db = new Database(dbPath, { readonly: true });
 
   let passed = 0;
   let failed = 0;
-  let skipped = 0;
 
-  for (const hash of fixture.provisions) {
-    if (hash.expected_sha256 === 'COMPUTE_ON_FIRST_INGEST') {
-      console.log(`  SKIP ${hash.id}: Not yet ingested`);
-      skipped++;
-      continue;
-    }
-
+  for (const row of fixture.provisions) {
     try {
-      const response = await fetch(hash.upstream_url, {
-        headers: { 'User-Agent': 'Peruvian-Law-MCP/1.0 drift-detect' },
-      });
-
-      if (response.status !== 200) {
-        console.log(`  WARN ${hash.id}: HTTP ${response.status}`);
+      const act = KEY_PERUVIAN_ACTS.find(a => a.id === row.document_id);
+      if (!act) {
+        console.log(`  FAIL ${row.id}: document_id not found in parser index (${row.document_id})`);
         failed++;
         continue;
       }
 
-      const body = await response.text();
+      const result = await fetchWithRateLimit(`${upstreamBase}/${row.op}`);
+      if (result.status !== 200) {
+        console.log(`  FAIL ${row.id}: HTTP ${result.status} from upstream`);
+        failed++;
+        continue;
+      }
 
-      if (hash.expected_snippet && body.toLowerCase().includes(hash.expected_snippet.toLowerCase())) {
-        console.log(`  OK   ${hash.id}: Snippet found`);
+      const parsed = parsePeruvianHtml(result.body, act);
+      const official = parsed.provisions.find(p => p.provision_ref === row.provision_ref);
+      if (!official) {
+        console.log(`  FAIL ${row.id}: provision not parsed from upstream (${row.provision_ref})`);
+        failed++;
+        continue;
+      }
+
+      const dbProvision = db.prepare(
+        'SELECT content FROM legal_provisions WHERE document_id = ? AND provision_ref = ?'
+      ).get(row.document_id, row.provision_ref) as { content: string } | undefined;
+
+      if (!dbProvision) {
+        console.log(`  FAIL ${row.id}: provision missing in database`);
+        failed++;
+        continue;
+      }
+
+      const exactMatch = official.content === dbProvision.content;
+      const actualHash = sha256(official.content);
+      const hashMatch = actualHash === row.expected_sha256;
+
+      if (exactMatch && hashMatch) {
+        console.log(`  OK   ${row.id}: exact_match=true hash=${actualHash.slice(0, 12)}...`);
         passed++;
       } else {
-        console.log(`  DRIFT ${hash.id}: Expected snippet "${hash.expected_snippet}" not found`);
+        console.log(
+          `  FAIL ${row.id}: exact_match=${String(exactMatch)} hash_match=${String(hashMatch)} actual_hash=${actualHash}`
+        );
         failed++;
       }
     } catch (error) {
       const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${hash.id}: ${msg}`);
+      console.log(`  ERROR ${row.id}: ${msg}`);
       failed++;
     }
   }
 
-  console.log(`\nResults: ${passed} passed, ${failed} failed, ${skipped} skipped`);
+  db.close();
 
-  if (failed > 0) {
-    console.log('\nDrift detected! Data may need re-ingestion.');
-    process.exit(1);
-  }
+  console.log(`\nResults: ${passed} passed, ${failed} failed`);
+  if (failed > 0) process.exit(1);
 }
 
 main().catch(error => {

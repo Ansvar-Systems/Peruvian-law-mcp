@@ -1,6 +1,6 @@
 /**
  * Golden contract tests for Peruvian Law MCP.
- * Validates core tool functionality against seed data.
+ * Validates core tool functionality against real ingested source data.
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
@@ -27,33 +27,39 @@ describe('Database integrity', () => {
     expect(row.cnt).toBe(10);
   });
 
-  it('should have at least 149 provisions', () => {
+  it('should have at least 140 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(149);
+    expect(row.cnt).toBeGreaterThanOrEqual(140);
   });
 
-  it('should have FTS index', () => {
+  it('should have extracted definitions', () => {
+    const row = db.prepare('SELECT COUNT(*) as cnt FROM definitions').get() as { cnt: number };
+    expect(row.cnt).toBeGreaterThanOrEqual(20);
+  });
+
+  it('should have FTS index rows', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'data'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'datos'"
     ).get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(0);
+    expect(row.cnt).toBeGreaterThan(0);
   });
 });
 
 describe('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'pe-dl-1044' AND section = '1'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'pe-dl-1700' AND section = '12-A'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
-    expect(row!.content.length).toBeGreaterThan(50);
+    expect(row!.content.length).toBeGreaterThan(100);
+    expect(row!.content).toContain('datos informáticos');
   });
 });
 
 describe('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'Decreto'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'digital'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });
@@ -69,7 +75,7 @@ describe('Negative tests', () => {
 
   it('should return no results for invalid section', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'pe-dl-1044' AND section = '999ZZZ-INVALID'"
+      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'pe-dl-1700' AND section = '999ZZZ-INVALID'"
     ).get() as { cnt: number };
     expect(row.cnt).toBe(0);
   });
@@ -77,16 +83,17 @@ describe('Negative tests', () => {
 
 describe('All 10 laws are present', () => {
   const expectedDocs = [
-    'pe-dl-1044',
-    'pe-ds-013-93-tcc',
-    'pe-ds-050-2018-pcm',
-    'pe-ley-27269',
-    'pe-ley-27291',
-    'pe-ley-27806',
-    'pe-ley-29733',
-    'pe-ley-29904',
-    'pe-ley-30096',
-    'pe-sbs-res-504-2021',  ];
+    'pe-dl-1700',
+    'pe-dl-1741',
+    'pe-ds-modifica-reglamento-gobierno-digital',
+    'pe-ds-modifica-reglamento-rnhce',
+    'pe-ds-reglamento-confianza-digital',
+    'pe-ds-reglamento-ia-31814',
+    'pe-rd-oficial-datos-personales',
+    'pe-res-directiva-consumo-seguro-pide',
+    'pe-rm-documento-seguridad-sihce-minsa',
+    'pe-rm-metodologia-multas-datos-personales',
+  ];
 
   for (const docId of expectedDocs) {
     it(`should contain document: ${docId}`, () => {
@@ -99,9 +106,17 @@ describe('All 10 laws are present', () => {
   }
 });
 
-describe('list_sources', () => {
+describe('list_sources metadata compatibility', () => {
   it('should have db_metadata table', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM db_metadata').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThan(0);
+  });
+
+  it('should store PE jurisdiction metadata', () => {
+    const row = db.prepare(
+      "SELECT value FROM db_metadata WHERE key = 'jurisdiction'"
+    ).get() as { value: string } | undefined;
+    expect(row).toBeDefined();
+    expect(row!.value).toBe('PE');
   });
 });

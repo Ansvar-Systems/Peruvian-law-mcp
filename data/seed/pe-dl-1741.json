@@ -1,0 +1,63 @@
+{
+  "id": "pe-dl-1741",
+  "type": "statute",
+  "title": "Decreto Legislativo N° 1741 que modifica el artículo 12-A de la Ley N° 30096",
+  "title_en": "Legislative Decree No. 1741 amending Article 12-A of Law No. 30096",
+  "short_name": "DL 1741",
+  "status": "in_force",
+  "issued_date": "2026-02-13",
+  "in_force_date": "2026-02-14",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2487222-3",
+  "description": "Refuerza la tipificación del tráfico ilícito de datos en sectores financiero, bursátil, previsional y seguros.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el tercer párrafo del artículo 12-A de la Ley Nº 30096, Ley de Delitos Informáticos, e incorpora expresamente una excepción de responsabilidad penal aplicable a los sectores bursátil, financiero, previsional y de seguros dentro de su ámbito de aplicación."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad",
+      "content": "La presente norma tiene por finalidad garantizar la seguridad jurídica en el desarrollo de las actividades propias de los sectores bursátil, financiero, previsional y de seguros y evitar la expansión del derecho penal hacia ámbitos del derecho administrativo sancionador y de supervisión sectorial que cuenta con un marco normativo especial."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del tercer párrafo del artículo 12-A de la Ley Nº 30096, Ley de Delitos Informáticos",
+      "content": "Se modifica el tercer párrafo del artículo 12-A de la Ley Nº 30096, Ley de Delitos Informáticos, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art12a",
+      "section": "12-A",
+      "title": "Artículo 12-A.- Adquisición, posesión y tráfico ilícito de datos informáticos",
+      "content": "El que posee, compre, recibe, comercialice, vende, facilite, intercambie o trafique datos informáticos, credenciales de acceso o bases de datos personales, teniendo conocimiento o debiendo presumir que se obtuvo sin consentimiento de su titular o mediante la vulneración de sistemas de seguridad o la comisión de un delito informático, es reprimido con pena privativa de libertad no menor de cinco (5) ni mayor de ocho (8) años y con ciento ochenta (180) a trescientos sesenta y cinco (365) días-multa. La pena privativa de libertad es no menor de ocho (8) ni mayor de diez (10) años, e inhabilitación, cuando: a) El agente actúa como integrante de una organización criminal; b) Se cause perjuicio patrimonial grave o afectación a una pluralidad de personas; o c) La base de datos es procesada o custodiada por una entidad pública. Queda exceptuada de responsabilidad penal la adquisición, posesión, intercambio o tratamiento de datos informáticos cuando estas conductas se realicen con autorización expresa del titular, conforme a la Ley Nº 29733, Ley de Protección de Datos Personales, en cumplimiento de un mandato judicial o administrativo emitido conforme a ley, o en el ejercicio legítimo de derechos fundamentales, funciones legalmente reconocidas, o actividades desarrolladas en los sectores bursátil, financiero, previsional o de seguros , siempre que no exista finalidad de aprovechamiento ilícito o de comercialización indebida de la información .”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Financiamiento",
+      "content": "La implementación del presente Decreto Legislativo se financia con cargo al presupuesto de las instituciones públicas involucradas, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Publicación",
+      "content": "El presente Decreto Legislativo se publica en la Plataforma Digital Única del Estado Peruano para la Orientación al Ciudadano ( www.gob.pe ) y en las sedes digitales del Ministerio del Interior (www.gob.pe/mininter), del Ministerio de Justicia y Derechos Humanos (www.gob.pe/minjus), y del Ministerio de Economía y Finanzas (www.gob.pe/mef), el mismo día de su publicación en el Diario Oficial “El Peruano”."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, la Ministra de Economía y Finanzas, el Ministro del Interior y el Ministro de Justicia y Derechos Humanos. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los trece días del mes de febrero del año dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros DENISSE AZUCENA MIRALLES MIRALLES Ministra de Economía y Finanzas VICENTE TIBURCIO ORBEZO Ministro del Interior WALTER ELEODORO MARTÍNEZ LAURA Ministro de Justicia y Derechos Humanos"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art6"
+    }
+  ]
+}

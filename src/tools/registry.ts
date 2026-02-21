@@ -286,7 +286,7 @@ export const TOOLS: Tool[] = [
       'Check EU alignment status for a Peruvian statute or provision. ' +
       'Detects references to EU directives, alignment status, and cross-references. ' +
       'Returns compliance status (compliant, partial, unclear, not_applicable) with warnings. ' +
-      'Peruvian is an EU Member State; this checks implementation status and cross-references.',
+      'Peru is not an EU Member State; this checks explicit EU references present in the dataset.',
     inputSchema: {
       type: 'object',
       properties: {

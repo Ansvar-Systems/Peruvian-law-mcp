@@ -82,7 +82,7 @@ export async function validateEUCompliance(
         compliance_status: 'not_applicable',
         eu_references_found: 0,
         warnings: [],
-        recommendations: ['No EU cross-references found for this Peruvian statute. Peruvian is an EU Member State; EU references indicate transposition obligations.'],
+        recommendations: ['No EU cross-references found for this Peruvian statute. Peru is not an EU Member State; any EU links are informational or comparative only.'],
       },
       _metadata: generateResponseMetadata(db),
     };

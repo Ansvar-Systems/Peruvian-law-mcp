@@ -1,21 +1,17 @@
 /**
- * Rate-limited HTTP client for Peruvian legislation from the Sejm ELI API.
+ * Rate-limited HTTP client for Peruvian legislation from Diario Oficial El Peruano.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
+ * Source endpoint pattern:
+ *   https://busquedas.elperuano.pe/api/visor_html/{OP}
  *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
- * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
+ * - 1.2s minimum delay between requests (respectful to government servers)
+ * - User-Agent header identifying this MCP
+ * - Retry on 429/5xx/network timeout with exponential backoff
  */
 
-const USER_AGENT = 'Peruvian-Law-MCP/1.0 (https://github.com/Ansvar-Systems/peruvian-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+const USER_AGENT = 'Peruvian-Law-MCP/1.0 (https://github.com/Ansvar-Systems/Peruvian-law-mcp; hello@ansvar.ai)';
+const MIN_DELAY_MS = 1200;
+const REQUEST_TIMEOUT_MS = 45000;
 
 let lastRequestTime = 0;
 
@@ -37,36 +33,56 @@ export interface FetchResult {
 
 /**
  * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
+ * Retries up to 3 times on 429/5xx or timeout errors with exponential backoff.
  */
 export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
   await rateLimit();
 
   for (let attempt = 0; attempt <= maxRetries; attempt++) {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
-      },
-      redirect: 'follow',
-    });
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), REQUEST_TIMEOUT_MS);
 
-    if (response.status === 429 || response.status >= 500) {
+    try {
+      const response = await fetch(url, {
+        headers: {
+          'User-Agent': USER_AGENT,
+          'Accept': 'text/html, application/xhtml+xml, */*',
+        },
+        redirect: 'follow',
+        signal: controller.signal,
+      });
+
+      clearTimeout(timeout);
+
+      if (response.status === 429 || response.status >= 500) {
+        if (attempt < maxRetries) {
+          const backoff = Math.pow(2, attempt + 1) * 1000;
+          console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
+          await new Promise(resolve => setTimeout(resolve, backoff));
+          continue;
+        }
+      }
+
+      const body = await response.text();
+      return {
+        status: response.status,
+        body,
+        contentType: response.headers.get('content-type') ?? '',
+        url: response.url,
+      };
+    } catch (error) {
+      clearTimeout(timeout);
+
       if (attempt < maxRetries) {
         const backoff = Math.pow(2, attempt + 1) * 1000;
-        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
+        const msg = error instanceof Error ? error.message : String(error);
+        console.log(`  Fetch error for ${url} (${msg}), retrying in ${backoff}ms...`);
         await new Promise(resolve => setTimeout(resolve, backoff));
         continue;
       }
-    }
 
-    const body = await response.text();
-    return {
-      status: response.status,
-      body,
-      contentType: response.headers.get('content-type') ?? '',
-      url: response.url,
-    };
+      throw error;
+    }
   }
 
   throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);

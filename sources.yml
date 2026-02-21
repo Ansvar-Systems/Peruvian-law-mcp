@@ -3,19 +3,19 @@ mcp_name: "Peruvian Law MCP"
 jurisdiction: "PE"
 
 sources:
-  - name: "Sistema Peruano de Información Jurídica"
-    authority: "Sistema Peruano de Información Jurídica"
-    official_portal: "https://spij.minjus.gob.pe"
-    retrieval_method: "HTML_SCRAPE"
+  - name: "Diario Oficial El Peruano"
+    authority: "Editora Perú / Estado Peruano"
+    official_portal: "https://busquedas.elperuano.pe"
+    retrieval_method: "OFFICIAL_HTML_ENDPOINT"
     update_frequency: "weekly"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
-      url: "https://spij.minjus.gob.pe"
-      summary: "Official legislative texts are public domain"
+      type: "Official publication terms"
+      url: "https://busquedas.elperuano.pe"
+      summary: "Texts retrieved from official publication pages and HTML viewer endpoint."
     coverage:
       scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      limitations: "Curated subset with official HTML availability; some norms are PDF-only or unavailable via HTML endpoint and are skipped."
     languages:
       - "es"
 

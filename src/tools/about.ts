@@ -44,12 +44,12 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Official Legal Database',
-      authority: 'Government (State Chancellery of Peruvian)',
-      url: 'https://spij.minjus.gob.pe',
-      license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-      jurisdiction: 'EE',
-      languages: ['en'],
+      name: 'Diario Oficial El Peruano',
+      authority: 'Editora Perú / Estado Peruano',
+      url: 'https://busquedas.elperuano.pe',
+      license: 'Official publication terms',
+      jurisdiction: 'PE',
+      languages: ['es'],
     },
   };
 }

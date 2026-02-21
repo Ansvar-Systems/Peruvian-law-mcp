@@ -2,22 +2,13 @@
 /**
  * Peruvian Law MCP -- Ingestion Pipeline
  *
- * Fetches Peruvian legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Peruvian Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
+ * Fetches Peruvian legislation from Diario Oficial El Peruano and converts it
+ * into seed JSON files consumed by scripts/build-db.ts.
  *
  * Usage:
  *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Peruvian legislation is public domain under Art. 4 of the Copyright Act
+ *   npm run ingest -- --limit 5       # Test with first 5 acts
+ *   npm run ingest -- --skip-fetch    # Reuse cached HTML pages
  */
 
 import * as fs from 'fs';
@@ -32,8 +23,8 @@ const __dirname = path.dirname(__filename);
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+/** El Peruano HTML viewer endpoint */
+const EL_PERUANO_HTML_BASE = 'https://busquedas.elperuano.pe/api/visor_html';
 
 function parseArgs(): { limit: number | null; skipFetch: boolean } {
   const args = process.argv.slice(2);
@@ -52,19 +43,28 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
 function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
+  return `${EL_PERUANO_HTML_BASE}/${act.op}`;
+}
+
+function clearSeedJsonFiles(): void {
+  if (!fs.existsSync(SEED_DIR)) return;
+  for (const file of fs.readdirSync(SEED_DIR)) {
+    if (file.endsWith('.json')) {
+      fs.unlinkSync(path.join(SEED_DIR, file));
+    }
+  }
 }
 
 async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Peruvian Acts from api.sejm.gov.pl...\n`);
+  console.log(`\nProcessing ${acts.length} Peruvian Acts from Diario Oficial El Peruano...\n`);
 
   fs.mkdirSync(SOURCE_DIR, { recursive: true });
   fs.mkdirSync(SEED_DIR, { recursive: true });
+
+  if (!skipFetch) {
+    clearSeedJsonFiles();
+  }
 
   let processed = 0;
   let skipped = 0;
@@ -74,10 +74,9 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
   const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
 
   for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
+    const sourceFile = path.join(SOURCE_DIR, `${act.op}.html`);
     const seedFile = path.join(SEED_DIR, `${act.id}.json`);
 
-    // Skip if seed already exists and we're in skip-fetch mode
     if (skipFetch && fs.existsSync(seedFile)) {
       const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
       const provCount = existing.provisions?.length ?? 0;
@@ -95,10 +94,10 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
 
       if (fs.existsSync(sourceFile) && skipFetch) {
         html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
+        console.log(`  Using cached ${act.shortName} (${act.op}) (${(html.length / 1024).toFixed(0)} KB)`);
       } else {
         const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
+        process.stdout.write(`  Fetching ${act.shortName} (${act.op})...`);
         const result = await fetchWithRateLimit(textUrl);
 
         if (result.status !== 200) {
@@ -111,10 +110,18 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
 
         html = result.body;
 
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
+        // El Peruano returns this marker when there is no HTML-backed text.
+        if (html.includes('The specified URL cannot be found')) {
+          console.log(' NO_HTML_SOURCE');
+          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'NO_HTML_SOURCE' });
+          failed++;
+          processed++;
+          continue;
+        }
+
+        if (!html.includes('<html') || !html.includes('Artículo')) {
+          console.log(' INVALID_CONTENT');
+          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'INVALID_CONTENT' });
           failed++;
           processed++;
           continue;
@@ -148,18 +155,18 @@ async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Pro
   console.log(`\n${'='.repeat(72)}`);
   console.log('Ingestion Report');
   console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Peruvian Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
+  console.log('\n  Source:       busquedas.elperuano.pe (official legal gazette)');
+  console.log('  Method:       Official HTML retrieval via /api/visor_html/{op}');
+  console.log(`  Processed:    ${processed}`);
+  console.log(`  Cached:       ${skipped}`);
+  console.log(`  Failed:       ${failed}`);
   console.log(`  Total provisions:  ${totalProvisions}`);
   console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
+  console.log('\n  Per-Act breakdown:');
+  console.log(`  ${'Act'.padEnd(30)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(14)}`);
+  console.log(`  ${'-'.repeat(30)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(14)}`);
   for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+    console.log(`  ${r.act.padEnd(30)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(14)}`);
   }
   console.log('');
 }
@@ -169,12 +176,11 @@ async function main(): Promise<void> {
 
   console.log('Peruvian Law MCP -- Ingestion Pipeline');
   console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Peruvian Copyright Act)`);
+  console.log('  Source: busquedas.elperuano.pe (Diario Oficial El Peruano)');
+  console.log('  Format: Official HTML legal text by operation id (op)');
 
   if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  if (skipFetch) console.log('  --skip-fetch');
 
   const acts = limit ? KEY_PERUVIAN_ACTS.slice(0, limit) : KEY_PERUVIAN_ACTS;
   await fetchAndParseActs(acts, skipFetch);

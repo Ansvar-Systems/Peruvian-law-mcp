@@ -1,77 +1,86 @@
 {
   "$schema": "./golden-tests.schema.json",
-  "version": "1.0",
+  "version": "1.1",
   "mcp_name": "Peruvian Law MCP",
-  "description": "Golden contract tests for the Peruvian Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "description": "Golden contract tests for real-ingested Peruvian legal data from Diario Oficial El Peruano",
   "tests": [
     {
       "id": "pe-001",
       "category": "article_retrieval",
-      "description": "Retrieve data protection law Article 1 -- scope and purpose",
+      "description": "Retrieve DL 1700 Article 12-A (illicit acquisition/traffic of digital data)",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-ley-29733",
-        "section": "1"
+        "document_id": "pe-dl-1700",
+        "section": "12-A"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["data", "protection", "personal"],
-        "fields_present": ["content", "provision_ref"],
+        "any_result_contains": [
+          "datos informáticos"
+        ],
+        "fields_present": [
+          "content",
+          "provision_ref"
+        ],
         "text_not_empty": true
       }
     },
     {
       "id": "pe-002",
       "category": "article_retrieval",
-      "description": "Retrieve cybersecurity/cybercrime law Article 1 -- scope",
+      "description": "Retrieve DL 1741 Article 12-A amendment",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-ley-30096",
-        "section": "1"
+        "document_id": "pe-dl-1741",
+        "section": "12-A"
       },
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["cyber", "security", "information", "crime"],
-        "fields_present": ["content", "provision_ref"],
+        "fields_present": [
+          "content",
+          "provision_ref"
+        ],
         "text_not_empty": true
       }
     },
     {
       "id": "pe-003",
       "category": "article_retrieval",
-      "description": "Retrieve data protection law Article 2 -- definitions",
+      "description": "Retrieve Reglamento IA 31814 Article 1",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-ley-29733",
-        "section": "2"
+        "document_id": "pe-ds-reglamento-ia-31814",
+        "section": "1"
       },
       "assertions": {
         "result_not_empty": true,
-        "fields_present": ["content", "provision_ref"],
+        "fields_present": [
+          "content",
+          "provision_ref"
+        ],
         "text_not_empty": true
       }
     },
     {
       "id": "pe-004",
       "category": "search",
-      "description": "Full-text search for 'personal data' returns relevant provisions",
+      "description": "FTS search for 'datos' returns relevant provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "personal data"
+        "query": "datos"
       },
       "assertions": {
         "result_not_empty": true,
-        "min_results": 1,
-        "any_result_contains": ["personal data", "data protection", "data subject"]
+        "min_results": 1
       }
     },
     {
       "id": "pe-005",
       "category": "search",
-      "description": "Full-text search for 'cybersecurity' returns relevant provisions",
+      "description": "FTS search for 'seguridad digital' returns relevant provisions",
       "tool": "search_legislation",
       "input": {
-        "query": "cybersecurity"
+        "query": "\"seguridad digital\""
       },
       "assertions": {
         "result_not_empty": true,
@@ -81,10 +90,10 @@
     {
       "id": "pe-006",
       "category": "search",
-      "description": "Full-text search for 'electronic' returns e-commerce or e-signature provisions",
+      "description": "FTS search for 'inteligencia artificial' returns IA regulation references",
       "tool": "search_legislation",
       "input": {
-        "query": "electronic"
+        "query": "\"inteligencia artificial\""
       },
       "assertions": {
         "result_not_empty": true,
@@ -94,11 +103,11 @@
     {
       "id": "pe-007",
       "category": "citation_roundtrip",
-      "description": "Citation for data protection law includes URL pattern",
+      "description": "Provision retrieval returns non-empty citation-capable context",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-ley-29733",
-        "section": "2"
+        "document_id": "pe-dl-1700",
+        "section": "1"
       },
       "assertions": {
         "result_not_empty": true,
@@ -108,18 +117,22 @@
     {
       "id": "pe-008",
       "category": "metadata",
-      "description": "list_sources returns metadata for Peruvian law data",
+      "description": "list_sources returns Peruvian jurisdiction metadata",
       "tool": "list_sources",
       "input": {},
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["PE"]
+        "any_result_contains": [
+          "PE",
+          "Peru",
+          "Peruvian"
+        ]
       }
     },
     {
       "id": "pe-010",
       "category": "negative_test",
-      "description": "Non-existent law returns graceful error or empty result",
+      "description": "Non-existent law returns graceful empty result",
       "tool": "get_provision",
       "input": {
         "document_id": "fictional-law-2099",
@@ -132,10 +145,10 @@
     {
       "id": "pe-011",
       "category": "negative_test",
-      "description": "Malformed article number returns graceful error or empty result",
+      "description": "Malformed section returns graceful empty result",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-ley-29733",
+        "document_id": "pe-dl-1700",
         "section": "999ZZZ-INVALID"
       },
       "assertions": {
@@ -145,12 +158,15 @@
     {
       "id": "pe-012",
       "category": "list_sources",
-      "description": "list_sources returns metadata including jurisdiction",
+      "description": "list_sources returns source provenance including El Peruano",
       "tool": "list_sources",
       "input": {},
       "assertions": {
         "result_not_empty": true,
-        "any_result_contains": ["PE"]
+        "any_result_contains": [
+          "El Peruano",
+          "busquedas.elperuano.pe"
+        ]
       }
     }
   ]

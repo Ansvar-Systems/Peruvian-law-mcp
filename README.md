@@ -23,7 +23,9 @@ npx @ansvar/peruvian-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official legal text from Diario Oficial El Peruano (`busquedas.elperuano.pe`), ingested from the public
+HTML endpoint `https://busquedas.elperuano.pe/api/visor_html/{op}` for a curated set of cybersecurity,
+digital-governance, and personal-data-protection norms.
 
 ## License
 

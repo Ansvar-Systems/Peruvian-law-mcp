@@ -1,0 +1,33 @@
+{
+  "id": "pe-rm-documento-seguridad-sihce-minsa",
+  "type": "statute",
+  "title": "Resolución Ministerial que aprueba la Directiva del Documento de Seguridad del SIHCE del MINSA",
+  "title_en": "Ministerial Resolution approving security document directive for MINSA electronic health records system",
+  "short_name": "RM Seguridad SIHCE",
+  "status": "in_force",
+  "issued_date": "2025-10-10",
+  "in_force_date": "2025-10-11",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2446793-1",
+  "description": "Establece el documento de seguridad del Sistema de Historia Clínica Electrónica del MINSA.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Aprobar la Directiva Administrativa N.º 383/OGTI-2025 “Directiva Administrativa que establece el Documento de Seguridad del Sistema de Historia Clínica Electrónica del Ministerio De Salud - SIHCE del MINSA”, que como Anexo forma parte integrante de la presente Resolución Ministerial, y que se publica en la sede digital del Ministerio de Salud.",
+      "content": "Aprobar la Directiva Administrativa N.º 383/OGTI-2025 “Directiva Administrativa que establece el Documento de Seguridad del Sistema de Historia Clínica Electrónica del Ministerio De Salud - SIHCE del MINSA”, que como Anexo forma parte integrante de la presente Resolución Ministerial, y que se publica en la sede digital del Ministerio de Salud."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Encargar a la Oficina General de Tecnologías de la Información, en el marco de sus funciones, la difusión hasta el nivel regional, así como, la asistencia técnica y la supervisión de las acciones correspondientes para el cu mplimiento de la directiva aprobada por la presente Resolución Ministerial.",
+      "content": "Encargar a la Oficina General de Tecnologías de la Información, en el marco de sus funciones, la difusión hasta el nivel regional, así como, la asistencia técnica y la supervisión de las acciones correspondientes para el cu mplimiento de la directiva aprobada por la presente Resolución Ministerial."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Encargar a la Oficina de Transparencia y Anticorrupción de la Secretaría General la publicación de la presente Resolución Ministerial y su Anexo en la sede digital del Ministerio de Salud ( www.gob.pe/minsa ), en la misma fecha de publicación de la presente resolución en el Diario Oficial El Peruano.",
+      "content": "Regístrese, comuníquese y publíquese. CÉSAR HENRY VÁSQUEZ SÁNCHEZ Ministro de Salud"
+    }
+  ],
+  "definitions": []
+}
