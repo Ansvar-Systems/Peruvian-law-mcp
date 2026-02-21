@@ -1,0 +1,126 @@
+{
+  "id": "pe-ds-050-2018-pcm",
+  "type": "statute",
+  "title": "Decreto Supremo N° 050-2018-PCM — Decreto Supremo que aprueba el Modelo de Gestión de Datos del Sector Público",
+  "title_en": "Supreme Decree 050-2018-PCM — Digital Government Data Governance Framework",
+  "short_name": "MGDSP",
+  "status": "in_force",
+  "issued_date": "2018-05-16",
+  "in_force_date": "2018-05-17",
+  "url": "https://www.gob.pe/institucion/pcm/normas-legales/271375-050-2018-pcm",
+  "description": "El Decreto Supremo N° 050-2018-PCM aprueba el Modelo de Gestión de Datos del Sector Público peruano, estableciendo los principios, lineamientos y estándares para la gestión de datos públicos en el marco del Gobierno Digital. Regula la interoperabilidad de sistemas de información entre entidades públicas, la reutilización de datos públicos, la seguridad de la información gubernamental, y la arquitectura de datos del sector público.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Objeto",
+      "content": "El presente Decreto Supremo tiene por objeto aprobar el Modelo de Gestión de Datos del Sector Público y los lineamientos para la gestión, intercambio, integración, uso y seguridad de los datos en el sector público peruano, en el marco del Gobierno Digital. El Modelo de Gestión de Datos del Sector Público establece los principios, estándares, arquitectura y mecanismos que deben adoptar las entidades del sector público para asegurar la disponibilidad, calidad, seguridad e interoperabilidad de los datos públicos. La Secretaría de Gobierno Digital de la Presidencia del Consejo de Ministros es la entidad rectora del Modelo de Gestión de Datos del Sector Público y tiene a su cargo la supervisión de su implementación. Las disposiciones del presente Decreto Supremo son de aplicación obligatoria para todas las entidades de la Administración Pública."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Principios de Gestión de Datos",
+      "content": "La gestión de datos en el sector público se rige por los siguientes principios: 1. Apertura: Los datos públicos son accesibles para su consulta y reutilización por defecto, salvo las excepciones establecidas por ley. 2. Calidad: Los datos deben ser exactos, completos, actualizados y pertinentes para los fines para los que fueron recopilados. 3. Seguridad: Los datos deben estar protegidos contra accesos no autorizados, alteraciones, pérdidas o destrucciones. 4. Interoperabilidad: Los datos deben poder ser compartidos e integrados entre distintas entidades del sector público. 5. Privacidad desde el diseño: Los sistemas de información deben incorporar medidas de protección de datos personales desde su concepción. 6. Responsabilidad: Las entidades del sector público son responsables de la gestión de los datos bajo su custodia. 7. Proporcionalidad: La recopilación de datos se limita a lo estrictamente necesario para la finalidad declarada."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Arquitectura de Datos del Sector Público",
+      "content": "La Secretaría de Gobierno Digital aprueba y mantiene actualizada la Arquitectura de Datos del Sector Público, que establece el modelo de referencia para la gestión de datos en las entidades públicas, incluyendo: 1. El catálogo de datos del sector público, con la descripción de los conjuntos de datos disponibles. 2. Los estándares de metadatos para la descripción de los conjuntos de datos. 3. Los modelos de datos de referencia para las entidades públicas. 4. Los estándares de intercambio de datos entre entidades. 5. La infraestructura técnica compartida para el almacenamiento y procesamiento de datos. Las entidades del sector público deben alinear sus arquitecturas de datos con la Arquitectura de Datos del Sector Público. La Secretaría de Gobierno Digital brinda asistencia técnica a las entidades para la implementación de la arquitectura de datos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Interoperabilidad de Sistemas de Información",
+      "content": "Las entidades del sector público deben garantizar la interoperabilidad de sus sistemas de información para facilitar el intercambio de datos entre entidades y mejorar la prestación de servicios a los ciudadanos. La interoperabilidad se implementa a través de la Plataforma de Interoperabilidad del Estado (PIDE), administrada por la Secretaría de Gobierno Digital. Las entidades deben: 1. Publicar sus servicios de datos en la PIDE conforme a los estándares establecidos. 2. Consumir los servicios de datos de otras entidades a través de la PIDE, evitando la recolección duplicada de datos de ciudadanos. 3. Mantener actualizados los datos compartidos en la PIDE. 4. Implementar mecanismos de control de acceso a sus servicios de datos. El principio 'once only' establece que los ciudadanos no deben proporcionar la misma información más de una vez a las entidades del sector público. Las entidades deben intercambiar datos entre sí para evitar solicitar a los ciudadanos información que ya obra en poder del Estado."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Datos Abiertos del Gobierno",
+      "content": "Las entidades del sector público deben publicar los datos que generan o custodian como datos abiertos, en formatos reutilizables y legibles por máquinas, en el Portal Nacional de Datos Abiertos administrado por la Secretaría de Gobierno Digital. Los datos abiertos del gobierno deben publicarse bajo licencias que permitan su libre acceso, uso, modificación y redistribución. Se exceptúan de la publicación como datos abiertos los datos personales, los datos clasificados como reservados conforme a la Ley de Transparencia, y los datos cuya publicación pueda vulnerar derechos de propiedad intelectual. Las entidades deben priorizar la publicación de datos de alta relevancia para la sociedad, incluyendo datos estadísticos, geográficos, presupuestarios, de salud pública y educación. La Secretaría de Gobierno Digital establece los estándares de metadatos y los formatos de publicación de datos abiertos."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Seguridad de la Información en el Sector Público",
+      "content": "Las entidades del sector público deben implementar sistemas de gestión de seguridad de la información conforme a los estándares internacionales reconocidos, incluyendo la norma ISO/IEC 27001 o equivalente. Las medidas de seguridad de la información deben incluir: 1. Clasificación de la información según su nivel de sensibilidad. 2. Control de acceso basado en el principio del mínimo privilegio. 3. Gestión de incidentes de seguridad de la información. 4. Planes de continuidad del negocio y recuperación ante desastres. 5. Gestión de vulnerabilidades y actualizaciones de seguridad. 6. Capacitación periódica del personal en seguridad de la información. Los incidentes de seguridad de la información que afecten sistemas de información del sector público deben ser comunicados inmediatamente a la Secretaría de Gobierno Digital. La Secretaría de Gobierno Digital establece el marco de ciberseguridad del sector público."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Nube del Estado Peruano",
+      "content": "La Secretaría de Gobierno Digital promueve el uso de servicios de computación en nube por parte de las entidades del sector público, siguiendo los principios de cloud-first y cloud-by-default. Las entidades pueden contratar servicios de nube de proveedores privados o utilizar la infraestructura de nube del Estado peruano. Los datos clasificados como de alta sensibilidad o críticos para la seguridad nacional deben almacenarse en infraestructura ubicada en el territorio peruano o en infraestructura certificada con estándares equivalentes. Los servicios de nube contratados por las entidades del sector público deben cumplir los estándares de seguridad establecidos por la Secretaría de Gobierno Digital. Las entidades del sector público deben garantizar la portabilidad de sus datos para evitar dependencias exclusivas de proveedores de nube específicos. Los contratos de servicios de nube deben incluir cláusulas de protección de datos y auditoría."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Identidad Digital",
+      "content": "La Secretaría de Gobierno Digital promueve el desarrollo de la identidad digital ciudadana como mecanismo para el acceso seguro a los servicios públicos digitales. El sistema de identidad digital del Estado peruano se basa en el DNI electrónico emitido por el RENIEC y en la firma digital certificada por la IOFE. Las entidades del sector público deben aceptar la identidad digital para la autenticación de ciudadanos en sus servicios digitales. El nivel de seguridad requerido para la autenticación digital debe ser proporcional al riesgo y la sensibilidad de los datos o servicios a los que se accede. La Secretaría de Gobierno Digital establece los estándares de interoperabilidad para la identidad digital en el sector público. Los ciudadanos pueden revocar su identidad digital en cualquier momento, sin perjuicio de las obligaciones legales que hayan contraído mediante el uso de dicha identidad."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Analítica de Datos para Políticas Públicas",
+      "content": "Las entidades del sector público pueden utilizar técnicas de analítica de datos, incluyendo inteligencia artificial y aprendizaje automático, para mejorar la formulación e implementación de políticas públicas y la prestación de servicios a los ciudadanos. El uso de analítica de datos en el sector público debe: 1. Cumplir con las normas de protección de datos personales vigentes. 2. Garantizar la transparencia y explicabilidad de los modelos utilizados. 3. Evitar sesgos discriminatorios en los resultados. 4. Someterse a evaluaciones periódicas de impacto en los derechos de los ciudadanos. 5. Documentar los modelos utilizados y los datos de entrenamiento. Los resultados de los análisis de datos utilizados para la toma de decisiones de carácter individual que afecten los derechos de los ciudadanos deben ser explicables y susceptibles de revisión. La Secretaría de Gobierno Digital emite lineamientos para el uso ético de la analítica de datos en el sector público."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Gobernanza de Datos",
+      "content": "Cada entidad del sector público debe designar un responsable de datos (Chief Data Officer) o función equivalente, encargado de: 1. Supervisar la implementación del Modelo de Gestión de Datos en la entidad. 2. Garantizar la calidad e integridad de los datos bajo responsabilidad de la entidad. 3. Coordinar el intercambio de datos con otras entidades a través de la PIDE. 4. Supervisar la publicación de datos abiertos. 5. Gestionar los incidentes relacionados con los datos de la entidad. 6. Reportar periódicamente a la Secretaría de Gobierno Digital sobre el estado de la gestión de datos. El responsable de datos debe tener formación técnica y experiencia en gestión de datos. La Secretaría de Gobierno Digital establece las competencias y responsabilidades mínimas del responsable de datos en el sector público. Las entidades deben incluir la gestión de datos en sus planes operativos institucionales."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Estándares Técnicos y Marcos de Referencia",
+      "content": "La Secretaría de Gobierno Digital aprueba y mantiene actualizados los estándares técnicos, marcos de referencia y guías de implementación para la gestión de datos en el sector público, incluyendo: 1. Estándares de metadatos para la descripción de conjuntos de datos. 2. Formatos de intercambio de datos entre entidades. 3. Protocolos de seguridad para el intercambio de datos sensibles. 4. Estándares de calidad de datos. 5. Marcos de referencia para la clasificación de datos. 6. Guías de implementación de datos abiertos. Los estándares técnicos adoptados por la Secretaría de Gobierno Digital son de aplicación obligatoria para las entidades del sector público. La Secretaría de Gobierno Digital puede adoptar estándares internacionales reconocidos cuando sean aplicables al contexto peruano. Los estándares técnicos son publicados y actualizados en el portal de la Secretaría de Gobierno Digital."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Infraestructura Compartida de Datos",
+      "content": "La Secretaría de Gobierno Digital pone a disposición de las entidades del sector público infraestructura compartida para el almacenamiento, procesamiento e intercambio de datos, incluyendo: 1. La Plataforma de Interoperabilidad del Estado (PIDE). 2. El Portal Nacional de Datos Abiertos. 3. Servicios de nube del Estado peruano. 4. Servicios de identidad digital y autenticación. 5. Plataformas de analítica de datos. Las entidades del sector público deben utilizar preferentemente la infraestructura compartida de datos antes de contratar soluciones propias. El uso de la infraestructura compartida de datos está sujeto a las condiciones de uso y a los acuerdos de nivel de servicio establecidos por la Secretaría de Gobierno Digital. Las entidades que detecten incidentes de seguridad en la infraestructura compartida de datos deben notificarlos de inmediato a la Secretaría de Gobierno Digital."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Supervisión y Cumplimiento",
+      "content": "La Secretaría de Gobierno Digital supervisa el cumplimiento del Modelo de Gestión de Datos por parte de las entidades del sector público, pudiendo realizar auditorías técnicas, solicitar información sobre el estado de implementación y emitir recomendaciones. Los resultados de la supervisión son comunicados a los titulares de las entidades públicas y al órgano de control institucional correspondiente. La Contraloría General de la República puede incluir en sus planes de control la verificación del cumplimiento del Modelo de Gestión de Datos por parte de las entidades del sector público. Los incumplimientos del Modelo de Gestión de Datos constituyen faltas administrativas sujetas a las sanciones establecidas en el régimen disciplinario de los servidores públicos. La Secretaría de Gobierno Digital publica anualmente un informe sobre el estado de implementación del Modelo de Gestión de Datos en el sector público."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Capacitación y Fortalecimiento de Capacidades",
+      "content": "La Secretaría de Gobierno Digital, en coordinación con la Autoridad Nacional del Servicio Civil (SERVIR), desarrolla programas de capacitación para los servidores públicos en materia de gestión de datos, incluyendo: 1. Conceptos básicos de gestión de datos y gobierno de datos. 2. Protección de datos personales y seguridad de la información. 3. Uso de herramientas de analítica de datos. 4. Estándares y marcos de referencia para la gestión de datos en el sector público. 5. Ética en el uso de datos e inteligencia artificial. Los responsables de datos de las entidades del sector público deben completar los programas de capacitación establecidos por la Secretaría de Gobierno Digital. SERVIR incorpora las competencias en gestión de datos en los perfiles de puestos del sector público. Los programas de capacitación son ofrecidos en modalidades presencial y virtual, de acceso gratuito para los servidores públicos."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Implementación y Plazos",
+      "content": "Las entidades del sector público implementarán el Modelo de Gestión de Datos conforme al cronograma establecido por la Secretaría de Gobierno Digital, que priorizará las entidades de mayor impacto en la prestación de servicios a los ciudadanos. Dentro de los noventa días siguientes a la publicación del presente Decreto Supremo, las entidades del sector público deberán: 1. Designar al responsable de datos de la entidad y comunicarlo a la Secretaría de Gobierno Digital. 2. Realizar un inventario de los datos bajo su responsabilidad. 3. Elaborar un plan de implementación del Modelo de Gestión de Datos. La Secretaría de Gobierno Digital brindará asistencia técnica y recursos metodológicos a las entidades para la implementación del Modelo de Gestión de Datos. El incumplimiento de los plazos establecidos será comunicado a la Contraloría General de la República para los fines pertinentes."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "datos del sector público",
+      "definition": "Información generada, recopilada, custodiada o financiada por las entidades del sector público en el ejercicio de sus funciones.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "interoperabilidad",
+      "definition": "Capacidad de los sistemas de información de comunicarse, intercambiar datos y utilizar la información que han intercambiado de manera eficiente y eficaz.",
+      "source_provision": "art4"
+    },
+    {
+      "term": "datos abiertos",
+      "definition": "Datos públicos disponibles en formatos digitales reutilizables, accesibles a cualquier persona de forma gratuita, bajo licencias que permiten su libre uso, modificación y redistribución.",
+      "source_provision": "art5"
+    },
+    {
+      "term": "Plataforma de Interoperabilidad del Estado",
+      "definition": "Infraestructura tecnológica del Estado peruano que facilita el intercambio seguro de datos entre las entidades del sector público mediante servicios web estandarizados.",
+      "source_provision": "art4"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "pe-ley-27291",
+  "type": "statute",
+  "title": "Ley N° 27291 — Ley que modifica el Código Civil permitiendo la utilización de los medios electrónicos para la comunicación de la manifestación de voluntad y la utilización de la firma electrónica",
+  "title_en": "Law 27291 — Electronic Commerce / Electronic Manifestation of Will",
+  "short_name": "LMVE",
+  "status": "in_force",
+  "issued_date": "2000-06-23",
+  "in_force_date": "2000-06-24",
+  "url": "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/6692-27291",
+  "description": "La Ley N° 27291 modifica el Código Civil peruano para reconocer la validez legal de la manifestación de voluntad realizada a través de medios electrónicos y el uso de la firma electrónica en los actos y contratos celebrados por medios digitales. Establece el marco legal básico para el comercio electrónico en el Perú, reconociendo la equivalencia funcional entre los documentos electrónicos y los documentos en papel.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Modificación del Código Civil",
+      "content": "Modifícase el artículo 141 del Código Civil, en los términos siguientes: 'Artículo 141.- Manifestación de voluntad. La manifestación de voluntad puede ser expresa o tácita. Es expresa cuando se realiza en forma oral, escrita, a través de cualquier medio directo, manual, mecánico, electrónico u otro análogo. Es tácita cuando la voluntad se infiere indubitablemente de una actitud o de circunstancias de comportamiento que revelan su existencia. No puede considerarse que existe manifestación tácita cuando la ley exige declaración expresa o cuando el agente formula reserva o declaración en contrario.' La presente modificación extiende el reconocimiento legal a todos los medios de comunicación electrónica, incluyendo el correo electrónico, los formularios en línea, y cualquier otro medio digital que permita la expresión inequívoca de la voluntad de las partes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Firma Electrónica",
+      "content": "Incorpórase el artículo 141-A al Código Civil, con el siguiente texto: 'Artículo 141-A.- Formalidad. En los casos en que la ley establezca que la manifestación de voluntad deba hacerse a través de alguna formalidad expresa o requiera de firma, ésta podrá ser generada o comunicada a través de medios electrónicos, ópticos o cualquier otro análogo. Tratándose de instrumentos que deban ser extendidos en escritura pública, no se admitirá su sustitución por cualquier medio electrónico. Para efectos del presente artículo, la firma electrónica es aquella que, utilizando una técnica de identificación, permite la identificación del firmante y la verificación de su identidad, siempre que dicha técnica tenga fiabilidad equivalente a la firma manuscrita.' La firma electrónica tiene la misma validez y eficacia jurídica que la firma manuscrita, siempre que se cumplan los requisitos técnicos y de seguridad establecidos en la ley y su reglamento."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3. Validez del Contrato Electrónico",
+      "content": "Los contratos celebrados mediante medios electrónicos son válidos y producen los mismos efectos jurídicos que los celebrados en soporte papel, siempre que se cumplan los requisitos de validez establecidos en el Código Civil. El contrato electrónico se perfecciona en el momento en que la aceptación del destinatario es conocida por el oferente. En los contratos electrónicos celebrados entre partes que se encuentran en lugares distintos, se presume que el contrato se celebra en el lugar donde se efectuó la oferta. La utilización de medios electrónicos para la celebración de contratos no modifica las normas sobre competencia judicial establecidas en el Código Civil y las leyes procesales. Los operadores de plataformas de comercio electrónico deben proporcionar a los consumidores información clara sobre las condiciones del contrato antes de su perfeccionamiento."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4. Oferta Electrónica",
+      "content": "La oferta realizada a través de medios electrónicos tiene los mismos efectos que la oferta realizada por otros medios, conforme a las disposiciones del Código Civil. La oferta se entiende hecha al público cuando es accesible a través de medios electrónicos sin requerir identificación específica del destinatario. El oferente puede revocar la oferta mientras no haya sido aceptada, siempre que la revocación llegue al destinatario antes o al mismo tiempo que la oferta. En las transacciones electrónicas con consumidores, el oferente debe: 1. Identificarse claramente con su nombre o denominación social, domicilio y datos de contacto. 2. Describir con precisión los bienes o servicios ofrecidos. 3. Informar el precio total, incluidos los impuestos y los gastos de envío. 4. Indicar los medios de pago aceptados. 5. Informar sobre el derecho de desistimiento y las condiciones de devolución."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5. Aceptación Electrónica",
+      "content": "La aceptación de una oferta realizada a través de medios electrónicos produce efectos desde el momento en que es enviada por el aceptante. No obstante, la aceptación no produce efectos si no llega a conocimiento del oferente. El oferente está obligado a confirmar la recepción de la aceptación mediante acuse de recibo electrónico enviado al aceptante de manera inmediata. La falta de confirmación de recepción por parte del oferente faculta al aceptante a revocar su aceptación. En las transacciones con consumidores, el sistema electrónico debe permitir al usuario verificar el pedido antes de confirmar la aceptación, con posibilidad de corregir errores. La confirmación de la aceptación debe incluir un resumen de las condiciones del contrato, el precio y la información necesaria para el seguimiento del pedido."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6. Documento Electrónico",
+      "content": "El documento electrónico es aquel que, siendo generado, comunicado, recibido o archivado por medios electrónicos, sea susceptible de ser almacenado, recuperado y comunicado posteriormente. Los documentos electrónicos tienen el mismo valor jurídico que los documentos en soporte papel, siempre que: 1. La información contenida en el documento sea accesible para su posterior consulta. 2. El documento esté archivado en el formato en que se generó, envió o recibió, o en un formato que permita reproducir con exactitud la información generada, enviada o recibida. 3. Se conserven los datos que permitan determinar el origen y el destino del documento, así como la fecha y la hora de su envío o recepción. Los documentos electrónicos que incorporen firma digital certificada gozan de presunción de autenticidad e integridad."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Protección del Consumidor en el Comercio Electrónico",
+      "content": "En las transacciones de comercio electrónico con consumidores son de aplicación las normas del Código de Protección y Defensa del Consumidor, aprobado por la Ley N° 29571. Los consumidores que contraten a través de medios electrónicos tienen derecho a: 1. Recibir información clara y completa sobre los bienes y servicios ofrecidos antes de celebrar el contrato. 2. Desistir del contrato dentro de los quince días hábiles siguientes a la fecha de entrega del bien o celebración del contrato de servicios, sin necesidad de justificación y sin penalización. 3. Recibir confirmación de su pedido por medios electrónicos. 4. Ser informados sobre el uso que el proveedor dará a sus datos personales. 5. Acceder a mecanismos de resolución de conflictos gratuitos o de bajo costo. INDECOPI es la autoridad competente para supervisar el cumplimiento de los derechos de los consumidores en el comercio electrónico."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8. Responsabilidad de los Proveedores de Servicios Intermediarios",
+      "content": "Los proveedores de servicios intermediarios de la sociedad de la información no serán responsables por la información almacenada a petición de los destinatarios del servicio, siempre que: 1. No tengan conocimiento efectivo de que la actividad o la información es ilícita y, en cuanto a reclamaciones de daños y perjuicios, no tengan conocimiento de hechos o circunstancias por los que la actividad o la información revele su carácter ilícito. 2. En cuanto tengan conocimiento efectivo de lo anterior, actúen con prontitud para retirar los datos o hacer que el acceso a ellos sea imposible. Los proveedores de servicios de alojamiento no están obligados a supervisar de manera proactiva los contenidos almacenados, ni a buscar activamente hechos o circunstancias que indiquen actividades ilícitas. Esta exención de responsabilidad no afecta la posibilidad de que un tribunal o autoridad administrativa exija al proveedor que ponga fin a una infracción o que la impida."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9. Pago Electrónico",
+      "content": "Los pagos realizados a través de medios electrónicos tienen plena validez jurídica y producen los mismos efectos que los pagos realizados por otros medios. Las entidades del sistema financiero que presten servicios de pago electrónico están obligadas a: 1. Garantizar la seguridad y la integridad de las transacciones electrónicas. 2. Implementar sistemas de autenticación robusta para la autorización de pagos. 3. Proporcionar al usuario confirmación de las transacciones realizadas. 4. Aplicar procedimientos de gestión de fraude y de protección ante transacciones no autorizadas. 5. Restituir al usuario los importes de transacciones no autorizadas en los plazos establecidos por la Superintendencia de Banca, Seguros y AFP. La Superintendencia de Banca, Seguros y AFP establece los estándares de seguridad para los servicios de pago electrónico."
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "Artículo 10. Jurisdicción y Ley Aplicable",
+      "content": "Los contratos electrónicos celebrados entre partes domiciliadas en el Perú se rigen por la ley peruana. En los contratos electrónicos con elementos internacionales, las partes pueden elegir la ley aplicable, con las limitaciones establecidas en el Derecho Internacional Privado peruano. Cuando el contrato electrónico tenga como parte a un consumidor domiciliado en el Perú, serán de aplicación en todo caso las disposiciones imperativas de la ley peruana de protección al consumidor, con independencia de la ley elegida por las partes. Los tribunales peruanos tienen jurisdicción para conocer de los conflictos derivados de contratos electrónicos cuando el demandado esté domiciliado en el Perú o cuando el contrato se haya celebrado o ejecutado en el Perú. Las partes pueden establecer cláusulas de jurisdicción en sus contratos electrónicos, con las limitaciones establecidas en las normas de protección al consumidor."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Facturación Electrónica",
+      "content": "La factura electrónica y demás comprobantes de pago electrónicos tienen la misma validez tributaria que los documentos físicos correspondientes, conforme a las normas emitidas por la Superintendencia Nacional de Aduanas y de Administración Tributaria (SUNAT). Los contribuyentes obligados a emitir comprobantes de pago electrónicos deben utilizar los sistemas informáticos autorizados por SUNAT. Los comprobantes de pago electrónicos deben ser conservados en los sistemas del emisor durante el período de prescripción tributaria. La SUNAT establece los requisitos técnicos y formales que deben cumplir los comprobantes de pago electrónicos, así como los procedimientos para su emisión, validación y conservación. Los proveedores de sistemas de emisión electrónica deben estar debidamente autorizados por SUNAT y cumplir con los estándares técnicos establecidos."
+    },
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "Artículo 12. Resolución de Conflictos en Línea",
+      "content": "Se promueve el uso de mecanismos de resolución de conflictos en línea para la solución de disputas derivadas de transacciones de comercio electrónico. INDECOPI puede establecer plataformas de resolución de conflictos en línea para la atención de reclamaciones de consumidores en materia de comercio electrónico. Los proveedores de servicios de comercio electrónico deben facilitar el acceso de los consumidores a mecanismos de resolución alternativa de conflictos. La utilización de cláusulas que impongan al consumidor la renuncia previa a sus derechos o que limiten de manera abusiva el acceso a la justicia es nula de pleno derecho. INDECOPI puede establecer un sistema de marcas de confianza para los operadores de comercio electrónico que cumplan con los estándares de protección al consumidor."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Comercio Electrónico Transfronterizo",
+      "content": "El Estado peruano promueve el desarrollo del comercio electrónico transfronterizo en condiciones de igualdad y en el marco de los acuerdos comerciales internacionales suscritos por el Perú. Los operadores extranjeros que ofrezcan bienes y servicios a consumidores domiciliados en el Perú a través de medios electrónicos están sujetos a las normas de protección al consumidor establecidas en la legislación peruana cuando los efectos del contrato se producen en el territorio peruano. La Comisión de Protección al Consumidor de INDECOPI puede iniciar procedimientos contra operadores extranjeros de comercio electrónico en el marco de los mecanismos de cooperación internacional establecidos. El Ministerio de Comercio Exterior y Turismo coordina con las autoridades competentes las negociaciones de acuerdos internacionales en materia de comercio electrónico."
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "Artículo 14. Entidades de Certificación",
+      "content": "Las entidades de certificación son aquellas personas jurídicas que emiten certificados digitales y que están acreditadas por el Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (INDECOPI). Los certificados digitales emitidos por entidades de certificación acreditadas gozan de presunción de autenticidad. Las entidades de certificación acreditadas deben: 1. Verificar la identidad de los solicitantes de certificados. 2. Garantizar la integridad y autenticidad de los certificados emitidos. 3. Mantener un registro actualizado de los certificados emitidos y revocados. 4. Cumplir con los estándares técnicos establecidos por el INDECOPI. 5. Proporcionar servicios de verificación de firma electrónica. La infraestructura de clave pública del Estado peruano es administrada por la Oficina Nacional de Gobierno Digital."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Vigencia y Disposiciones Complementarias",
+      "content": "La presente Ley entra en vigencia al día siguiente de su publicación en el Diario Oficial El Peruano. El Poder Ejecutivo, mediante decreto supremo refrendado por los ministros competentes, aprobará el reglamento de la presente Ley dentro de los noventa días siguientes a su entrada en vigencia. Las normas reglamentarias establecerán los requisitos técnicos y de seguridad que deben cumplir los medios electrónicos utilizados para la manifestación de voluntad y la firma electrónica. INDECOPI emitirá las normas técnicas complementarias necesarias para la implementación de la presente Ley, en coordinación con las entidades del sector público competentes. Las disposiciones de la presente Ley se aplican con preferencia sobre otras normas en materia de comercio electrónico, sin perjuicio de la aplicación de las normas especiales que regulen sectores específicos."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "medio electrónico",
+      "definition": "Cualquier dispositivo, sistema o técnica de tratamiento y transmisión de la información que utilice señales eléctricas, digitales, magnéticas, ópticas, electromagnéticas u otras similares.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "firma electrónica",
+      "definition": "Técnica de identificación que permite la identificación del firmante y la verificación de su identidad, con fiabilidad equivalente a la firma manuscrita.",
+      "source_provision": "art2"
+    },
+    {
+      "term": "documento electrónico",
+      "definition": "Documento generado, comunicado, recibido o archivado por medios electrónicos, susceptible de ser almacenado, recuperado y comunicado posteriormente.",
+      "source_provision": "art6"
+    },
+    {
+      "term": "entidad de certificación",
+      "definition": "Persona jurídica que emite certificados digitales y que está acreditada por INDECOPI, garantizando la identidad de los firmantes y la integridad de los documentos electrónicos.",
+      "source_provision": "art14"
+    }
+  ]
+}

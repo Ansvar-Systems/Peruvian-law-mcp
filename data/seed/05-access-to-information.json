@@ -1,0 +1,109 @@
+{
+  "id": "pe-ley-27806",
+  "type": "statute",
+  "title": "Ley N° 27806 — Ley de Transparencia y Acceso a la Información Pública",
+  "title_en": "Law 27806 — Transparency and Access to Public Information Law",
+  "short_name": "LTAIP",
+  "status": "in_force",
+  "issued_date": "2002-08-02",
+  "in_force_date": "2003-01-07",
+  "url": "https://www.gob.pe/institucion/congreso-de-la-republica/normas-legales/6688-27806",
+  "description": "La Ley N° 27806 garantiza el derecho fundamental de toda persona a solicitar sin expresión de causa información de cualquier entidad pública y a recibirla en el plazo legal establecido. La norma establece el principio de publicidad como regla general para la información pública, las excepciones al acceso por razones de seguridad nacional, secreto comercial o datos personales, y los mecanismos de transparencia activa que obligan a las entidades públicas a publicar información en sus portales institucionales.",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1. Alcance de la Ley",
+      "content": "La presente Ley tiene por finalidad promover la transparencia de los actos del Estado y regular el derecho fundamental del acceso a la información consagrado en el numeral 5 del Artículo 2 de la Constitución Política del Perú. El principio general es la publicidad de la información de las entidades públicas. Toda información que posea el Estado se presume pública, salvo las excepciones expresamente previstas por el Artículo 15 de la presente Ley. El Estado adopta medidas básicas que garanticen y promuevan la transparencia en la actuación de las entidades de la Administración Pública. El Estado también fomenta una cultura de transparencia en sus funcionarios y servidores públicos, así como en la ciudadanía. Las disposiciones de la presente Ley se aplican a todas las entidades de la Administración Pública señaladas en el artículo I del Título Preliminar de la Ley del Procedimiento Administrativo General."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2. Entidades Obligadas",
+      "content": "Las entidades obligadas a brindar información y a publicar la información señalada en la presente Ley son las siguientes: 1. El Poder Ejecutivo, incluyendo Ministerios y Organismos Públicos. 2. El Poder Legislativo. 3. El Poder Judicial. 4. Los Gobiernos Regionales. 5. Los Gobiernos Locales. 6. Los Organismos Constitucionales Autónomos. 7. Las empresas del Estado o en las que el Estado sea accionista mayoritario. 8. Toda persona jurídica que capte fondos públicos o preste servicios públicos. 9. Las personas jurídicas privadas que administren fondos públicos. Para los efectos de la presente Ley, también se consideran entidades públicas aquellas que sin ser parte de la estructura del Estado tienen delegadas potestades de derecho público o administran bienes o recursos públicos."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7. Legitimación y Requerimiento de Información",
+      "content": "Todas las personas tienen el derecho de solicitar y recibir información de cualquier entidad de la Administración Pública. En ningún caso se exige expresión de causa para el ejercicio de este derecho. El pedido de información no implica la obligación de las entidades de la Administración Pública de crear o producir información con la que no cuente o no tenga obligación de contar al momento de efectuarse el pedido. La solicitud de información puede formularse de manera verbal, escrita o a través de medios electrónicos, con indicación del nombre y domicilio del solicitante. Las entidades obligadas deben proporcionar la información en el formato solicitado por el ciudadano, siempre que este sea compatible con los medios técnicos de la entidad. Cuando la información solicitada exista en formato electrónico, se proporcionará preferentemente en ese formato."
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11. Procedimiento de Acceso",
+      "content": "El acceso a la información pública se sujeta al siguiente procedimiento: 1. Toda solicitud de información debe ser dirigida al funcionario designado por la entidad pública para tal efecto, quien tiene la obligación de proporcionar la información requerida con un máximo de siete (7) días útiles, prorrogables en forma excepcional por cinco (5) días útiles adicionales. 2. La entidad pública debe establecer el o los medios por los cuales los ciudadanos pueden presentar su solicitud. En ningún caso podrá exigirse documentación adicional a la sola solicitud con los datos de identificación del solicitante. 3. La entidad pública que recibe la solicitud puede solicitar la ampliación del plazo de respuesta, mediante comunicación motivada al solicitante, cuando la información requerida sea de gran volumen o de difícil recopilación. 4. Si la entidad no tiene la información requerida, debe comunicarlo al solicitante e indicar, si lo sabe, cuál es la entidad que posee dicha información. 5. El costo de reproducción de la información es asumido por el solicitante."
+    },
+    {
+      "provision_ref": "art13",
+      "section": "13",
+      "title": "Artículo 13. Transparencia Activa — Portal de Transparencia",
+      "content": "Las entidades de la Administración Pública están obligadas a publicar en sus portales de internet la siguiente información: 1. Datos generales de la entidad: misión, visión, organización, bases legales. 2. Información presupuestaria: presupuestos institucionales de apertura y modificados, estados financieros, información de ejecución presupuestaria. 3. Adquisiciones de bienes y servicios: procesos de selección, contratos suscritos, montos y proveedores. 4. Actividades oficiales de los altos funcionarios. 5. Información del personal: número de funcionarios y servidores, remuneraciones, escala salarial. 6. Proyectos de inversión en ejecución: estado de avance y costos. 7. Información sobre concesiones otorgadas. Las entidades deben actualizar la información publicada en sus portales con una periodicidad mínima trimestral para la información presupuestaria y mensual para la información de adquisiciones."
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15. Excepciones al Ejercicio del Derecho de Acceso",
+      "content": "Son excepciones al ejercicio del derecho de acceso a la información pública: 1. Información clasificada como secreta que sustente o esté relacionada con la defensa nacional, el orden interno y la seguridad nacional. 2. Información protegida por el secreto bancario, tributario, comercial, industrial, tecnológico y bursátil. 3. Información vinculada a investigaciones en trámite, cuando su divulgación pueda interferir con el proceso de investigación. 4. Información preparada u obtenida por asesores jurídicos o abogados de las entidades de la Administración Pública, cuya publicidad pudiera revelar la estrategia a adoptarse en la tramitación o defensa en un proceso administrativo o judicial. 5. Información referida a los datos personales cuya publicidad constituya una invasión de la intimidad personal y familiar. Las excepciones señaladas son de interpretación restrictiva. La denegatoria de acceso debe estar debidamente fundamentada. La información clasificada como reservada debe ser revisada periódicamente para verificar la subsistencia de los motivos que justificaron su clasificación."
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "Artículo 17. Denegatoria de Acceso a la Información",
+      "content": "La denegatoria de acceso a la información por parte de cualquier entidad de la Administración Pública se sujeta a las siguientes reglas: 1. Debe ser por escrito y debidamente fundamentada, señalando expresamente las razones de hecho y de derecho que la sustentan. 2. Debe indicar el plazo y el recurso administrativo o judicial que procede contra la denegatoria. 3. No cabe la denegatoria de acceso tácita; el silencio de la entidad se interpreta como denegatoria y habilita al ciudadano para interponer el recurso de apelación. 4. El funcionario responsable de la denegatoria injustificada incurre en falta grave, sin perjuicio de su responsabilidad penal y civil. Los recursos administrativos contra la denegatoria se resuelven en el plazo máximo de diez (10) días hábiles. La resolución que resuelva el recurso administrativo agota la vía administrativa y habilita la interposición de la acción de habeas data."
+    },
+    {
+      "provision_ref": "art19",
+      "section": "19",
+      "title": "Artículo 19. Responsabilidades e Infracciones",
+      "content": "Los funcionarios o servidores públicos que incumplan con las disposiciones de la presente Ley son sancionados por la comisión de una falta grave, pudiendo ser incluso sancionados con la suspensión y hasta con la resolución del vínculo laboral o contractual, previo proceso administrativo. El funcionario que arbitrariamente obstruya el acceso del solicitante a la información requerida, o que proporcione documentos adulterados, incompletos o en una versión distinta a la solicitada, incurre en infracción muy grave. La falsificación o adulteración de documentos para frustrar el ejercicio del derecho de acceso a la información configura los delitos tipificados en el Código Penal. El denunciante de una infracción a la presente Ley goza de protección especial, no pudiendo ser objeto de represalias por parte de la entidad pública o sus funcionarios. La Contraloría General de la República supervisa el cumplimiento de las disposiciones de la presente Ley."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Artículo 21. Informes al Congreso",
+      "content": "La Presidencia del Consejo de Ministros, a través de la Secretaría de Gestión Pública, presenta anualmente al Congreso de la República un informe sobre el cumplimiento de las disposiciones de la presente Ley por parte de las entidades de la Administración Pública. El informe debe incluir: 1. Número de solicitudes de información recibidas por las entidades públicas. 2. Número de solicitudes atendidas en el plazo legal y número de denegatorias. 3. Estadísticas sobre los motivos de denegatoria. 4. Estado de implementación y actualización de los portales de transparencia. 5. Sanciones impuestas a funcionarios por incumplimiento de la ley. Las entidades de la Administración Pública están obligadas a proporcionar la información estadística necesaria para la elaboración del informe anual. El informe es publicado en el portal de internet de la Presidencia del Consejo de Ministros."
+    },
+    {
+      "provision_ref": "art22",
+      "section": "22",
+      "title": "Artículo 22. Habeas Data",
+      "content": "El proceso de habeas data procede contra el acto u omisión de cualquier funcionario, autoridad o persona que vulnera o amenaza el derecho fundamental de acceso a la información pública reconocido en el numeral 5 del artículo 2 de la Constitución Política del Perú. El habeas data es tramitado ante el Poder Judicial conforme al procedimiento establecido en el Código Procesal Constitucional. El juez puede ordenar la entrega inmediata de la información requerida cuando así lo justifiquen las circunstancias del caso. La resolución que ordena la entrega de la información es de ejecución inmediata. El incumplimiento de la resolución judicial que ordena la entrega de información es sancionado con multa progresiva e incluso con detención del funcionario responsable hasta por un máximo de cinco días, conforme a las normas del Código Procesal Constitucional."
+    },
+    {
+      "provision_ref": "art23",
+      "section": "23",
+      "title": "Artículo 23. Comisión de Acceso a la Información",
+      "content": "Créase la Comisión de Acceso a la Información Pública como órgano consultivo y de supervisión del cumplimiento de la presente Ley, adscrita a la Presidencia del Consejo de Ministros. La Comisión está integrada por representantes de la sociedad civil, del Poder Judicial, del Ministerio de Justicia y de la Defensoría del Pueblo. Sus funciones son: proponer medidas para mejorar la implementación de la ley; emitir opiniones sobre proyectos normativos; elaborar estadísticas sobre el ejercicio del derecho de acceso; promover la cultura de transparencia; y supervisar la implementación de los portales de transparencia. La Comisión puede formular recomendaciones a las entidades públicas que incumplan con las disposiciones de la ley y dar cuenta al Congreso de los casos de incumplimiento reiterado."
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Artículo 24. Información de Acceso Público en Soporte Electrónico",
+      "content": "Las entidades de la Administración Pública están obligadas a mantener actualizada en formato electrónico toda aquella información que sea de acceso público. La información debe ser accesible a través de internet en sus portales institucionales, con formatos que permitan la descarga, búsqueda y reutilización de los datos. La información debe presentarse en formato de datos abiertos cuando sea factible técnicamente. Las entidades deben garantizar la accesibilidad de sus portales de transparencia a personas con discapacidad, conforme a los estándares internacionales de accesibilidad web. La Secretaría de Gobierno Digital de la Presidencia del Consejo de Ministros establece los estándares técnicos y los plazos para la implementación de los portales de transparencia. Las entidades que no cuenten con recursos tecnológicos suficientes pueden solicitar apoyo técnico a la Secretaría de Gobierno Digital."
+    },
+    {
+      "provision_ref": "art25",
+      "section": "25",
+      "title": "Artículo 25. Disposiciones Finales y Transitorias",
+      "content": "El Poder Ejecutivo, mediante decreto supremo refrendado por el Presidente del Consejo de Ministros, aprobará el Texto Único Ordenado de la presente Ley dentro de los noventa días siguientes a su entrada en vigencia. Dentro de los treinta días siguientes a la entrada en vigencia de la presente Ley, cada entidad pública deberá designar al funcionario responsable de entregar la información que soliciten los ciudadanos, así como al funcionario responsable del portal de transparencia institucional. El incumplimiento de la designación de los funcionarios responsables constituye infracción leve sancionable conforme al artículo 19 de la presente Ley. Las entidades públicas que al momento de la entrada en vigencia de la presente Ley no cuenten con portal de internet deberán implementarlo en un plazo máximo de ciento ochenta días."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "información pública",
+      "definition": "Toda información que posea el Estado, independientemente del soporte en que se encuentre, que haya sido creada u obtenida por él, que se encuentre bajo su control o custodia, o cuya producción haya sido financiada total o parcialmente con fondos públicos.",
+      "source_provision": "art1"
+    },
+    {
+      "term": "transparencia activa",
+      "definition": "Obligación de las entidades públicas de publicar en sus portales de internet, de manera proactiva y periódica, la información que la ley establece como de acceso público sin necesidad de solicitud previa.",
+      "source_provision": "art13"
+    },
+    {
+      "term": "información clasificada",
+      "definition": "Información que ha sido calificada como secreta, reservada o confidencial por la autoridad competente, en virtud de los supuestos de excepción establecidos en la ley, y que por tanto está excluida del régimen general de acceso público.",
+      "source_provision": "art15"
+    }
+  ]
+}
