@@ -1,25 +1,33 @@
 /**
  * Golden contract tests for Peruvian Law MCP.
  * Validates core tool functionality against real ingested source data.
+ *
+ * Skipped in CI when the database file is not present (e.g. npm-only installs).
  */
 
 import { describe, it, expect, beforeAll } from 'vitest';
 import Database from 'better-sqlite3';
 import * as path from 'path';
+import * as fs from 'fs';
 import { fileURLToPath } from 'url';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
 
+const DB_EXISTS = fs.existsSync(DB_PATH);
+
+const describeIf = DB_EXISTS ? describe : describe.skip;
+
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!DB_EXISTS) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('journal_mode = DELETE');
 });
 
-describe('Database integrity', () => {
+describeIf('Database integrity', () => {
   it('should have a large legal-documents corpus', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
@@ -45,7 +53,7 @@ describe('Database integrity', () => {
   });
 });
 
-describe('Article retrieval', () => {
+describeIf('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
       "SELECT content FROM legal_provisions WHERE document_id = 'pe-nl-2480387-2' AND section = '12-A'"
@@ -56,7 +64,7 @@ describe('Article retrieval', () => {
   });
 });
 
-describe('Search', () => {
+describeIf('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
       "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'digital'"
@@ -65,7 +73,7 @@ describe('Search', () => {
   });
 });
 
-describe('Negative tests', () => {
+describeIf('Negative tests', () => {
   it('should return no results for fictional document', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'fictional-law-2099'"
@@ -81,7 +89,7 @@ describe('Negative tests', () => {
   });
 });
 
-describe('Key law categories are present', () => {
+describeIf('Key law categories are present', () => {
   it('should contain at least one LEY', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE description LIKE '%LEY%'"
@@ -104,7 +112,7 @@ describe('Key law categories are present', () => {
   });
 });
 
-describe('list_sources metadata compatibility', () => {
+describeIf('list_sources metadata compatibility', () => {
   it('should have db_metadata table', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM db_metadata').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThan(0);

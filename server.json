@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/peruvian-law-mcp",
-  "description": "Peruvian law database covering data protection, cybersecurity, e-commerce, and criminal law provisions via Model Context Protocol",
+  "description": "Peruvian legislation via MCP — full-text search across statutes and provisions",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/Peruvian-law-mcp",
     "source": "github"
@@ -14,7 +14,18 @@
       "registryType": "npm",
       "identifier": "@ansvar/peruvian-law-mcp",
       "version": "1.0.0",
-      "transport": { "type": "stdio" }
+      "transport": {
+        "type": "stdio"
+      }
+    },
+    {
+      "registryType": "url",
+      "identifier": "https://peruvian-law-mcp.vercel.app/mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "streamable-http",
+        "url": "https://peruvian-law-mcp.vercel.app/mcp"
+      }
     }
   ]
 }
