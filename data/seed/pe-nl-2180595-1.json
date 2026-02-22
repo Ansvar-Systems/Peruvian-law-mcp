@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2180595-1",
+  "type": "statute",
+  "title": "Ley que modifica los artículos 2 y 4 de la Ley 30024, Ley que Crea el Registro Nacional de Historias Clínicas Electrónicas",
+  "short_name": "N° 31750",
+  "status": "in_force",
+  "issued_date": "2023-05-24",
+  "in_force_date": "2023-05-24",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2180595-1",
+  "description": "LEY | N° 31750 | Ley que modifica los artículos 2 y 4 de la Ley 30024, Ley que Crea el Registro Nacional de Historias Clínicas Electrónicas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto regular la interoperabilidad de las historias clínicas electrónicas y la promoción de la investigación en salud a través del acceso a datos debidamente disociados, como elementos para garantizar el acceso a diagnósticos, tratamientos y atención de la salud oportunos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los artículos 2 y 4 de la Ley 30024, Ley que Crea el Registro Nacional de Historias Clínicas Electrónicas",
+      "content": "Se modifican los artículos 2 y 4 de la Ley 30024, Ley que Crea el Registro Nacional de Historias Clínicas Electrónicas, quedando redactados con el texto siguiente: “ Artículo 2. Creación y definición del Registro Nacional de Historias Clínicas Electrónicas 2.1 Créase el Registro Nacional de Historias Clínicas Electrónicas como la infraestructura tecnológica especializada en salud que mantiene la información de la historia clínica electrónica de respaldo y permite al paciente, o a su representante legal y a los profesionales de la salud que son previamente autorizados por aquellos, el acceso a la información clínica contenida en las historias clínicas electrónicas, así como a la información clínica básica y a la información clínica resumida contenida en el mismo, dentro de los términos estrictamente necesarios para garantizar la calidad de la atención en los establecimientos de salud y en los servicios médicos de apoyo públicos, privados o mixtos, en el ámbito de la Ley 26842, Ley General de Salud. Adicionalmente, permite el acceso a la información clínica disociada a instituciones académicas, públicas y privadas, con fines de investigación, de acuerdo con el procedimiento que establezca el reglamento. La información contenida en el Registro Nacional de Historias Clínicas Electrónicas se sujeta a las restricciones, prohibiciones, así como a las responsabilidades, sanciones e indemnizaciones por el mal uso, establecidas en la Ley 29733, Ley de Protección de Datos Personales, y la legislación sobre la materia. 2.2 El Registro Nacional de Historias Clínicas Electrónicas contiene un repositorio o banco de datos de historias clínicas electrónicas a modo de respaldo, el cual será gestionado por el Ministerio de Salud, que es el titular de dicha base de datos. 2.3 El Registro Nacional de Historias Clínicas Electrónicas utiliza la Plataforma Nacional de Interoperabilidad para el acceso a la información clínica solicitada o autorizada por el paciente, su representante legal o los profesionales de la salud, según corresponda."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Indemnización por uso inadecuado de datos",
+      "content": "El titular de la información contenida en la historia clínica cuando sea perjudicado por uso inadecuado de los datos personales por las instituciones públicas, privadas o mixtas tiene derecho a obtener indemnización personal y a que se sancione administrativamente a los responsables, mediante el procedimiento conducido por la Autoridad Nacional de Protección de Datos, de conformidad al Título VII de la Ley 29733, Ley de Protección de Datos Personales. PRIMERA. Reglamento El Poder Ejecutivo reglamenta la presente ley en un plazo máximo de ciento veinte días calendario contados a partir del día siguiente de su publicación en el diario oficial El Peruano. SEGUNDA. Declaración de interés nacional Se declara de interés nacional la implementación del Programa Nacional de Transformación Digital de la Salud, adscrito al Ministerio de Salud, así como la implementación y promoción de la medicina personalizada como enfoque en salud para garantizar el diagnóstico y tratamiento adecuado y oportuno. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintidós días del mes de mayo de dos mil veintitrés. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Restricciones de uso",
+      "content": "La información contenida en la historia clínica electrónica no debe ser usada por las entidades públicas y privadas para fines comerciales, financieros o económicos u otros fines ajenos a los establecidos en la presente ley, sujetándose a las responsabilidades y sanciones establecidas en el ordenamiento legal vigente."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art4"
+    }
+  ]
+}

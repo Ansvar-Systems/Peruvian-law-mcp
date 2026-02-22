@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-1926442-1",
+  "type": "statute",
+  "title": "Ley que declara de interés nacional y necesidad pública la creación del distrito de Santiago de Llacón",
+  "short_name": "N° 31121",
+  "status": "in_force",
+  "issued_date": "2021-02-09",
+  "in_force_date": "2021-02-09",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1926442-1",
+  "description": "LEY | N° 31121 | Ley que declara de interés nacional y necesidad pública la creación del distrito de Santiago de Llacón",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Declaración de interés nacional",
+      "content": "Declárase de interés nacional y necesidad pública la creación del distrito de Santiago de Llacón, en la provincia de Huánuco, departamento de Huánuco. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizado el día catorce de setiembre de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los ocho días del mes de febrero de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizado el día catorce de setiembre de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "artunico"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-1865621-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que promueve la reactivación de la economía a través de incentivos dentro de los programas de vivienda",
+  "short_name": "N° 1464",
+  "status": "in_force",
+  "issued_date": "2020-04-18",
+  "in_force_date": "2020-04-18",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1865621-1",
+  "description": "DECRETO LEGISLATIVO | N° 1464 | Decreto Legislativo que promueve la reactivación de la economía a través de incentivos dentro de los programas de vivienda",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto y finalidad",
+      "content": "El presente Decreto Legislativo tiene por objeto establecer medidas excepcionales que faciliten a las familias acceder al otorgamiento del Bono Familiar Habitacional en el marco del Programa Techo Propio para las modalidades de aplicación de Construcción en Sitio Propio y Adquisición de Vivienda Nueva, con la finalidad de coadyuvar a la obtención de una vivienda a las familias en situación de vulnerabilidad económica por los efectos del COVID-19."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Excepción de criterio mínimo de selección establecido en la Ley Nº 27829, Ley que crea el Bono Familiar Habitacional (BFH)",
+      "content": "2.1 Exceptúase, hasta el 31 de diciembre de 2020, del criterio mínimo de selección establecido en el literal b. del artículo 4 de la Ley Nº 27829, Ley que crea el Bono Familiar Habitacional (BFH), modificado por el Decreto Legislativo N° 1226, a los grupos familiares que solicitan la asignación del Bono Familiar Habitacional en lo que respecta a las modalidades de aplicación de Construcción en Sitio Propio y Adquisición de Vivienda Nueva. 2.2 Mediante Decreto Supremo refrendado por el Ministro de Vivienda, Construcción y Saneamiento, podrá prorrogarse por única vez la excepción establecida en el párrafo precedente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Valor especial del Bono Familiar Habitacional",
+      "content": "El Ministerio de Vivienda, Construcción y Saneamiento establece mediante Resolución Ministerial, un valor especial del Bono Familiar Habitacional en las modalidades de aplicación de Construcción en Sitio Propio y Adquisición de Vivienda Nueva, a consecuencia de la excepción establecida en el artículo precedente, así como las disposiciones necesarias para el cumplimiento de lo dispuesto en el presente Decreto Legislativo. En el plazo máximo de quince (15) días calendario, contados a partir de la vigencia del presente Decreto Legislativo, el Ministerio de Vivienda, Construcción y Saneamiento expide la Resolución Ministerial referida en el párrafo anterior."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Financiamiento",
+      "content": "La implementación de lo establecido en el presente Decreto Legislativo se financia con cargo al presupuesto institucional del Ministerio de Vivienda, Construcción y Saneamiento, sin demandar recursos adicionales al Tesoro Público"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y por el Ministro de Vivienda, Construcción y Saneamiento. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los diecisiete días del mes de abril del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros RODOLFO YAÑEZ WENDORFF Ministro de Vivienda, Construcción y Saneamiento"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

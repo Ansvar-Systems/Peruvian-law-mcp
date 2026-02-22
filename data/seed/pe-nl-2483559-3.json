@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2483559-3",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica los artículos 103 y 200 del Decreto Legislativo N° 1053, Decreto Legislativo que aprueba la Ley General de Aduanas",
+  "short_name": "N° 1711",
+  "status": "in_force",
+  "issued_date": "2026-02-04",
+  "in_force_date": "2026-02-04",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2483559-3",
+  "description": "DECRETO LEGISLATIVO | N° 1711 | Decreto Legislativo que modifica los artículos 103 y 200 del Decreto Legislativo N° 1053, Decreto Legislativo que aprueba la Ley General de Aduanas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el artículo 103 y el inciso k) del artículo 200 del Decreto Legislativo N° 1053, Ley General de Aduanas, para permitir, bajo determinadas condiciones, al transportista o su representante en el país, optar por la aplicación de una multa en lugar de la sanción de comiso prevista para la mercancía a bordo de un medio de transporte, transportada en tránsito hacia otros destinos en el exterior o que se destinará al régimen de transbordo, que no haya sido manifestada o no coincida con la descripción consignada en el manifiesto de carga."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 103 y del inciso k) del artículo 200 del Decreto Legislativo N° 1053, Decreto Legislativo que aprueba la Ley General de Aduanas",
+      "content": "Modificar el artículo 103 y el inciso k) del artículo 200 del Decreto Legislativo N° 1053, Decreto Legislativo que aprueba la Ley General de Aduanas, conforme al texto siguiente:"
+    },
+    {
+      "provision_ref": "art103",
+      "section": "103",
+      "title": "Artículo 103.- Rectificación e incorporación de documentos",
+      "content": "El transportista o su representante en el país, o el agente de carga internacional pueden rectificar e incorporar documentos al manifiesto de carga, manifiesto de carga desconsolidado y manifiesto de carga consolidado, respectivamente, siempre que no se haya dispuesto acción de control alguna sobre las mercancías, en los plazos que establezca el Reglamento y en la forma y condiciones que disponga la Administración Aduanera. Si la Autoridad Aduanera durante una acción de control extraordinario encuentra mercancía no manifestada o verifica diferencia entre las mercancías que contienen los bultos y la descripción consignada en el manifiesto de carga, esta cae en comiso; salvo que la mercancía se encuentre consignada correctamente en la declaración o en la información anticipada presentada previamente a la Administración Aduanera. Para el supuesto previsto en el párrafo anterior, en el caso de la mercancía transportada en tránsito con destino al exterior o que será objeto del régimen de transbordo, y siempre que se encuentre a bordo del medio de transporte al momento de la detección de la infracción y se cumplan con los demás requisitos que establezca el Reglamento, el transportista o su representante en el país podrá optar por cancelar una multa en lugar del comiso previsto en el párrafo anterior, en el plazo de treinta (30) días hábiles contado a partir del día siguiente de la notificación de la medida preventiva. De no cancelarse la multa dentro del mencionado plazo, la mercancía inmovilizada o incautada cae en comiso. Se excluye de lo dispuesto en este párrafo a la mercancía prohibida, la que atente contra la salud o el medio ambiente y otras que establezca el Reglamento.”"
+    },
+    {
+      "provision_ref": "art200",
+      "section": "200",
+      "title": "Artículo 200.- Sanción de comiso de las mercancías",
+      "content": "Se aplica la sanción de comiso de las mercancías, cuando: (…) k) Durante una acción de control extraordinari o , se encuentre mercancía no manifestada o se verifique diferencia entre las mercancías que contienen los bultos y la descripción consignada en los manifiestos de carga, manifiestos consolidados y desconsolidados; salvo que se presente alguna de las siguientes situaciones : k.1) La mercancía se encuentre consignada correctamente en la información que permita identificar la mercancía antes de su llegada o salida del país presentada previamente a la Administración Aduanera conforme a lo previsto en el inciso c) del artículo 17, o se encuentre consignada correctamente en la declaración, o k.2) Se haya cancelado la multa prevista en el tercer párrafo del artículo 103 de la Ley y se cumpla con los requisitos que establezca el Reglamento. (…)”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y la Ministra de Economía y Finanzas. Primera.- Reglamentación En el plazo de cuarenta y cinco (45) días calendarios contados a partir de la publicación del presente Decreto Legislativo, se aprueba mediante Decreto Supremo refrendado por la Ministra de Economía y Finanzas, la adecuación del Reglamento de la Ley General de Aduanas, aprobado por Decreto Supremo N° 010-2009-EF, y de la Tabla de Sanciones aplicables a las infracciones previstas en la Ley General de Aduanas, aprobada por Decreto Supremo N° 418-2019-EF, a lo previsto en el presente Decreto Legislativo. Segunda.- Vigencia El presente Decreto Legislativo entra en vigor a partir de la vigencia del Decreto Supremo al que se refiere la Primera Disposición Complementaria Final precedente. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los tres días del mes de febrero del año dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros DENISSE AZUCENA MIRALLES MIRALLES Ministra de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

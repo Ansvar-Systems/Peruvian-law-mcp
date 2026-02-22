@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-2317770-5",
+  "type": "statute",
+  "title": "Decreto Legislativo que deroga la Segunda Disposición Final de la Ley N° 28588, Ley que incorpora al Seguro Integral de Salud a la población mayor de 17 años en situación de extrema pobreza y pobreza y declara de prioritario interés la infraestructura arquitectónica y no arquitectónica de los centros educativos a cargo del Ministerio de Educación",
+  "short_name": "N° 1632",
+  "status": "in_force",
+  "issued_date": "2024-08-22",
+  "in_force_date": "2024-08-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2317770-5",
+  "description": "DECRETO LEGISLATIVO | N° 1632 | Decreto Legislativo que deroga la Segunda Disposición Final de la Ley N° 28588, Ley que incorpora al Seguro Integral de Salud a la población mayor de 17 años en situación de extrema pobreza y pobreza y declara de prioritario interés la infraestructura arquitectónica y no arquitectónica de los centros educativos a cargo del Ministerio de Educación",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Derogación de la Segunda Disposición Final de la Ley Nº 28588, Ley que incorpora al Seguro Integral de Salud a la población mayor de 17 años en situación de extrema pobreza y pobreza y declara de prioritario interés la infraestructura arquitectónica y no arquitectónica de los centros educativos a cargo del Ministerio de Educación",
+      "content": "Se deroga la Segunda Disposición Final de la Ley Nº 28588, Ley que incorpora al Seguro Integral de Salud a la población mayor de 17 años en situación de extrema pobreza y pobreza y declara de prioritario interés la infraestructura arquitectónica y no arquitectónica de los centros educativos a cargo del Ministerio de Educación."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, el Ministro de Educación y el Ministro de Salud. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintiún días del mes de agosto del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros MORGAN NICCOLO QUERO GAIME Ministro de Educación CÉSAR HENRY VÁSQUEZ SÁNCHEZ Ministro de Salud"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art2"
+    }
+  ]
+}

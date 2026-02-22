@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-1866220-4",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley N° 26842, Ley General de Salud, y la Ley N° 26298, Ley de Cementerios y Servicios Funerarios",
+  "short_name": "N° 1503",
+  "status": "in_force",
+  "issued_date": "2020-05-11",
+  "in_force_date": "2020-05-11",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866220-4",
+  "description": "DECRETO LEGISLATIVO | N° 1503 | Decreto Legislativo que modifica la Ley N° 26842, Ley General de Salud, y la Ley N° 26298, Ley de Cementerios y Servicios Funerarios",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El objeto del presente Decreto Legislativo es modificar la Ley N° 26842, Ley General de Salud, y la Ley N° 26298, Ley de Cementerios y Servicios Funerarios, para garantizar las acciones inmediatas para el manejo de cadáveres en el marco de la emergencia sanitaria por COVID-19."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 112 de la Ley N° 26842, Ley General de Salud",
+      "content": "Modifícase el artículo 112 de la Ley N° 26842, Ley General de Salud, el que queda redactado de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art112",
+      "section": "112",
+      "title": "Artículo 112.- Todo cadáver que haga posible la propagación de enfermedades es cremado o inhumado, salvo excepciones establecidas por Ley.",
+      "content": "En caso de emergencia sanitaria, ante la existencia de un cadáver que no tenga causa de muerte ni indicios de criminalidad señalado por el Ministerio Público, que se encuentre en el domicilio o lugar distinto al establecimiento de salud, se presume que su muerte se produjo por agente infeccioso que generó la emergencia sanitaria, por lo que corresponde a la autoridad de salud disponer su cremación inmediata o inhumación. La Autoridad de Salud puede solicitar el apoyo de la Policía Nacional del Perú o de las Fuerzas Armadas cuando lo considere necesario.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación de los artículos 6 y 14 de la Ley N° 26298, Ley de Cementerios y Servicios Funerarios",
+      "content": "Modificase los artículos 6 y 14 de la Ley N° 26298, Ley de Cementerios y Servicios Funerarios, conforme al siguiente detalle: “ Artículo 6.- Los Cementerios prestarán todos o algunos de los servicios que se indican a continuación: a) Inhumación. b) Exhumación. c) Traslado. d) Depósito de cadáveres en tránsito. e) Capilla o velatorio. f) Reducción. g) Cremación. h) Columbario u osario. i) Cinerario común. j) Fosa Común. Los servicios a que se refieren los incisos a), b), c), d) y e) se prestarán en forma obligatoria en todo cementerio. Los Cementerios públicos deberán reservar un área para la prestación de los servicios funerarios de inhumación en fosa común o cremación de cadáveres de indigentes o de restos humanos no reclamados. Los cementerios públicos deben reservar y habilitar un área para la inhumación en fosa común de cadáveres cuya causa de fallecimiento haya sido por agente infeccioso que generó la declaración de la emergencia sanitaria; esta área debe ser adicional a la que se hace referencia en el párrafo precedente. Los cementerios privados pueden reservar y habilitar un área para la inhumación en fosa común de cadáveres a que hace referencia el presente párrafo. “ Artículo 14.- Las Agencias Funerarias proveerán urnas, ataúdes, ánforas, cofres y todos aquellos bienes y servicios necesarios para la inhumación, cremación, transporte y traslado de cadáveres y restos humanos. El Reglamento determinará las características de los bienes y condiciones mínimas para la prestación de los servicios. En caso de emergencia sanitaria declarada por Autoridad de Salud, las agencias funerarias o quien haga sus veces en dicho escenario, cumplirán las disposiciones emitidas por esta autoridad respecto al manejo de bienes y administración de servicios indicados en el párrafo precedente, a fin de proteger la salud pública.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Financiamiento",
+      "content": "La implementación de lo dispuesto en el presente Decreto Legislativo se financia con cargo al presupuesto institucional de las entidades involucradas, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y por el Ministro de Salud. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los diez días del mes de mayo del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros VÍCTOR ZAMORA MESÍA Ministro de Salud"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

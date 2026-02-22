@@ -1,0 +1,68 @@
+{
+  "id": "pe-nl-2398674-1",
+  "type": "statute",
+  "title": "Ley que implementa la plataforma Denuncia Digital para el registro de denuncias digitales por delitos contra el patrimonio",
+  "short_name": "N° 32332",
+  "status": "in_force",
+  "issued_date": "2025-05-13",
+  "in_force_date": "2025-05-13",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2398674-1",
+  "description": "LEY | N° 32332 | Ley que implementa la plataforma Denuncia Digital para el registro de denuncias digitales por delitos contra el patrimonio",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto implementar la plataforma denominada Denuncia Digital, con el fin de permitir a los ciudadanos el registro de denuncias digitales por delitos contra el patrimonio para el inicio de los actos de investigación correspondientes, sin la necesidad de acudir de manera presencial a una unidad policial."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definiciones",
+      "content": "Para los efectos de la presente ley, se establecen las siguientes definiciones: a) Plataforma digital. Tecnologías de la información y de la comunicación (TIC), que incluyen internet, tecnologías digitales y dispositivos móviles, así como la analítica de datos utilizados para mejorar la generación, recopilación, intercambio, combinación, análisis, acceso, búsqueda y presentación de contenido digital, incluido el desarrollo de servicios y de aplicaciones en concordancia con la materia del gobierno digital. b) Denuncia digital. Servicio digital que permite a los ciudadanos registrar denuncias a través de la plataforma Denuncia Digital sin la necesidad de acudir de manera presencial a una unidad policial. c) ID Perú. Plataforma Nacional de Identificación y Autenticación de la Identidad Digital (ID Perú) gestionada por el Registro Nacional de Identificación y Estado Civil que simplifica y asegura el proceso de autenticación en los servicios digitales de los sectores público y privado en el Perú. d) Servicio digital. Servicio provisto de forma total o parcial a través de internet u otra red equivalente, que se caracteriza por ser automático, no presencial y por utilizar de manera intensiva las tecnologías digitales para la producción y el acceso a datos y contenidos que generen valor público para los ciudadanos. e) Verificación biométrica facial. Procedimiento mediante el cual, a partir del número del documento nacional de identidad (DNI) y de la imagen facial del ciudadano, se suministra información de coincidencia a través de la comparación entre la imagen facial enviada y las imágenes que se encuentran almacenadas en la base de datos biométrica del Registro Único de Identificación de las Personas Naturales. f) Unidad Policial. Unidad de organización policial de la Policía Nacional del Perú encargada de cumplir funciones específicas según su especialidad y nivel de operación. Estas unidades están reguladas por el Decreto Legislativo 1267, Ley de la Policía Nacional del Perú. g) Registro de información migratoria. Registro administrativo centralizado a cargo de la Superintendencia Nacional de Migraciones, que contiene información migratoria de peruanos y de extranjeros con la finalidad de fortalecer la gestión migratoria en el país."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Plataforma Denuncia Digital",
+      "content": "3.1 La plataforma Denuncia Digital está a cargo de la Policía Nacional del Perú y permite registrar denuncias digitales por delitos contra el patrimonio para el inicio de los actos de investigación correspondientes. 3.2 La verificación de la identidad digital del denunciante se realiza a través de la Plataforma Nacional de Identificación y Autenticación de la Identidad Digital (ID Perú)."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Interoperabilidad entre entidades de la administración pública",
+      "content": "4.1 Para efectos de la implementación de la plataforma Denuncia Digital es necesaria la interoperabilidad con las siguientes entidades públicas: a) El Registro Nacional de Identificación y Estado Civil (RENIEC) que facilita el acceso a la Plataforma Nacional de Identificación y Autenticación de la Identidad Digital (ID Perú) a la Policía Nacional del Perú para efectos de validar la identidad de los ciudadanos en la presentación de las denuncias digitales de la plataforma. b) La Superintendencia Nacional de Migraciones que facilita el acceso al Registro de Información Migratoria (RIM) para la identificación de ciudadanos peruanos y de extranjeros, así como sus movimientos migratorios. 4.2 La plataforma Denuncia Digital brinda información al Ministerio Público sobre las denuncias presentadas, previa coordinación con la Policía Nacional del Perú y en el marco de las competencias de dicho organismo. 4.3 La plataforma Denuncia Digital puede utilizar la información que esté almacenada o haya sido generada por otras entidades de la administración pública."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Confidencialidad de la información",
+      "content": "La Policía Nacional del Perú garantiza que toda entrega de información se realice cumpliendo los procesos de seguridad y de confidencialidad establecidos en las normas especiales sobre la materia."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Trámite de la denuncia digital",
+      "content": "La plataforma Denuncia Digital permite el registro de los requisitos formales establecidos en el numeral 1 del artículo 328 del Nuevo Código Procesal Penal, Decreto Legislativo 957, así como el lugar donde ocurrieron los hechos o el domicilio del denunciante, según corresponda, a fin de derivar la denuncia a la unidad policial correspondiente. El trámite de la denuncia digital sigue el mismo procedimiento establecido en el Nuevo Código Procesal Penal."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7.- Valoración de riesgo",
+      "content": "La Policía Nacional del Perú debe aplicar la ficha de valoración de riesgo que corresponda a cada denuncia digital con la finalidad de priorizar las intervenciones o las diligencias correspondientes."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8.- Colaboración interinstitucional",
+      "content": "8.1 La Secretaría de Gobierno y Transformación Digital de la Presidencia del Consejo de Ministros brinda asesoría técnica a la Policía Nacional del Perú durante el proceso de implementación de la plataforma y el proceso de verificación de identidad digital, como parte de sus actividades orientadas a fortalecer la transformación digital y aplicar mejoras continuas. 8.2 Para ampliar el alcance del uso de la plataforma Denuncia Digital, los Comités Regionales de Seguridad Ciudadana (CORESEC), los Comités Provinciales de Seguridad Ciudadana (COPROSEC) y los Comités Distritales de Seguridad Ciudadana (CODISEC) elaboran planes de difusión y sensibilización, los cuales son aprobados por los gobiernos regionales y los gobiernos locales."
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9.- Sanciones por uso indebido",
+      "content": "El uso indebido de la información contenida en la plataforma Denuncia Digital es sancionado conforme a la normativa penal vigente, pudiendo derivar en responsabilidades administrativas, civiles o penales. PRIMERA. Reglamentación El Poder Ejecutivo aprueba el reglamento de la presente ley en un plazo máximo de noventa días calendario contados a partir de su entrada en vigor. SEGUNDA. Plazo para la implementación y la operatividad de la plataforma Denuncia Digital La Policía Nacional del Perú tiene un plazo no mayor de ciento ochenta días calendario, contados a partir de la entrada en vigor de la presente ley, para la implementación y la operatividad de la plataforma Denuncia Digital. TERCERA. Periodo de prueba de la plataforma Denuncia Digital El reglamento de la presente ley establece el plazo del periodo de prueba de la plataforma Denuncia Digital a efectos de supervisar su adecuado funcionamiento. ÚNICA. Modificación del artículo 328 del Nuevo Código Procesal Penal, Decreto Legislativo 957 Se modifican los numerales 2 y 3 del artículo 328 del Nuevo Código Procesal Penal, Decreto Legislativo 957, en los siguientes términos: “ Artículo 328. Contenido y forma de la denuncia […] 2. La denuncia podrá formularse por cualquier medio. Si es escrita, el denunciante firmará y colocará su impresión digital. Si es verbal se sentará el acta respectiva. Si es digital se realizará a través de la plataforma Denuncia Digital. 3. En la denuncia escrita y verbal, si el denunciante no puede firmar se limitará a colocar su impresión digital, dejándose constancia en el acta del impedimento. En la denuncia digital, la identificación de la parte denunciante se realizará a través de la Plataforma Nacional de Identificación y Autenticación de la Identidad Digital (ID Perú)”. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los dieciséis días del mes de abril de dos mil veinticinco. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los doce días del mes de mayo del año dos mil veinticinco. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": []
+}

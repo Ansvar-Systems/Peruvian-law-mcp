@@ -1,0 +1,61 @@
+{
+  "id": "pe-nl-2480387-7",
+  "type": "statute",
+  "title": "Decreto Legislativo que promueve el reconocimiento de aprendizajes previos a fin de facilitar la inserción o continuidad de estudios en la educación técnico-productiva",
+  "short_name": "N° 1705",
+  "status": "in_force",
+  "issued_date": "2026-01-24",
+  "in_force_date": "2026-01-24",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2480387-7",
+  "description": "DECRETO LEGISLATIVO | N° 1705 | Decreto Legislativo que promueve el reconocimiento de aprendizajes previos a fin de facilitar la inserción o continuidad de estudios en la educación técnico-productiva",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene como objeto incorporar el literal i) al artículo 41 y modificar el artículo 45 de la Ley Nº 28044, Ley General de Educación."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad",
+      "content": "El presente Decreto Legislativo tiene por finalidad valorar pedagógicamente los aprendizajes adquiridos por las personas a lo largo de la vida, con el fin de facilitar su inserción o continuidad de estudios en la Educación Técnico-Productiva."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación del literal i) al artículo 41 de la Ley Nº 28044, Ley General de Educación",
+      "content": "Se incorpora el literal i) al artículo 41 de la Ley Nº 28044, Ley General de Educación, el cual queda redactado en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art41",
+      "section": "41",
+      "title": "Artículo 41.- Objetivos de la Educación Técnico – Productiva",
+      "content": "Son objetivos de la Educación Técnico-Productiva: (…) i) Reconocer los aprendizajes previos adquiridos por la persona a lo largo de su vida para facilitar la inserción o continuidad de estudios en la Educación Técnico-Productiva.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Modificación del artículo 45 de la Ley Nº 28044, Ley General de Educación",
+      "content": "Se modifica el artículo 45 de la Ley Nº 28044, Ley General de Educación, el cual queda redactado en los siguientes términos: “ Artículo 45.- Centros de Educación Técnico-Productiva Los CETPRO son instituciones educativas que implementan la Educación Técnico - Productiva en el país. Ofrecen servicios educativos de acuerdo a los ciclos que correspondan y expiden las certificaciones y títulos correspondientes. Como expresión de su finalidad formativa, están facultados para desarrollar actividades de producción de bienes y servicios, los cuales constituyen una fuente de financiamiento complementario. Los CETPRO están facultados para reconocer aprendizajes previos adquiridos por la persona a lo largo de su vida, a través de la validación de sus conocimientos, habilidades y aptitudes vinculadas con las competencias del programa de estudios, con el propósito de facilitar su inserción o continuidad de estudios en el sistema educativo. Los requisitos, criterios y demás aspectos necesarios para el desarrollo del reconocimiento de los aprendizajes previos se establecen en el Reglamento de la Ley Nº 28044 y en las normas complementarias que emite el Ministerio de Educación, en coordinación con el Ministerio de Trabajo y Promoción del Empleo, según corresponda, en el marco de sus competencias.”"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Educación. ÚNICA. Reglamentación El Ministerio de Educación, en un plazo no mayor de noventa (90) días calendario, contado a partir del día siguiente de la publicación del presente Decreto Legislativo, modifica el Reglamento de la Ley Nº 28044, Ley General de Educación, aprobado por el Decreto Supremo Nº 011-2012-ED, a fin de realizar las adecuaciones correspondientes. POR TANTO: Mando que se publique y se cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintitrés días del mes de enero del año dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros JORGE EDUARDO FIGUEROA GUZMÁN Ministro de Educación"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Son objetivos de la Educación Técnico-Productiva",
+      "definition": "(…) i) Reconocer los aprendizajes previos adquiridos por la persona a lo largo de su vida para facilitar la inserción o continuidad de estudios en la Educación Técnico-Productiva",
+      "source_provision": "art41"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Mando que se publique y se cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

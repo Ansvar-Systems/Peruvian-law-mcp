@@ -1,0 +1,43 @@
+{
+  "id": "pe-nl-2138814-5",
+  "type": "statute",
+  "title": "Ley que autoriza convalidar como servicio rural y urbano marginal de salud (SERUMS) el tiempo laborado en establecimientos de salud del Ministerio de Salud, de los Gobiernos Regionales, del Seguro Social en Salud (ESSALUD), de las Sanidades de las Fuerzas Armadas y de la Sanidad Policial durante el estado de emergencia por la Covid-19",
+  "short_name": "N° 31654",
+  "status": "in_force",
+  "issued_date": "2022-12-29",
+  "in_force_date": "2022-12-29",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2138814-5",
+  "description": "LEY | N° 31654 | Ley que autoriza convalidar como servicio rural y urbano marginal de salud (SERUMS) el tiempo laborado en establecimientos de salud del Ministerio de Salud, de los Gobiernos Regionales, del Seguro Social en Salud (ESSALUD), de las Sanidades de las Fuerzas Armadas y de la Sanidad Policial durante el estado de emergencia por la Covid-19",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto autorizar, de manera excepcional, la convalidación del tiempo de servicios, no menor a un año, de los profesionales de la salud que laboraron contratados en establecimientos de salud del Ministerio de Salud y de los gobiernos regionales, del Seguro Social de Salud (ESSALUD), y de las sanidades de las Fuerzas Armadas y de la Sanidad Policial, durante la emergencia sanitaria producida por la COVID-19, con el tiempo prestado que, como requisito, exige la Ley 23330, Ley que establece el servicio rural y urbano marginal de salud, otorgándose de manera automática la resolución que acredita su cumplimiento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Requisitos",
+      "content": "El profesional de la salud debe acreditar los siguientes requisitos: a) Haber laborado durante la emergencia sanitaria por la COVID-19, por el periodo correspondiente a 12 (doce) meses ininterrumpidos. b) Haber estado contratado bajo el régimen laboral CAS-COVID para las entidades a las que se refiere el artículo 1. c) Haber efectuado su labor de manera presencial. d) Los profesionales de la salud que hayan laborado durante la emergencia sanitaria bajo la modalidad CAS-COVID en los establecimientos de salud señalados en el artículo 1, por un periodo mayor a seis meses y menor a doce meses, podrán contabilizar los meses laborados como parte del SERUMS y la diferencia en meses tendrá que ser completada de manera equivalente en establecimientos de salud de primer nivel de atención hasta concluir el periodo requerido para obtener la resolución de término del SERUMS."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Bonificación",
+      "content": "Los profesionales de salud que hayan sido contratados bajo el régimen especial 1057 (CAS-COVID) y que laboran o laboraron por 12 meses a más en establecimientos de salud, centros de vacunación del Ministerio de Salud (MINSA), Seguro Social de Salud (ESSALUD), sanidad de las Fuerzas Armadas y Policiales; serán acreedores como reconocimiento a su trabajo durante el estado de emergencia, a la bonificación de acuerdo al grado de dificultad que corresponde al establecimiento de salud para realizar el SERUMS en el que prestó servicios, según lo establecido en los artículos 47 y 48 del Reglamento de la Ley 23330 aprobado mediante el Decreto Supremo 005-97-SA, que aprueba el Reglamento de la Ley 23330 Servicio Rural Urbano Marginal de Salud (SERUMS). ÚNICA.- Reglamentación El Poder Ejecutivo, dentro del plazo de sesenta días, contados a partir de la publicación de la presente ley, aprueba el reglamento y demás normas complementarias. ÚNICA.- Acreditaciones en curso Los profesionales de la salud que se acogieron a los alcances de la Resolución Ministerial 966-2020/MINSA, modificada por la Resolución Ministerial 603- 2022/MINSA y que opten por acogerse a los alcances de lo establecido en la presente ley, no se verán afectados en el reconocimiento de la convalidación del tiempo de prestación. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiocho días del mes de diciembre de dos mil veintidós. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "El profesional de la salud debe acreditar los siguientes requisitos",
+      "definition": "a) Haber laborado durante la emergencia sanitaria por la COVID-19, por el periodo correspondiente a 12 (doce) meses ininterrumpidos",
+      "source_provision": "art2"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2317770-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el artículo 2 de la Ley N° 31992, Ley de fomento del hidrógeno verde, para promover el desarrollo del hidrógeno verde",
+  "short_name": "N° 1629",
+  "status": "in_force",
+  "issued_date": "2024-08-22",
+  "in_force_date": "2024-08-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2317770-2",
+  "description": "DECRETO LEGISLATIVO | N° 1629 | Decreto Legislativo que modifica el artículo 2 de la Ley N° 31992, Ley de fomento del hidrógeno verde, para promover el desarrollo del hidrógeno verde",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "Modificar el artículo 2 de la Ley Nº 31992, Ley de fomento del hidrógeno verde."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición de hidrógeno verde",
+      "content": "Para efectos de la presente ley el hidrógeno verde es aquel obtenido del agua mediante procesos que utilizan como fuente de energía a los recursos energéticos renovables”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Energía y Minas. POR TANTO: Mando que se publique y se cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintiún días del mes de agosto del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros ROMULO MUCHO MAMANI Ministro de Energía y Minas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando que se publique y se cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

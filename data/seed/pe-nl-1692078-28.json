@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-1692078-28",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el artículo 69 del Código Penal",
+  "short_name": "N° 1453",
+  "status": "in_force",
+  "issued_date": "2018-09-16",
+  "in_force_date": "2018-09-16",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1692078-28",
+  "description": "DECRETO LEGISLATIVO | N° 1453 | Decreto Legislativo que modifica el artículo 69 del Código Penal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Modificación del artículo 69 del Código Penal",
+      "content": "Modificase el artículo 69 del Código Penal, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art69",
+      "section": "69",
+      "title": "Artículo 69.- Rehabilitación automática:",
+      "content": "El que ha cumplido la pena o medida de seguridad que le fue impuesta, o que de otro modo ha extinguido su responsabilidad, queda rehabilitado sin más trámite, cuando además haya cancelado el íntegro de la reparación civil. La rehabilitación produce los efectos siguientes: 1. Restituye a la persona en los derechos suspendidos o restringidos por la sentencia. No produce el efecto de reponer en los cargos, comisiones o empleos de los que se le privó; y, 2. La cancelación de los antecedentes penales, judiciales y policiales. Los certificados correspondientes no deben expresar la pena rehabilitada ni la rehabilitación. Tratándose de pena privativa de libertad impuesta por la comisión de delito doloso, la cancelación de antecedentes penales, judiciales y policiales será provisional hasta por cinco años. Vencido dicho plazo y sin que medie reincidencia o habitualidad, la cancelación será definitiva. La rehabilitación automática no opera cuando se trate de inhabilitación perpetua impuesta por la comisión de los delitos previstos en los artículos 296, 296-A primer, segundo y cuarto párrafo; 296-B, 297; o por la comisión de cualquiera de los delitos contra la Admin istración Pública; o por los delitos previstos en los capítulos IX, X y XI del Título IV del Libro Segundo del Código Penal así como el artículo 4-A del Decreto Ley 25475 y los delitos previstos en los artículos 1, 2 y 3 del Decreto Legislativo 1106, en cuyos casos la rehabilitación puede ser declarada por el órgano jurisdiccional que dictó la condena luego de transcurridos veinte años, conforme al artículo 59-B del Código de Ejecución Penal.”"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y por el Ministro de Justicia y Derechos Humanos. POR TANTO: Mando que se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los quince días del mes de setiembre del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República CÉSAR VILLANUEVA ARÉVALO Presidente del Consejo de Ministros VICENTE ANTONIO ZEBALLOS SALINAS Ministro de Justicia y Derechos Humanos"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando que se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art2"
+    }
+  ]
+}

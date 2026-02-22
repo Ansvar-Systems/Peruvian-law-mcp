@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-2120017-3",
+  "type": "statute",
+  "title": "Ley que declara de interés nacional y necesidad pública la creación del Ministerio de Pesquería y Acuicultura",
+  "short_name": "N° 31597",
+  "status": "in_force",
+  "issued_date": "2022-10-28",
+  "in_force_date": "2022-10-28",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2120017-3",
+  "description": "LEY | N° 31597 | Ley que declara de interés nacional y necesidad pública la creación del Ministerio de Pesquería y Acuicultura",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Declaración de interés nacional y necesidad pública",
+      "content": "Se declara de interés nacional y necesidad pública la creación del Ministerio de Pesquería y Acuicultura. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día cinco de mayo de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiséis días del mes de octubre de dos mil veintidós. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día cinco de mayo de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "artunico"
+    }
+  ]
+}

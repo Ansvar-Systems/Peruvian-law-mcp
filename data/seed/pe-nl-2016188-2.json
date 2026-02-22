@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2016188-2",
+  "type": "statute",
+  "title": "Ley que modifica la Ley 31343, Ley de creación de la Zona Franca en la Región Cajamarca (ZOFRACAJAMARCA)",
+  "short_name": "N° 31363",
+  "status": "in_force",
+  "issued_date": "2021-11-28",
+  "in_force_date": "2021-11-28",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2016188-2",
+  "description": "LEY | N° 31363 | Ley que modifica la Ley 31343, Ley de creación de la Zona Franca en la Región Cajamarca (ZOFRACAJAMARCA)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto modificar los artículos 2 y 4 de la Ley 31343, Ley de Creación de la Zona Franca en la Región Cajamarca (ZOFRACAJAMARCA), con la finalidad de ampliar la ubicación de la Zona Franca al distrito de Namballe, provincia de San Ignacio, departamento de Cajamarca, al ser el distrito fronterizo accesible con la República del Ecuador."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Comité de organización y administración",
+      "content": "Créase el Comité de Organización y Administración de la ZOFRACAJAMARCA, con sede en la provincia de San Ignacio, del departamento de Cajamarca, con autonomía administrativa, técnica, económica, financiera y operativa, adscrito al Gobierno Regional de Cajamarca. El comité de organización y administración está conformado por: a) Un representante del Gobierno Regional, quien lo presidirá. b) Un representante del Ministerio de Comercio Exterior y Turismo. c) Un representante del Ministerio de Desarrollo Agrario y Riego. d) Un representante del Ministerio de la Producción. e) Un representante de la Cámara de Comercio y Producción de Cajamarca. f) Un representante del Colegio de Ingenieros de Cajamarca. g) El alcalde de la Municipalidad Provincial de San Ignacio o su representante. h) El alcalde de la Municipalidad Distrital de Namballe o su representante. Los representantes de las entidades públicas serán designados mediante resolución del titular correspondiente; tratándose de representantes del sector privado, estos serán acreditados mediante comunicación efectuada por el titular de la institución respectiva. […]"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Zona Franca de Cajamarca",
+      "content": "La Zona Franca de Cajamarca (ZOFRACAJAMARCA) estará ubicada en los distritos de San Ignacio y Namballe de la provincia de San Ignacio, departamento de Cajamarca ” . PRIMERA. Vigencia La presente ley entra en vigor el día siguiente de su publicación en el diario oficial El Peruano. SEGUNDA. Derogatoria Se deroga y modifica, en su caso, las normas que se opongan a la presente ley. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los ocho días del mes de noviembre de dos mil veintiuno. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los veintisiete días del mes de noviembre del año dos mil veintiuno. JOSÉ PEDRO CASTILLO TERRONE S Presidente de la República MIRTHA ESTHER VÁSQUEZ CHUQUILÍN Presidenta del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "El comité de organización y administración está conformado por",
+      "definition": "a) Un representante del Gobierno Regional, quien lo presidirá",
+      "source_provision": "art2"
+    }
+  ]
+}

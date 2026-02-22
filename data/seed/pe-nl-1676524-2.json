@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-1676524-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "N° 1369",
+  "status": "in_force",
+  "issued_date": "2018-08-02",
+  "in_force_date": "2018-08-02",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1676524-2",
+  "description": "DECRETO LEGISLATIVO | N° 1369 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente decreto legislativo tiene por objeto modificar el tratamiento aplicable a los servicios en el ámbito de precios de transferencia, eliminar la obligación de abonar el monto equivalente a la retención en operaciones con sujetos no domiciliados y condicionar la deducción de los gastos por operaciones con sujetos no domiciliados."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto del decreto legislativo se entenderá por Ley al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por Decreto Supremo N° 179-2004-EF y normas modificatorias."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del primer y quinto párrafos del inciso i) del artículo 32°-A de la Ley",
+      "content": "Modifícase el primer y quinto párrafos del inciso i) del artículo 32°-A de la Ley, conforme a los textos siguientes:"
+    },
+    {
+      "provision_ref": "art32a",
+      "section": "32-A",
+      "title": "Artículo 32-A.- (…)",
+      "content": "(…) i) Servicios Sin perjuicio de los requisitos, limitaciones y prohibiciones dispuestos por esta Ley, tratándose de servicios prestados al contribuyente por sus partes vinculadas, aquel debe cumplir el test de beneficio y proporcionar la documentación e información solicitada, como condiciones necesarias para la deducción del costo o gasto. (…) Tratándose de servicios de bajo valor añadido, la deducción del costo o gasto por el servicio recibido se determina sobre la base de la sumatoria de los costos y gastos incurridos por el prestador del servicio así como de su margen de ganancia, el cual no puede exceder el cinco por ciento (5%) de tales costos y gastos. (…)”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Incorporación del inciso a.4) al artículo 37 de la Ley",
+      "content": "Incorporase el inciso a.4) al artículo 37 de la Ley, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "Artículo 37.- (…)",
+      "content": "(…) a.4) Las regalías, y retribuciones por servicios, asistencia técnica, cesión en uso u otros de naturaleza similar a favor de beneficiarios no domiciliados, podrán deducirse como costo o gasto en el ejercicio gravable a que correspondan cuando hayan sido pagadas o acreditadas dentro del plazo establecido por el Reglamento para la presentación de la declaración jurada correspondiente a dicho ejercicio. Los costos y gastos referidos en el párrafo anterior que no se deduzcan en el ejercicio al que correspondan serán deducibles en el ejercicio en que efectivamente se paguen, aun cuando se encuentren debidamente provisionados en un ejercicio anterior."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. Primera. Vigencia Lo dispuesto en este Decreto Legislativo entra en vigencia el 1 de enero de 2019. Única. Derogatoria Derógase el cuarto párrafo del inciso i) del artículo 32°-A y el segundo párrafo del artículo 76 de la Ley. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, al primer día del mes de agosto del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República CÉSAR VILLANUEVA ARÉVALO Presidente del Consejo de Ministros CARLOS OLIVA NEYRA Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

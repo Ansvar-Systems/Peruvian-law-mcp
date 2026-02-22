@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-1945737-1",
+  "type": "statute",
+  "title": "Ley que dispone la implementación de mesas de partes digitales y notificaciones electrónicas",
+  "short_name": "N° 31170",
+  "status": "in_force",
+  "issued_date": "2021-04-21",
+  "in_force_date": "2021-04-21",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1945737-1",
+  "description": "LEY | N° 31170 | Ley que dispone la implementación de mesas de partes digitales y notificaciones electrónicas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto impulsar la aplicación de las tecnologías de la información y comunicaciones en toda la administración pública con el fin de transformar digitalmente los procesos, servicios y procedimientos administrativos, con arreglo al Decreto Legislativo 1412, Decreto Legislativo que aprueba la Ley de Gobierno Digital, y su reglamento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Alcances de la Ley",
+      "content": "La presente ley es aplicable a las entidades establecidas en el artículo I del Título Preliminar del Texto Único Ordenado de la Ley 27444, Ley del Procedimiento Administrativo General, aprobado mediante el Decreto Supremo 004-2019-JUS."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Mesa de partes digital y notificación electrónica",
+      "content": "3.1 Las entidades de la administración pública implementan, en un plazo no mayor de doce meses a partir de la promulgación de la presente ley, los servicios digitales de la mesa de partes digital y notificación electrónica, los mismos que deben respetar los principios, derechos y garantías del debido procedimiento, sin afectar el derecho a la defensa y a la igualdad de las partes, así como la prestación de los servicios públicos digitales señalados en el artículo 18 del Decreto Legislativo 1412, Decreto Legislativo que aprueba la Ley del Gobierno Digital. 3.2 El servicio de mesa de partes digital se implementa dentro del alcance de la sede digital establecida en el artículo 20 del Decreto Legislativo 1412, Decreto Legislativo que aprueba la Ley del Gobierno Digital, para cumplir con la funcionalidad de recibir documentos electrónicos. La entidad puede optar por un enfoque progresivo de implementación de los medios tecnológicos a su disposición. 3.3 El servicio de notificaciones electrónicas se implementa a través de casillas electrónicas u otro medio tecnológico que cumpla con las características de la notificación establecidas en el artículo 20 del Texto Único Ordenado de la Ley 27444, Ley del Procedimiento Administrativo General, y con la especificación de domicilio digital establecido en el artículo 22 del Decreto Legislativo 1412, Decreto Legislativo que aprueba la Ley del Gobierno Digital. 3.4 La entidad que implemente un servicio de notificaciones electrónicas podrá definir este servicio como primero en el orden de prelación de las notificaciones. La entidad podrá definir las notificaciones electrónicas como obligatorias dispensando a aquellos administrados que en su localidad no cuenten con los medios técnicos adecuados. 3.5 La Presidencia del Consejo de Ministros, a través de la Secretaría de Gobierno Digital, dicta las normas necesarias para la integración progresiva de las mesas de partes digitales y las casillas electrónicas existentes en favor de la ciudadanía."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Inicio y respuesta del trámite administrativo digital realizado por el usuario",
+      "content": "Los usuarios inician su trámite administrativo a través de la plataforma de la mesa de partes digital, en la entidad pública correspondiente, y estas dan respuesta por la misma vía, dentro de los plazos establecidos en el Texto Único Ordenado de la Ley 27444, Ley del Procedimiento Administrativo General, aprobado por el Decreto Supremo 006-2017-JUS, y de los procedimientos desarrollados en el Texto Único de Procedimientos Administrativos (TUPA) de cada entidad."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Validación de funcionarios y servidores públicos",
+      "content": "Las entidades validan la identidad de los funcionarios y servidores que firmen digitalmente los documentos de los actos administrativos generados."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Información digital",
+      "content": "El documento electrónico es firmado digitalmente por los funcionarios y servidores públicos obligados a presentar dicha información en todos los actos de los trámites administrativos aprobados por cada entidad pública. La firma digital se sustenta en el documento nacional de identidad electrónico (DNIe) y los certificados digitales correspondientes."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7.- Firma digital",
+      "content": "7.1 Las entidades implementan la firma digital de manera obligatoria y adecúan sus normas internas para dicho fin. Los documentos electrónicos firmados digitalmente tienen el mismo valor, eficacia jurídica y probatoria que un documento físico impreso y firmado en forma manuscrita por el funcionario y servidor público. 7.2 Al término del plazo de implementación del servicio de mesa de partes digital, regulado por la presente ley, las entidades de la administración pública intercambian documentos electrónicos solo si estos cuentan con las respectivas firmas digitales de los remitentes. 7.3 El Registro Nacional de Identificación y Estado Civil (RENIEC) facilita a las entidades públicas certificados digitales para la creación de las firmas de los funcionarios y servidores públicos."
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8.- Financiamiento",
+      "content": "La implementación de lo establecido en la presente ley se financia con cargo al presupuesto institucional de las entidades correspondientes. PRIMERA. Transformación digital de los procedimientos administrativos Las entidades transforman digitalmente los procedimientos administrativos con el fin de dar mayor celeridad a todos los trámites administrativos y exoneran requisitos necesarios para la atención resolutiva priorizando la atención mediante plataformas y servicios digitales. SEGUNDA. Fiscalización La Presidencia del Consejo de Ministros, a través de la Secretaría de Gobierno Digital, es la autoridad nacional encargada de fiscalizar el cumplimiento de la presente ley en los organismos públicos. TERCERA. Informe al Congreso La Presidencia del Consejo de Ministros informa anualmente a la Comisión de Descentralización, Regionalización, Gobiernos Locales y Modernización de la Gestión del Estado y a la Comisión de Ciencia, Innovación y Tecnología del Congreso de la República, sobre la implementación, adecuación y avance del gobierno y transformación digital. CUARTA. Falta de carácter disciplinario por la no implementación de los servicios de mesa de partes digital y notificación electrónica Una vez que la entidad de la administración pública haya emitido las directivas correspondientes, constituye falta de carácter disciplinario del funcionario o servidor público encargado, bajo cualquier régimen y modalidad contractual con la entidad, el incumplimiento de la implementación de los servicios de mesa de partes digital y notificación electrónica, establecida en la presente ley. La falta será sancionada según la gravedad, previo proceso administrativo. El procedimiento administrativo disciplinario, la graduación y determinación de la sanción se rigen por las normas del régimen disciplinario y sancionador de la Ley 30057, Ley del Servicio Civil, y su reglamento, aprobado por el Decreto Supremo 040-2014-PCM. El procedimiento administrativo disciplinario, la graduación y determinación de la sanción para las entidades públicas fuera del ámbito de la Ley 30057, Ley del Servicio Civil, se rigen por sus normas especiales. El titular de la entidad es el responsable del cumplimiento de la presente disposición. ÚNICA. Implementación de mesas de partes digitales Mientras se mantenga el estado de emergencia y las restricciones de movilidad para afrontar la pandemia del COVID-19, las entidades que no dispongan de una mesa de partes digital o similar implementada utilizan la Plataforma Integral de Solicitudes Digitales del Estado Peruano Facilita Perú para la implementación de la mesa de partes digital estándar. La Secretaría de Gobierno Digital brinda asistencia técnica en este proceso. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los treinta días del mes de marzo de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los veinte días del mes de abril del año dos mil veintiuno. FRANCISCO RAFAEL SAGASTI HOCHHAUSLER Presidente de la República VIOLETA BERMÚDEZ VALDIVIA Presidenta del Consejo de Ministros"
+    }
+  ],
+  "definitions": []
+}

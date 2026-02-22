@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2467497-1",
+  "type": "statute",
+  "title": "Ley que promueve la formalización y el fortalecimiento del modelo de negocio de vehículos gastronómicos",
+  "short_name": "LEY",
+  "status": "in_force",
+  "issued_date": "2025-12-12",
+  "in_force_date": "2025-12-12",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2467497-1",
+  "description": "LEY | Ley que promueve la formalización y el fortalecimiento del modelo de negocio de vehículos gastronómicos",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto promover la formalización y el fortalecimiento del modelo de negocio de vehículos gastronómicos, a fin de propiciar la inclusión y el desarrollo económico de este tipo de emprendimiento que utiliza vehículos motorizados y no motorizados, en los cuales se realiza la preparación, cocción y comercialización de comidas y bebidas saludables en la vía pública."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Ámbito de aplicación",
+      "content": "La presente ley es aplicable a los emprendimientos cuya actividad económica se realice en vehículos motorizados y no motorizados, denominados vehículos gastronómicos, que han sido acondicionados para la preparación, cocción y comercialización de comidas y bebidas saludables en la vía pública."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Definición de vehículo gastronómico",
+      "content": "El vehículo gastronómico es aquel vehículo motorizado y no motorizado que ha sido acondicionado exclusivamente para la preparación, cocción y comercialización de alimentos y bebidas saludables en la vía pública, manteniendo buenas condiciones de conservación, higiene y buenas prácticas de manipulación. Su ubicación no debe representar riesgos a la inocuidad de los productos que se elaboran y expenden. También se les denomina food trucks."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Autorizaciones para el uso de vehículos gastronómicos",
+      "content": "4.1. Los ministerios de la Producción, de Salud y de Transportes y Comunicaciones, en el marco de sus competencias y funciones, establecen las condiciones técnicas mínimas de los vehículos gastronómicos. 4.2. El Ministerio de Transportes y Comunicaciones es el encargado de certificar los vehículos que han pasado la revisión técnica de acondicionamiento, de conformidad con sus directivas, que garanticen la seguridad y salubridad del vehículo gastronómico. 4.3. Los gobiernos locales otorgan la autorización municipal para que los vehículos gastronómicos operen en las zonas de su jurisdicción, siendo requisito indispensable contar con la certificación vehicular establecida en el párrafo 4.2."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Lineamientos para promover el uso de vehículos gastronómicos",
+      "content": "Los ministerios de la Producción, de Transportes y Comunicaciones, y de Salud, así como los gobiernos locales, en el marco de sus competencias, promueven la formalización, el uso y la actividad comercial de los vehículos gastronómicos, considerando los siguientes lineamientos básicos: a) Promover la asociatividad y la formalización de los emprendedores que utilizan vehículos gastronómicos. b) Promover incentivos para los emprendedores que utilizan vehículos gastronómicos. c) Promover procedimientos con plazos breves para el inicio de la actividad comercial de los vehículos gastronómicos. d) Promover la producción y la comercialización de vehículos gastronómicos. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión de la Comisión Permanente realizada el día veinticuatro de julio de dos mil veinticinco, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los once días del mes de diciembre de dos mil veinticinco. FERNANDO MIGUEL ROSPIGLIOSI CAPURRO Primer Vicepresidente encargado de la Presidencia del Congreso de la República WALDEMAR JOSÉ CERRÓN ROJAS Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión de la Comisión Permanente realizada el día veinticuatro de julio de dos mil veinticinco, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art5"
+    }
+  ]
+}

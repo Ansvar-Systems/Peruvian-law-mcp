@@ -1,0 +1,55 @@
+{
+  "id": "pe-nl-2026383-5",
+  "type": "statute",
+  "title": "Decreto Legislativo que prorroga la vigencia de exoneraciones y beneficios tributarios vinculados con el Impuesto General a las Ventas",
+  "short_name": "Nº 1519",
+  "status": "in_force",
+  "issued_date": "2021-12-30",
+  "in_force_date": "2021-12-30",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2026383-5",
+  "description": "DECRETO LEGISLATIVO | Nº 1519 | Decreto Legislativo que prorroga la vigencia de exoneraciones y beneficios tributarios vinculados con el Impuesto General a las Ventas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto prorrogar la vigencia de la exoneración del Impuesto General a las Ventas aplicable a las operaciones contenidas en los Apéndices I y II de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo y a la emisión de dinero electrónico regulada por la Ley N° 29985, Ley que regula las características básicas del dinero electrónico como instrumento de inclusión financiera; así como, la vigencia del Decreto Legislativo Nº 783, a través del cual se aprueba la norma sobre devolución de impuestos que gravan las adquisiciones con donaciones del exterior e importaciones de misiones diplomáticas y otros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Prórroga",
+      "content": "Prorrógase hasta el 31 de diciembre de 2024 la vigencia de: a) El Decreto Legislativo N° 783, que aprueba la norma sobre devolución de impuestos que gravan las adquisiciones con donaciones del exterior e importaciones de misiones diplomáticas y otros. b) La exoneración del Impuesto General a las Ventas por la emisión de dinero electrónico efectuada por las empresas emisoras de dinero electrónico, a que se refiere el artículo 7 de la Ley N° 29985, Ley que regula las características básicas del dinero electrónico como instrumento de inclusión financiera."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del artículo 7 del Texto Único Ordenado de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo",
+      "content": "Modifícase el primer párrafo del artículo 7 del Texto Único Ordenado de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo, aprobado por Decreto Supremo Nº 055-99-EF, por el texto siguiente:"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7.- VIGENCIA Y RENUNCIA A LA EXONERACIÓN",
+      "content": "Las exoneraciones contenidas en los Apéndices I y II tendrán vigencia hasta el 31 de diciembre de 2022. (…).”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por la Presidenta del Consejo de Ministros y el Ministro de Economía y Finanzas. PRIMERA. Vigencia El Decreto Legislativo entra en vigencia a partir del 1 de enero de 2022. SEGUNDA. Transparencia La Superintendencia Nacional de Aduanas y de Administración Tributaria publica anualmente, en su sede digital, la relación de los sujetos acogidos a los beneficios a que se refiere este Decreto Legislativo, identificándolos con su Registro Único de Contribuyentes - RUC y nombre o razón social, según corresponda; así como los montos por cada beneficio o exoneración tributaria otorgada por cada beneficiario. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintinueve días del mes de diciembre del año dos mil veintiuno. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República MIRTHA ESTHER VÁSQUEZ CHUQUILÍN Presidenta del Consejo de Ministros PEDRO FRANCKE BALLVÉ Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prorrógase hasta el 31 de diciembre de 2024 la vigencia de",
+      "definition": "a) El Decreto Legislativo N° 783, que aprueba la norma sobre devolución de impuestos que gravan las adquisiciones con donaciones del exterior e importaciones de misiones diplomáticas y otros",
+      "source_provision": "art2"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

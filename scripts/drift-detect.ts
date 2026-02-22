@@ -16,7 +16,7 @@ import { fileURLToPath } from 'url';
 import Database from 'better-sqlite3';
 
 import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parsePeruvianHtml, KEY_PERUVIAN_ACTS } from './lib/parser.js';
+import { parsePeruvianHtml, type ActIndexEntry } from './lib/parser.js';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const hashesPath = join(__dirname, '../fixtures/golden-hashes.json');
@@ -53,12 +53,36 @@ async function main(): Promise<void> {
 
   for (const row of fixture.provisions) {
     try {
-      const act = KEY_PERUVIAN_ACTS.find(a => a.id === row.document_id);
-      if (!act) {
-        console.log(`  FAIL ${row.id}: document_id not found in parser index (${row.document_id})`);
+      const doc = db.prepare(
+        'SELECT id, title, short_name, issued_date, in_force_date, status, url, description FROM legal_documents WHERE id = ?'
+      ).get(row.document_id) as {
+        id: string;
+        title: string;
+        short_name: string | null;
+        issued_date: string | null;
+        in_force_date: string | null;
+        status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
+        url: string | null;
+        description: string | null;
+      } | undefined;
+
+      if (!doc) {
+        console.log(`  FAIL ${row.id}: document_id missing from legal_documents (${row.document_id})`);
         failed++;
         continue;
       }
+
+      const act: ActIndexEntry = {
+        id: doc.id,
+        title: doc.title,
+        shortName: doc.short_name ?? doc.id,
+        status: doc.status,
+        issuedDate: doc.issued_date ?? '1900-01-01',
+        inForceDate: doc.in_force_date ?? doc.issued_date ?? '1900-01-01',
+        op: row.op,
+        url: doc.url ?? `https://busquedas.elperuano.pe/dispositivo/NL/${row.op}`,
+        description: doc.description ?? undefined,
+      };
 
       const result = await fetchWithRateLimit(`${upstreamBase}/${row.op}`);
       if (result.status !== 200) {

@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2382423-1",
+  "type": "statute",
+  "title": "Ley que protege a los usuarios ante cobros excesivos en el suministro de agua potable",
+  "short_name": "N° 32262",
+  "status": "in_force",
+  "issued_date": "2025-03-20",
+  "in_force_date": "2025-03-20",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2382423-1",
+  "description": "LEY | N° 32262 | Ley que protege a los usuarios ante cobros excesivos en el suministro de agua potable",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto proteger a los usuarios ante cobros excesivos como consecuencia de lecturas atípicas por los servicios de abastecimiento de agua potable y saneamiento."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 47 del Decreto Legislativo 1280, Decreto Legislativo que aprueba la Ley del Servicio Universal de Agua Potable y Saneamiento",
+      "content": "Modifícase el artículo 47 del Decreto Legislativo 1280, Decreto Legislativo que aprueba la Ley del Servicio Universal de Agua Potable y Saneamiento, el cual queda redactado en los términos siguientes:"
+    },
+    {
+      "provision_ref": "art47",
+      "section": "47",
+      "title": "Artículo 47.- Derechos y obligaciones de los usuarios de los servicios de saneamiento",
+      "content": "Los usuarios de categoría residencial, ante la existencia de lecturas atípicas, donde no se revele la existencia de fugas, tendrán el derecho de obtener nuevas facturaciones conforme al promedio histórico de consumo, sin límites de eventualidades que pudiera presentarse durante el periodo de doce (12) meses. El reglamento establece los demás derechos y las obligaciones de los usuarios de los servicios de saneamiento”. ÚNICA. Adecuación del reglamento La Superintendencia Nacional de Servicio de Saneamiento (Sunass) adecúa el Reglamento de Calidad de la Prestación de los Servicios de Saneamiento en un plazo de 60 días calendario contados a partir de la publicación. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día diecisiete de noviembre de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los dieciocho días del mes de marzo de dos mil veinticinco. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día diecisiete de noviembre de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art47"
+    }
+  ]
+}

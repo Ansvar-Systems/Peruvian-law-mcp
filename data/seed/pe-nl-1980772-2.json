@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-1980772-2",
+  "type": "statute",
+  "title": "Ley que modifica el artículo 696 del Código Civil, facilitando el otorgamiento de testamento por escritura pública, y modifica el artículo 38 del Decreto Legislativo 1049, Decreto Legislativo del Notariado, sobre la forma de llevar los registros",
+  "short_name": "Nº 31338",
+  "status": "in_force",
+  "issued_date": "2021-08-11",
+  "in_force_date": "2021-08-11",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1980772-2",
+  "description": "LEY | Nº 31338 | Ley que modifica el artículo 696 del Código Civil, facilitando el otorgamiento de testamento por escritura pública, y modifica el artículo 38 del Decreto Legislativo 1049, Decreto Legislativo del Notariado, sobre la forma de llevar los registros",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Modificación de los numerales 1 y 3 del artículo 696 del Código Civil",
+      "content": "Modifícanse los numerales 1 y 3 del artículo 696 del Código Civil, promulgado por Decreto Legislativo 295, en los términos siguientes: “ Artículo 696. Formalidades esenciales del testamento por escritura pública Las formalidades esenciales del testamento otorgado en escritura pública son: 1. Que estén reunidos en un sólo acto, desde el principio hasta el fin, el testador, el notario y dos testigos hábiles. El notario está obligado a verificar la identidad del testador y los testigos a través del documento de identidad y los medios de identificación biométrica establecidos por el Reniec. Cualquiera de los testigos puede actuar como testigo a ruego del testador o testigo de identidad. [...] 3. Que el notario escriba el testamento de su puño y letra o a través de medios de tecnología informática u otros de naturaleza similar, en su registro de escrituras públicas, pudiendo insertar, de ser el caso, las disposiciones escritas que le sean entregadas por el testador. [...]”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del literal b) del artículo 38 del Decreto Legislativo 1049, Decreto Legislativo del Notariado",
+      "content": "Modifícase el literal b) del artículo 38 del Decreto Legislativo 1049, Decreto Legislativo del Notariado, en los siguientes términos: “ Artículo 38. Forma de llevar los Registros El registro se compondrá de cincuenta fojas ordenadas correlativamente según su numeración. Podrán ser llevados de dos maneras: […] b) En cincuenta hojas de papel emitido por el colegio de notarios, que se colocarán en el orden de su numeración seriada, para permitir el uso de sistemas de impresión computarizado, de tecnología informática u otros de naturaleza similar, o para que el registro se efectúe a mano”. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los diecinueve días del mes de julio de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los diez días del mes de agosto del año dos mil veintiuno. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República GUIDO BELLIDO UGARTE Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Podrán ser llevados de dos maneras",
+      "definition": "[…] b) En cincuenta hojas de papel emitido por el colegio de notarios, que se colocarán en el orden de su numeración seriada, para permitir el uso de sistemas de impresión computarizado, de tecnología informática u otros de naturaleza similar, o para que el registro se efectúe a mano”",
+      "source_provision": "art2"
+    }
+  ]
+}

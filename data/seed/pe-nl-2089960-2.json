@@ -1,0 +1,43 @@
+{
+  "id": "pe-nl-2089960-2",
+  "type": "statute",
+  "title": "Ley que declara feriado nacional el 6 de agosto, día de la conmemoración de la Batalla de Junín",
+  "short_name": "N° 31530",
+  "status": "in_force",
+  "issued_date": "2022-07-26",
+  "in_force_date": "2022-07-26",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2089960-2",
+  "description": "LEY | N° 31530 | Ley que declara feriado nacional el 6 de agosto, día de la conmemoración de la Batalla de Junín",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto declarar el día 6 de agosto como feriado nacional en todas las entidades e instituciones públicas en conmemoración de la Batalla de Junín."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 6 del Decreto Legislativo 713, mediante el cual se consolida la legislación sobre descansos remunerados de los trabajadores sujetos al régimen laboral de la actividad privada",
+      "content": "Modifícase el artículo 6 del Decreto Legislativo 713 en los siguientes términos: “ Artículo 6.- Son días feriados los siguientes: - Año Nuevo (01 de enero) - Jueves Santo y Viernes Santo (movibles) - Día del Trabajo (01 de mayo) - San Pedro y San Pablo (29 de junio) - Fiestas Patrias (28 y 29 de julio) - Batalla de Junín (06 de agosto) - Santa Rosa de Lima (30 de agosto) - Combate de Angamos (08 de octubre) - Todos los Santos (01 de noviembre) - Concepción (08 de diciembre) - Batalla de Ayacucho (09 de diciembre) - Navidad del Señor (25 de diciembre)”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Actividades conmemorativas",
+      "content": "Los ministerios de Educación, de Cultura y de Defensa programan las actividades oficiales conmemorativas de la Batalla de Junín y su significación histórica, a cumplirse en las instituciones educativas públicas y privadas, y en todas las entidades del sector público. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los doce días del mes de julio de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los veinticinco días del mes de julio del año dos mil veintidós. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República ANÍBAL TORRES VÁSQUEZ Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Modifícase el artículo 6 del Decreto Legislativo 713 en los siguientes términos",
+      "definition": "“ Artículo 6",
+      "source_provision": "art2"
+    },
+    {
+      "term": "- Son días feriados los siguientes",
+      "definition": "- Año Nuevo (01 de enero) - Jueves Santo y Viernes Santo (movibles) - Día del Trabajo (01 de mayo) - San Pedro y San Pablo (29 de junio) - Fiestas Patrias (28 y 29 de julio) - Batalla de Junín (06 de agosto) - Santa Rosa de Lima (30 de agosto) - Combate de Angamos (08 de octubre) - Todos los Santos (01 de noviembre) - Concepción (08 de diciembre) - Batalla de Ayacucho (09 de diciembre) - Navidad d",
+      "source_provision": "art2"
+    }
+  ]
+}

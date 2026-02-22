@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-1685574-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica los artículos 161 y 471 del Código Procesal Penal, promulgado por el Decreto Legislativo N° 957",
+  "short_name": "N° 1382",
+  "status": "in_force",
+  "issued_date": "2018-08-28",
+  "in_force_date": "2018-08-28",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1685574-2",
+  "description": "DECRETO LEGISLATIVO | N° 1382 | Decreto Legislativo que modifica los artículos 161 y 471 del Código Procesal Penal, promulgado por el Decreto Legislativo N° 957",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto eliminar los efectos de la confesión sincera en los delitos de feminicidio y contra la libertad sexual, así como los efectos de la terminación anticipada en el delito de feminicidio, para la aplicación de una pena proporcional en relación con la afectación de los bienes jurídicos protegidos por dichos delitos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los artículos 161 y 471 del Código Procesal Penal",
+      "content": "Modifícanse los artículos 161 y 471 del Código Procesal Penal, promulgado por el Decreto Legislativo Nº 957, en los términos siguientes:"
+    },
+    {
+      "provision_ref": "art161",
+      "section": "161",
+      "title": "Artículo 161.- Efecto de la confesión sincera",
+      "content": "(…) Este beneficio también es inaplicable en los casos de delitos previstos en los artículos 108-B, 170, 171, 172, 173 y 174, así como en sus formas agravadas previstas en el artículo 177 del Código Penal.”"
+    },
+    {
+      "provision_ref": "art471",
+      "section": "471",
+      "title": "Artículo 471.- Reducción adicional acumulable",
+      "content": "(…) La reducción de la pena por terminación anticipada tampoco procede en el caso del delito previsto en el artículo 108-B del Código Penal.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, el Ministro de Justicia y Derechos Humanos, y la Ministra de la Mujer y Poblaciones Vulnerables. Única. Solicitudes en trámite La presente norma no resulta aplicable a las solicitudes de confesión sincera y de terminación anticipada en trámite. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintisiete días del mes de agosto del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República CÉSAR VILLANUEVA ARÉVALO Presidente del Consejo de Ministros VICENTE ANTONIO ZEBALLOS SALINAS Ministro de Justicia y Derechos Humanos ANA MARÍA MENDIETA TREFOGLI Ministra de la Mujer y Poblaciones Vulnerables"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

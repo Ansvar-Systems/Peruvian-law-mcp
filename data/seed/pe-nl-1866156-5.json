@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-1866156-5",
+  "type": "statute",
+  "title": "Decreto Legislativo que extiende el plazo de arrastre de pérdidas bajo el Sistema A)",
+  "short_name": "N° 1481",
+  "status": "in_force",
+  "issued_date": "2020-05-08",
+  "in_force_date": "2020-05-08",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866156-5",
+  "description": "DECRETO LEGISLATIVO | N° 1481 | Decreto Legislativo que extiende el plazo de arrastre de pérdidas bajo el Sistema A)",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto extender de manera excepcional el plazo de arrastre de pérdidas bajo el sistema a) de compensación de pérdidas previsto en el artículo 50 de la Ley, únicamente para la pérdida neta total de tercera categoría de fuente peruana registrada en el ejercicio gravable 2020, atendiendo al impacto en la economía nacional que genera en este año el aislamiento social obligatorio dispuesto en la declaratoria de Estado de Emergencia Nacional decretado frente a las graves circunstancias que afectan la vida de la Nación a consecuencia del COVID-19."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto del presente Decreto Legislativo se entiende por Ley al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por el Decreto Supremo N° 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Sujetos comprendidos",
+      "content": "Lo dispuesto en el presente Decreto Legislativo resulta aplicable a los contribuyentes domiciliados en el país generadores de rentas de tercera categoría que hubiesen optado u opten, según corresponda, por compensar su pérdida neta total de tercera categoría de fuente peruana bajo el sistema a) de compensación de pérdidas previsto en el artículo 50 de la Ley."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Arrastre de pérdidas netas registradas en el ejercicio 2020 bajo el sistema a) de compensación de pérdidas",
+      "content": "Los contribuyentes a que se refiere el artículo 3 del presente Decreto Legislativo compensarán la pérdida neta total de tercera categoría de fuente peruana que registren en el ejercicio gravable 2020 imputándola año a año, hasta agotar su importe, a las rentas netas de tercera categoría que obtengan en los cinco (5) ejercicios inmediatos posteriores computados a partir del ejercicio gravable 2021. El saldo que no resulte compensado una vez transcurrido ese lapso, no podrá computarse en los ejercicios siguientes."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y la Ministra de Economía y Finanzas. Primera. Vigencia El presente Decreto Legislativo entra en vigencia a partir del día siguiente de su publicación en el diario oficial “El Peruano”. Segunda. Normas del impuesto a la renta Es aplicable lo dispuesto en la Ley y en su Reglamento, en tanto no se oponga a lo dispuesto en el presente Decreto Legislativo. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los siete días del mes de mayo del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros MARÍA ANTONIETA ALVA LUPERDI Ministra de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

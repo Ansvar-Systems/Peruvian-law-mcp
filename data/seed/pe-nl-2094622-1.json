@@ -1,0 +1,43 @@
+{
+  "id": "pe-nl-2094622-1",
+  "type": "statute",
+  "title": "Ley que modifica la fórmula de cálculo de la compensación por tiempo de servicios (CTS) de los docentes contratados, auxiliares de educación nombrados y contratados de las instituciones educativas públicas, establecidos en las Leyes 31278 y 30493",
+  "short_name": "N° 31552",
+  "status": "in_force",
+  "issued_date": "2022-08-11",
+  "in_force_date": "2022-08-11",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2094622-1",
+  "description": "LEY | N° 31552 | Ley que modifica la fórmula de cálculo de la compensación por tiempo de servicios (CTS) de los docentes contratados, auxiliares de educación nombrados y contratados de las instituciones educativas públicas, establecidos en las Leyes 31278 y 30493",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Modificación de la Ley 31278, Ley que modifica el artículo 2 de la Ley 30328, Ley que establece medidas en materia educativa y dicta otras disposiciones",
+      "content": "Se modifica el literal h) del inciso 2.1 y el inciso 2.2 del artículo único de la Ley 31278, y que modifica el artículo 2 de la Ley 30328, Ley que establece medidas en materia educativa y dicta otras disposiciones, el que queda redactado en los siguientes términos: “ Artículo 2. Derechos y beneficios 2.1. El profesorado contratado en el marco del Contrato de Servicio Docente, perciben los siguientes conceptos: […] h) Compensación por tiempo de servicios. El profesor contratado recibe una compensación por tiempo de servicios (CTS), la que se otorga al finalizar su vínculo laboral, a razón del 100 % de su remuneración íntegra mensual (RIM), por año o fracción mayor a seis (6) meses de servicios trabajados. 2.2. Los montos, criterios y condiciones correspondientes a los conceptos señalados en los literales a), b), f) y g) se aprueban por decreto supremo refrendado por el ministro de Economía y Finanzas y el ministro de Educación, a propuesta de este último. […]”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del literal f.3. del artículo 2 y del literal f.2. del artículo 3 de la Ley 30493",
+      "content": "2.1. Se modifica el literal f.3. del artículo 2 de la Ley 30493, en los siguientes términos: “ Artículo 2. Política remunerativa del auxiliar de educación nombrado […] f.3. Compensación por tiempo de servicios: Se otorga al momento de su cese, a razón de cien por ciento (100 %) de su remuneración mensual (RM), por año o fracción mayor a seis (6) meses de servicios oficiales”. 2.2. Se modifica el literal f.2. del artículo 3 de la Ley 30493, en los siguientes términos: “ Artículo 3. Política remunerativa del auxiliar de educación contratado […] f.2. Compensación por tiempo de servicios: Se otorga al momento de la finalización de su vínculo laboral, a razón del cien por ciento (100 %) de su remuneración mensual (RM), por año o de la totalidad de los meses y días de servicios trabajados”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Financiamiento",
+      "content": "Lo establecido en la presente ley se financia con cargo al presupuesto institucional del Ministerio de Educación y de los gobiernos regionales, sin demandar recursos al tesoro público. Se implementa de forma progresiva, en el marco de la Ley de responsabilidad y transparencia fiscal y las reglas macrofiscales. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los trece días del mes de julio de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: No habiendo sido promulgada dentro del plazo constitucional por el señor Presidente de la República, en cumplimiento de los artículos 108 de la Constitución Política del Perú y 80 del Reglamento del Congreso de la República, ordeno que se publique y cumpla. En Lima, a los diez días del mes de agosto de dos mil veintidós. LADY MERCEDES CAMONES SORIANO Presidenta del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Compensación por tiempo de servicios",
+      "definition": "Se otorga al momento de su cese, a razón de cien por ciento (100 %) de su remuneración mensual (RM), por año o fracción mayor a seis (6) meses de servicios oficiales”",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Compensación por tiempo de servicios",
+      "definition": "Se otorga al momento de la finalización de su vínculo laboral, a razón del cien por ciento (100 %) de su remuneración mensual (RM), por año o de la totalidad de los meses y días de servicios trabajados”",
+      "source_provision": "art2"
+    }
+  ]
+}

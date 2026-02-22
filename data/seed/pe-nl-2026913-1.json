@@ -1,0 +1,48 @@
+{
+  "id": "pe-nl-2026913-1",
+  "type": "statute",
+  "title": "Ley que declara feriado nacional el 9 de diciembre en conmemoración de la Batalla de Ayacucho, que consolidó la independencia de América",
+  "short_name": "N° 31381",
+  "status": "in_force",
+  "issued_date": "2021-12-31",
+  "in_force_date": "2021-12-31",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2026913-1",
+  "description": "LEY | N° 31381 | Ley que declara feriado nacional el 9 de diciembre en conmemoración de la Batalla de Ayacucho, que consolidó la independencia de América",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto declarar el 9 de diciembre como día feriado nacional en todas las entidades e instituciones públicas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 2 de la Ley 24682",
+      "content": "Modifícase el artículo 2 de la Ley 24682 en los siguientes términos: “ Artículo 2.- Declárase el 9 de diciembre día feriado nacional en todas las entidades e instituciones públicas del país por conmemorarse la Batalla de Ayacucho, que consolidó la independencia de América”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del artículo 6 del Decreto Legislativo 713",
+      "content": "Modifícase el artículo 6 del Decreto Legislativo 713 en los siguientes términos: “ Artículo 6.- Son días feriados los siguientes: - Año Nuevo (01 de enero) - Jueves Santo y Viernes Santo (movibles) - Día del Trabajo (01 de mayo) - San Pedro y San Pablo (29 de junio) - Fiestas Patrias (28 y 29 de julio) - Santa Rosa de Lima (30 de agosto) - Combate de Angamos (08 de octubre) - Todos los Santos (01 de noviembre) - Inmaculada Concepción (08 de diciembre) - Batalla de Ayacucho (09 de diciembre) - Navidad del Señor (25 de diciembre)”. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los nueve días del mes de diciembre de dos mil veintiuno. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los treinta días del mes de diciembre del año dos mil veintiuno. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República MIRTHA ESTHER VÁSQUEZ CHUQUILÍN Presidenta del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Modifícase el artículo 2 de la Ley 24682 en los siguientes términos",
+      "definition": "“ Artículo 2",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Modifícase el artículo 6 del Decreto Legislativo 713 en los siguientes términos",
+      "definition": "“ Artículo 6",
+      "source_provision": "art3"
+    },
+    {
+      "term": "- Son días feriados los siguientes",
+      "definition": "- Año Nuevo (01 de enero) - Jueves Santo y Viernes Santo (movibles) - Día del Trabajo (01 de mayo) - San Pedro y San Pablo (29 de junio) - Fiestas Patrias (28 y 29 de julio) - Santa Rosa de Lima (30 de agosto) - Combate de Angamos (08 de octubre) - Todos los Santos (01 de noviembre) - Inmaculada Concepción (08 de diciembre) - Batalla de Ayacucho (09 de diciembre) - Navidad del Señor (25 de diciemb",
+      "source_provision": "art3"
+    }
+  ]
+}

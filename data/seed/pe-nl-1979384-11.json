@@ -1,0 +1,43 @@
+{
+  "id": "pe-nl-1979384-11",
+  "type": "statute",
+  "title": "Ley que declara de interés nacional otorgar a los bomberos voluntarios del Perú una pensión de retiro mensual y vitalicia",
+  "short_name": "Nº 31329",
+  "status": "in_force",
+  "issued_date": "2021-08-06",
+  "in_force_date": "2021-08-06",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1979384-11",
+  "description": "LEY | Nº 31329 | Ley que declara de interés nacional otorgar a los bomberos voluntarios del Perú una pensión de retiro mensual y vitalicia",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Declaración de interés nacional",
+      "content": "Declárase de interés nacional el otorgamiento de una pensión, mensual y vitalicia, a los bomberos voluntarios del Perú que cumplan con los siguientes presupuestos concurrentes: Haber cumplido 65 años de edad, contar con 20 años de servicios ininterrumpidos como bombero voluntario y no encontrarse afiliado o cotizando para el Sistema Nacional de Pensiones (SNP), para el Sistema Privado de Pensiones (SPP) u otro régimen pensionario creado o por crearse. ÚNICA. Modificación de los artículos 8 y 26 del Decreto Legislativo 1260 Modifícanse el literal a) del numeral 8.1 del artículo 8 y el literal b) del artículo 26 del Decreto Legislativo 1260, Decreto Legislativo que fortalece el Cuerpo General de Bomberos Voluntarios del Perú como parte de Sistema Nacional de Seguridad Ciudadana y regula la Intendencia Nacional de Bomberos del Perú, en los términos siguientes:"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "Artículo 8.- Causales de Pase a retiro y Expulsiones del CGBVP",
+      "content": "8.1. Los Bomberos Activos pasan al retiro por cualquiera de las causales siguientes: a) Haber cumplido 65 (sesenta y cinco) años de edad. […]”."
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Artículo 26.- Causales de vacancia del Intendente Nacional",
+      "content": "Son causales de vacancia del cargo: […] b) Haber cumplido 65 (sesenta y cinco) años de edad. […]”. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los seis días del mes de julio de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: No habiendo sido promulgada dentro del plazo constitucional por el señor Presidente de la República, en cumplimiento de los artículos 108 de la Constitución Política del Perú y 80 del Reglamento del Congreso de la República, ordeno que se publique y cumpla. En Lima, a los cinco días del mes de agosto de dos mil veintiuno. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Los Bomberos Activos pasan al retiro por cualquiera de las causales siguientes",
+      "definition": "a) Haber cumplido 65 (sesenta y cinco) años de edad",
+      "source_provision": "art8"
+    },
+    {
+      "term": "Son causales de vacancia del cargo",
+      "definition": "[…] b) Haber cumplido 65 (sesenta y cinco) años de edad",
+      "source_provision": "art26"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2458665-1",
+  "type": "statute",
+  "title": "Ley que promueve la vacunación contra el virus del papiloma humano (VPH) de los pacientes con virus de inmunodeficiencia humana (VIH), tuberculosis (TBC) e inmunosupresión",
+  "short_name": "LEY",
+  "status": "in_force",
+  "issued_date": "2025-11-14",
+  "in_force_date": "2025-11-14",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2458665-1",
+  "description": "LEY | Ley que promueve la vacunación contra el virus del papiloma humano (VPH) de los pacientes con virus de inmunodeficiencia humana (VIH), tuberculosis (TBC) e inmunosupresión",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto promover la vacunación contra el virus del papiloma humano (VPH) de los pacientes con virus de inmunodeficiencia humana (VIH) o con tuberculosis (TBC) o que padezcan inmunosupresión por cualquier tipo de comorbilidad, para protegerlos contra el VPH."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad de la Ley",
+      "content": "La presente ley tiene por finalidad combatir la mortalidad en la población que padece cáncer cervicouterino, fortaleciendo la lucha contra este tipo de cáncer inmunoprevenible al impulsar la vacunación contra el VPH como principal medida preventiva en beneficio de pacientes con VIH, TBC y para todos aquellos que padezcan inmunosupresión, con arreglo a las normas técnicas y al esquema que apruebe la autoridad nacional de salud."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Plan de lineamientos",
+      "content": "El Ministerio de Salud, para la aplicación de la presente ley, elabora un plan de lineamientos que permita supervisar de manera constante la vacunación contra el cáncer cervicouterino de los pacientes con VIH, TBC y de todos aquellos que padezcan inmunosupresión. Este plan incluye los siguientes lineamientos: a) Prevención. Se prioriza la vacunación gratuita contra el virus del papiloma humano (VPH), dirigida a la población de riesgo, según estándares internacionales y con arreglo a las normas técnicas y al esquema que apruebe la autoridad nacional de salud, así como la realización de campañas de información en todas las instituciones educativas. b) Detección temprana. Acceso obligatorio y gratuito a las pruebas de Papanicolaou y de detección del VPH, según los protocolos establecidos por el Ministerio de Salud, con la participación de los profesionales médicos, obstetras y enfermeras. c) Tratamiento. Acceso a tratamiento médico o quirúrgico a nivel nacional."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Cierre de brechas y ampliación de cobertura",
+      "content": "El Ministerio de Salud adopta las acciones necesarias para el cierre de brechas en la cobertura de la vacunación contra el virus del papiloma humano (VPH) para los pacientes con VIH, TBC y todos aquellos que padezcan inmunosupresión por cualquier tipo de comorbilidad, que incluyan campañas de difusión y promoción referentes a los beneficios de la vacunación contra el VPH, dirigidas al grupo de pacientes beneficiarios, con arreglo a las normas técnicas y al esquema que apruebe la autoridad nacional de salud. PRIMERA. Declaración de interés nacional Se declara de interés nacional la creación e implementación del Plan Nacional para la prevención, detección y tratamiento del cáncer de cuello uterino, con estrategias integrales que contribuyan a reducir y eliminar esta enfermedad en el territorio nacional. SEGUNDA. Financiamiento Se autoriza al Ministerio de Salud, a sus organismos públicos y a los gobiernos regionales para que realicen modificaciones presupuestarias, con cargo a su presupuesto institucional, a fin de promover la vacunación contra el virus del papiloma humano (VPH) en los pacientes con virus de inmunodeficiencia humana (VIH), tuberculosis (TBC) o que padezcan inmunosupresión. TERCERA. Reglamentación El Poder Ejecutivo aprueba el reglamento de la presente ley en un plazo no mayor de sesenta días calendario contados a partir de su vigencia Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los tres días del mes de noviembre de dos mil veinticinco. FERNANDO MIGUEL ROSPIGLIOSI CAPURRO Primer Vicepresidente encargado de la Presidencia del Congreso de la República WALDEMAR JOSÉ CERRÓN ROJAS Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los trece días del mes de noviembre del año dos mil veinticinco. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Este plan incluye los siguientes lineamientos",
+      "definition": "a) Prevención",
+      "source_provision": "art3"
+    }
+  ]
+}

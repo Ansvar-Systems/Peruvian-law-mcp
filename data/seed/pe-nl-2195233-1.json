@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2195233-1",
+  "type": "statute",
+  "title": "Ley del joven empresario",
+  "short_name": "N° 31828",
+  "status": "in_force",
+  "issued_date": "2023-07-12",
+  "in_force_date": "2023-07-12",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2195233-1",
+  "description": "LEY | N° 31828 | Ley del joven empresario",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto establecer un marco normativo promotor a fin de generar fuentes de trabajo para jóvenes que contribuyan con éxito al desarrollo del país dentro de una economía social de mercado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Alcances de la Ley",
+      "content": "La presente ley se aplica a todas las empresas que se encuentren debidamente inscritas ante la Superintendencia Nacional de los Registros Públicos (SUNARP)."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Beneficios",
+      "content": "Las empresas bajo el alcance de la presente ley tienen los siguientes beneficios: a) Proceso de constitución e inscripción registral simplificada de la empresa, para cuyo efecto el Ministerio de la Producción realiza las acciones y suscribe los convenios que fueran necesarios para su cumplimiento. b) El contribuyente sujeto al régimen general del impuesto a la renta o al Régimen MYPE Tributario que contrate uno o más trabajadores nuevos, para efectos de la determinación del impuesto a la renta de los ejercicios 2024 y 2025, puede aplicar una deducción adicional equivalente al 50 % de la remuneración básica que pague al nuevo trabajador, independientemente de su jornada de trabajo y su modalidad contractual, siempre que cumpla con los siguientes requisitos: b.1 El trabajador tiene, al momento de su contratación, una edad igual o mayor a 18 años y no mayor a 29 años. b.2 El trabajador no debe estar registrado en la planilla electrónica de una o más empresas en un periodo de doce meses previos a la fecha de inicio de labores. b.3 La remuneración básica mensual del nuevo trabajador no supera los S/ 1 700 (mil setecientos soles). Tratándose de trabajadores cuya remuneración sea variable o imprecisa, se considera cumplido el requisito si el promedio mensual de las remuneraciones percibidas durante los meses de enero a diciembre de los ejercicios 2024 y 2025 no superan los S/ 1 700 (mil setecientos soles). b.4 El empleador incorpora al nuevo trabajador en el T-Registro de la planilla electrónica dentro de los plazos previstos en la legislación vigente. b.5 El número de trabajadores registrados en la planilla electrónica del empleador es mayor al empleo en el periodo base, de acuerdo con lo establecido en el reglamento. b.6 La relación laboral se inicia a partir del 1 de enero de 2024. b.7 El plazo mínimo de vigencia del contrato de trabajo es de un mes. c) Devolución del impuesto general a las ventas (IGV) para las operaciones de exportación de bienes y servicios, conforme a lo previsto en la legislación vigente. d) En los procesos de contrataciones de bienes, servicios u obras de las entidades del sector público, las empresas constituidas por jóvenes, cuya edad sea igual o mayor a 18 años y no mayor a 29 años, tienen una bonificación de puntaje adicional de 5 % en la propuesta técnica."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Fondo de la Corporación Financiera de Desarrollo S.A.",
+      "content": "Se autoriza al Ministerio de Economía y Finanzas para otorgar a la Corporación Financiera de Desarrollo S.A. (COFIDE) una línea de financiamiento para la creación de un fondo orientado a financiar los emprendimientos liderados por jóvenes cuya edad sea igual o mayor a 18 años y no mayor a 29 años, con tasas de interés preferencial."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Convenios",
+      "content": "Se autoriza al Ministerio de la Producción para que suscriba convenios con las entidades de certificación autorizadas por el Instituto Nacional de Defensa de la Competencia y de la Protección a la Propiedad Intelectual (Indecopi) o el Registro Nacional de Identificación y Estado Civil (Reniec) a efectos de facilitar la constitución simplificada de la sociedad por acciones cerrada simplificada (SACS) para los jóvenes empresarios. PRIMERA. Verificación de identidad La Superintendencia Nacional de los Registros Públicos, en su calidad de administradora del Sistema de Intermediación Digital de SUNARP (SID-SUNARP), habilita otros medios de verificación de identidad adicionales al establecido en el Decreto Legislativo 1409, utilizando herramientas tecnológicas que permitan identificar a los socios que constituyan una sociedad por acciones cerrada simplificada (SACS) a través del Módulo SACS. SEGUNDA. Reglamentación El Poder Ejecutivo, a través de sus entidades correspondientes, dictará las disposiciones reglamentarias y complementarias referidas a la presente ley en un plazo no mayor de sesenta días calendario contados a partir de la fecha de publicación en el diario oficial El Peruano. Cabe precisar que las disposiciones en materia tributaria las reglamenta el Ministerio de Economía y Finanzas en el mismo término. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los veintiún días del mes de junio de dos mil veintitrés. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los once días del mes de julio del año dos mil veintitrés. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República LUIS ALBERTO OTÁROLA PEÑARANDA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Las empresas bajo el alcance de la presente ley tienen los siguientes beneficios",
+      "definition": "a) Proceso de constitución e inscripción registral simplificada de la empresa, para cuyo efecto el Ministerio de la Producción realiza las acciones y suscribe los convenios que fueran necesarios para su cumplimiento",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-1866211-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que incorpora una Disposición Complementaria, Transitoria y Final a la Ley N° 29944, Ley de Reforma Magisterial",
+  "short_name": "N° 1494",
+  "status": "in_force",
+  "issued_date": "2020-05-10",
+  "in_force_date": "2020-05-10",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866211-1",
+  "description": "DECRETO LEGISLATIVO | N° 1494 | Decreto Legislativo que incorpora una Disposición Complementaria, Transitoria y Final a la Ley N° 29944, Ley de Reforma Magisterial",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto incorporar una Disposición Complementaria, Transitoria y Final a la Ley N° 29944, Ley de Reforma Magisterial, que autoriza de manera excepcional, por la situación de Emergencia Sanitaria y Emergencia Nacional que enfrenta el país a consecuencia del COVID-19, la conclusión del concurso de ingreso a la Carrera Pública Magisterial previsto para el año 2020; asimismo, se habilita al Ministerio de Educación a evaluar la implementación de las evaluaciones en el marco de la Ley N° 29944, Ley de Reforma Magisterial para el año 2020."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Incorporación de la Vigésima Cuarta Disposición Complementaria, Transitoria y Final a la Ley N° 29944, Ley de Reforma Magisterial",
+      "content": "Incorpórase la Vigésima Cuarta Disposición Complementaria, Transitoria y Final a la Ley N° 29944, Ley de Reforma Magisterial, en los siguientes términos: “VIGÉSIMA CUARTA. Concurso público de Ingreso a la Carrera Pública Magisterial y evaluaciones en el marco de la Ley de Reforma Magisterial, para el año 2020 Dar por concluido el Concurso para el Ingreso a la Carrera Pública Magisterial previsto para el año 2020, en virtud a la situación de Estado de Emergencia Sanitaria y Emergencia Nacional a consecuencia del COVID-19. Excepcionalmente, los profesores que se hayan inscrito en el mencionado concurso, son considerados como postulantes habilitados para participar en el Concurso de Ingreso a la Carrera Pública Magisterial que se implementará en el año 2021, salvo que declaren su intención de no participar en el mismo. La presente disposición no modifica la convocatoria anual al concurso de ingreso a la Carrera Pública Magisterial prevista en la Vigésima Segunda Disposición Complementaria, Transitoria y Final de la presente Ley. En atención a las disposiciones que emita el Gobierno Nacional a consecuencia del avance del COVID-19, el Ministerio de Educación excepcionalmente, evalúa la implementación de los concursos regulados en la Ley N° 29944, Ley de Reforma Magisterial, pendientes de realizar en el año 2020. En el caso de las evaluaciones de desempeño docente, su implementación está sujeta al restablecimiento del servicio educativo presencial en las instituciones educativas en el presente año.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Financiamiento",
+      "content": "La implementación de lo establecido en el presente Decreto Legislativo se financia con cargo al presupuesto institucional de las entidades involucradas, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Educación. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de mayo del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros CARLOS MARTÍN BENAVIDES ABANTO Ministro de Educación"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

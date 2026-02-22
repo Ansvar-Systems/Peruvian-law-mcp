@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-2478557-3",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el Código Penal, promulgado mediante Decreto Legislativo N° 635, para fortalecer el principio de autoridad",
+  "short_name": "N° 1696",
+  "status": "in_force",
+  "issued_date": "2026-01-20",
+  "in_force_date": "2026-01-20",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2478557-3",
+  "description": "DECRETO LEGISLATIVO | N° 1696 | Decreto Legislativo que modifica el Código Penal, promulgado mediante Decreto Legislativo N° 635, para fortalecer el principio de autoridad",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar los artículos 57 y 368 del Código Penal, promulgado por el Decreto Legislativo Nº 635."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad",
+      "content": "La finalidad del presente Decreto Legislativo es fortalecer la autoridad del Estado y la observancia del principio de legalidad, adecuando la respuesta penal a la gravedad de las conductas que atentan contra la función pública y los mandatos legítimos de la autoridad."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación de los artículos 57 y 368 del Código Penal, promulgado por el Decreto Legislativo Nº 635",
+      "content": "Se modifican los artículos 57 y 368 del Código Penal, promulgado por el Decreto Legislativo Nº 635, en los términos siguientes: “ Artículo 57.- Requisitos El juez puede suspender la ejecución de la pena siempre que se reúnan los requisitos siguientes: 1. Que la condena se refiera a pena privativa de libertad no mayor de cinco años. 2. Que la naturaleza, modalidad del hecho punible, comportamiento procesal y la personalidad del agente, permitan inferir al juez que aquel no volverá a cometer un nuevo delito. El pronóstico favorable sobre la conducta futura del condenado que formule la autoridad judicial requiere de debida motivación. 3. Que el agente no tenga la condición de reincidente o habitual. Excepcionalmente, puede aplicarse lo establecido en el presente artículo cuando la condena se refiera a pena privativa de libertad no mayor de ocho (8) años y el autor o partícipe del delito carezca de antecedentes penales y sea menor de veinticinco (25) años al momento de cometer el delito. Para este supuesto es aplicable lo previsto en el numeral 2 del párrafo anterior, exigiéndose una motivación reforzada. El plazo de suspensión es de uno (1) a cuatro (4) años. En caso de la excepción prevista en el párrafo anterior, el plazo de suspensión puede extenderse hasta siete (7) años. La suspensión de la ejecución de la pena es inaplicable a los funcionarios o servidores públicos condenados por cualquiera de los delitos dolosos previstos en los artículos 384, 387, segundo párrafo del artículo 389, 395, 396, 399 y 401 del Código, así como para las personas condenadas por los delitos de agresiones en contra de las mujeres o integrantes del grupo familiar (artículo 122-B), por el delito de lesiones leves previstas en los literales c), d) y e) del numeral 3) del artículo 122, o por los delitos comprendidos en los artículos 108-B, 152, 189, 200 (excepto los párrafos tercero y cuarto), 317 y 367 o por cualquiera de los delitos comprendidos en el Título I-A y en el Capítulo IX del Título IV del Libro Segundo.”"
+    },
+    {
+      "provision_ref": "art368",
+      "section": "368",
+      "title": "Artículo 368.- Resistencia o desobediencia a la autoridad",
+      "content": "El que desobedece o resiste la orden legalmente impartida por un funcionario público en el ejercicio de sus atribuciones, salvo que se trate de la propia detención, será reprimido con pena privativa de libertad no menor de cinco (5) ni mayor de ocho (8) años. (…)”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Financiamiento",
+      "content": "La implementación del presente Decreto Legislativo se financia con cargo al presupuesto de las instituciones públicas involucradas, por lo cual no irroga recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, el Ministro del Interior y el Ministro de Justicia y Derechos Humanos. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los diecinueve días del mes de enero del dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros VICENTE TIBURCIO ORBEZO Ministro del Interior WALTER ELEODORO MARTÍNEZ LAURA Ministro de Justicia y Derechos Humanos"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

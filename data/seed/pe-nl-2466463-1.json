@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2466463-1",
+  "type": "statute",
+  "title": "Ley que declara de necesidad pública e interés nacional la construcción, mejora, modernización, ampliación o repotenciación de los aeropuertos en todo el territorio nacional, para promover el desarrollo económico de los departamentos y fortalecer la conectividad nacional, el turismo y la descentralización del transporte aéreo",
+  "short_name": "LEY",
+  "status": "in_force",
+  "issued_date": "2025-12-06",
+  "in_force_date": "2025-12-06",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2466463-1",
+  "description": "LEY | Ley que declara de necesidad pública e interés nacional la construcción, mejora, modernización, ampliación o repotenciación de los aeropuertos en todo el territorio nacional, para promover el desarrollo económico de los departamentos y fortalecer la conectividad nacional, el turismo y la descentralización del transporte aéreo",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Declaración de necesidad pública e interés nacional",
+      "content": "Se declara de necesidad pública e interés nacional la construcción, mejora, modernización, ampliación o repotenciación de los aeropuertos en todo el territorio nacional, para promover el desarrollo económico de los departamentos y fortalecer la conectividad nacional, el turismo y la descentralización del transporte aéreo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad de la Ley",
+      "content": "La presente ley tiene por finalidad fortalecer la participación del Estado, en sus tres niveles de gobierno, atendiendo la construcción y repotenciación de los aeropuertos, la modernización o la ampliación de las instalaciones del lado tierra, como terminales de pasajeros y otros, el mejoramiento de la infraestructura del lado aire, como pistas de aterrizaje, pistas de rodaje, plataforma de estacionamiento de aeronaves y otros."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Ámbito de aplicación",
+      "content": "La presente ley es aplicable para los proyectos de construcción, modernización, ampliación, mejora o repotenciación de los aeropuertos en todo el país, priorizando: • El mejoramiento del Aeropuerto José Abelardo Quiñones Gonzales ubicado en la provincia de Chiclayo, departamento de Lambayeque. • La construcción y funcionamiento del Aeropuerto de Parinacochas ubicado en el distrito de Puyusca, provincia de Parinacochas, departamento de Ayacucho. • La construcción del Aeropuerto Internacional en el distrito de Orcotuna, provincia de Concepción, departamento de Junín."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- De la ejecución",
+      "content": "El Ministerio de Transportes y Comunicaciones, a través del órgano competente, ejecuta los estudios, planes y acciones para la construcción, modernización, ampliación, mejora o repotenci ación de los aeropuertos y determin a la prelación de su inclusión en el Programa Multianual de Inversiones. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dos de abril de dos mil veinticinco, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los cinco días del mes de diciembre de dos mil veinticinco. FERNANDO MIGUEL ROSPIGLIOSI CAPURRO Primer Vicepresidente encargado de la Presidencia del Congreso de la República WALDEMAR JOSÉ CERRÓN ROJAS Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dos de abril de dos mil veinticinco, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art4"
+    }
+  ]
+}

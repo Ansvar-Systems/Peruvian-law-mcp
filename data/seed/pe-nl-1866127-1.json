@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-1866127-1",
+  "type": "statute",
+  "title": "Resolución Legislativa del Congreso que acepta la renuncia de la Segunda Vicepresidenta de la República",
+  "short_name": "N° 003-2020-2021-CR",
+  "status": "in_force",
+  "issued_date": "2020-05-08",
+  "in_force_date": "2020-05-08",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866127-1",
+  "description": "RESOLUCION LEGISLATIVA | N° 003-2020-2021-CR | Resolución Legislativa del Congreso que acepta la renuncia de la Segunda Vicepresidenta de la República",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Aceptación de la renuncia de la segunda vicepresidenta de la República",
+      "content": "Acéptase la renuncia de la ciudadana Mercedes Rosalba Aráoz Fernández al cargo de segunda vicepresidenta de la República, presentada ante el Congreso de la República el 1 de octubre de 2019. POR TANTO: Cúmplase y publíquese. Dada en el Palacio Legislativo, en Lima, a los siete días del mes de mayo de dos mil veinte. MANUEL MERINO DE LAMA Presidente del Congreso de la República LUIS VALDEZ FARÍAS Primer Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Cúmplase y publíquese",
+      "source_provision": "artunico"
+    }
+  ]
+}

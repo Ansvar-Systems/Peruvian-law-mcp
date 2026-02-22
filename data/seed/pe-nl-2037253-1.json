@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2037253-1",
+  "type": "statute",
+  "title": "Ley que declara de urgente interés nacional la mejora de la educación y el retorno progresivo a las aulas",
+  "short_name": "N° 31406",
+  "status": "in_force",
+  "issued_date": "2022-02-08",
+  "in_force_date": "2022-02-08",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2037253-1",
+  "description": "LEY | N° 31406 | Ley que declara de urgente interés nacional la mejora de la educación y el retorno progresivo a las aulas",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La Ley tiene por objeto declarar la mejora de la educación como parte esencial del derecho a una educación de calidad, inclusiva y equitativa, que promueva oportunidades de aprendizaje permanentes y el establecimiento de medidas para garantizar un retorno progresivo a las clases presenciales para el mes de marzo de 2022, en la población estudiantil y docente de la educación básica, educación técnico-productiva y superior."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Declaración",
+      "content": "Se declara de urgente interés nacional la mejora de la educación y el retorno progresivo a las aulas para el mes de marzo de 2022."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Implementación de acciones",
+      "content": "Se exhorta al Poder Ejecutivo, a los gobiernos regionales y a los gobiernos locales a que, en el marco de sus funciones y competencias, implementen acciones inmediatas para la generación de condiciones multisectoriales e intergubernamentales y atender el retorno a las clases presenciales donde corresponda, de acuerdo a los contextos, con alto sentido de urgencia, con la definición de protocolos y condiciones físicas y sanitarias, con el fin de asegurar el derecho a la educación de todos nuestros niños, niñas, adolescentes y jóvenes, sin poner en riesgo la vida de los estudiantes."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Acciones de coordinación entre el Ministerio de Educación y el Ministerio de Salud",
+      "content": "El Ministerio de Educación en coordinación con el Ministerio de Salud trabajan conjuntamente para asegurar a la población estudiantil y docente, de equipos básicos de salud y la atención de consultas médicas, de test de diagnóstico de COVID-19, del aseguramiento de las dosis de refuerzo de vacunas contra la COVID-19 y la cobertura para hospitalización en establecimientos de salud del sector público. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dieciocho de noviembre de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los cuatro días del mes de febrero de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dieciocho de noviembre de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art4"
+    }
+  ]
+}

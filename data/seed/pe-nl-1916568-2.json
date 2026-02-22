@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-1916568-2",
+  "type": "statute",
+  "title": "Ley que prorroga la vigencia de beneficios y exoneraciones tributarias",
+  "short_name": "N° 31105",
+  "status": "in_force",
+  "issued_date": "2020-12-31",
+  "in_force_date": "2020-12-31",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1916568-2",
+  "description": "LEY | N° 31105 | Ley que prorroga la vigencia de beneficios y exoneraciones tributarias",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "La presente ley tiene por objeto prorrogar la vigencia de los beneficios y exoneraciones tributarias del impuesto general a las ventas aplicable a las operaciones contenidas en los Apéndices I y II de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo, a la emisión de dinero electrónico de acuerdo con lo dispuesto en la Ley 29985, Ley que regula las características básicas del dinero electrónico como instrumento de inclusión financiera; así como a la devolución de impuestos que gravan las adquisiciones con donaciones del exterior e importaciones de misiones diplomáticas y otros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Prórroga",
+      "content": "Prorrógase hasta el 31 de diciembre de 2021 la vigencia de: a) El Decreto Legislativo 783, que aprueba la norma sobre devolución de impuestos que gravan las adquisiciones con donaciones del exterior e importaciones de misiones diplomáticas y otros. b) La exoneración del impuesto general a las ventas por la emisión de dinero electrónico efectuada por las empresas emisoras de dinero electrónico, a que se refiere el artículo 7 de la Ley 29985, Ley que regula las características básicas del dinero electrónico como instrumento de inclusión financiera."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del artículo 7 del Texto Único Ordenado de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo",
+      "content": "Modifícase el primer párrafo del artículo 7 del Texto Único Ordenado de la Ley del Impuesto General a las Ventas e Impuesto Selectivo al Consumo, aprobado por el Decreto Supremo 055-99-EF, por el texto siguiente: “ Artículo 7.- Vigencia y renuncia a la exoneración Las exoneraciones contenidas en los Apéndices I y II tendrán vigencia hasta el 31 de diciembre de 2021. […].” PRIMERA. Vigencia La Ley entra en vigencia a partir del 1 de enero de 2021. SEGUNDA. Transparencia La Superintendencia Nacional de Aduanas y de Administración Tributaria publica anualmente, en su Portal de Transparencia, la relación de los sujetos acogidos a los beneficios a que se refiere esta ley; así como los montos del beneficio o exoneración tributaria otorgada por cada beneficiario. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los treinta días del mes de diciembre de dos mil veinte. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los treinta días del mes de diciembre del año dos mil veinte. FRANCISCO RAFAEL SAGASTI HOCHHAUSLER Presidente de la República VIOLETA BERMÚDEZ VALDIVIA Presidenta del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Prorrógase hasta el 31 de diciembre de 2021 la vigencia de",
+      "definition": "a) El Decreto Legislativo 783, que aprueba la norma sobre devolución de impuestos que gravan las adquisiciones con donaciones del exterior e importaciones de misiones diplomáticas y otros",
+      "source_provision": "art2"
+    }
+  ]
+}

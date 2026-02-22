@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-2287399-1",
+  "type": "statute",
+  "title": "Ley que fortalece y promueve el saneamiento físico - legal de la propiedad estatal",
+  "short_name": "N° 32019",
+  "status": "in_force",
+  "issued_date": "2024-05-10",
+  "in_force_date": "2024-05-10",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2287399-1",
+  "description": "LEY | N° 32019 | Ley que fortalece y promueve el saneamiento físico - legal de la propiedad estatal",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto modificar disposiciones de la Ley 29151, Ley General del Sistema Nacional de Bienes Estatales, para fortalecer el procedimiento especial de saneamiento físico-legal de los bienes inmuebles estatales."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los artículos 17-A, 17-B, 17-D y 17-G de la Ley 29151, Ley General del Sistema Nacional de Bienes Estatales",
+      "content": "Se modifica los artículos 17-A, 17-B, 17-D y 17-G de la Ley 29151, Ley General del Sistema Nacional de Bienes Estatales, los cuales quedan redactados conforme al siguiente texto: “ Artículo 17-A. De la obligatoriedad de efectuar la primera inscripción de dominio y otras acciones de saneamiento 17-A.1 Las entidades que conforman el Sistema Nacional de Bienes Estatales se encuentran obligadas a efectuar, de oficio y progresivamente bajo responsabilidad administrativa funcional, la primera inscripción de dominio y otras acciones de saneamiento físico-legal de los inmuebles de su propiedad o que se encuentren bajo su competencia o administración, hasta su inscripción en el Registro de Predios y su registro en el SINABIP, conforme a las normas establecidas en la presente ley y su reglamento. [...]"
+    },
+    {
+      "provision_ref": "art17b",
+      "section": "17-B",
+      "title": "Artículo 17-B.- Primera inscripción de dominio de bienes inmuebles del Estado de competencia de la SBN y los Gobiernos Regionales",
+      "content": "17-B.1 El procedimiento de primera inscripción de dominio de inmuebles del Estado, a cargo de la SBN o el Gobierno Regional con funciones transferidas, se efectúa de manera independiente a cualquier otro procedimiento de administración o disposición bajo responsabilidad administrativa funcional, y puede realizarse en forma masiva en función al ámbito territorial que se determine. [...]"
+    },
+    {
+      "provision_ref": "art17d",
+      "section": "17-D",
+      "title": "Artículo 17-D.- Procedimiento especial de saneamiento físico-legal de inmuebles estatales",
+      "content": "17-D.1 Las entidades que conforman el Sistema Nacional de Bienes Estatales ejecutan el procedimiento especial de saneamiento físico-legal de los bienes inmuebles estatales sean estos de su propiedad, adquiridos bajo cualquier título, y/o en posesión, que se encuentren construidos, ampliados y/o rehabilitados para sus fines públicos, bajo responsabilidad administrativa funcional. […]"
+    },
+    {
+      "provision_ref": "art17g",
+      "section": "17-G",
+      "title": "Artículo 17-G.- Competencia de entidades sobre bienes de dominio público",
+      "content": "Las funciones de saneamiento físico-legal, administración, conservación, defensa y recuperación de los bienes de dominio público competen a las entidades responsables del uso público del bien o de la prestación del servicio público bajo responsabilidad administrativa funcional, de conformidad con la normatividad aplicable”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Informe al Congreso de la República",
+      "content": "El Ministerio de Vivienda, Construcción y Saneamiento, en coordinación con la Superintendencia Nacional de Bienes Estatales, informa semestralmente a la Comisión de Vivienda y Construcción del Congreso de la República sobre los avances y resultados de los procedimientos especiales de saneamiento físico-legal de los bienes inmuebles estatales realizados a nivel nacional. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día veintidós de junio de dos mil veintitrés, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los nueve días del mes de mayo de dos mil veinticuatro. ALEJANDRO SOTO REYES Presidente del Congreso de la República ARTURO ALEGRÍA GARCÍA Primer Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día veintidós de junio de dos mil veintitrés, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2032894-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "N° 1522",
+  "status": "in_force",
+  "issued_date": "2022-01-22",
+  "in_force_date": "2022-01-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2032894-2",
+  "description": "DECRETO LEGISLATIVO | N° 1522 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente decreto legislativo tiene por objeto modificar la Ley del Impuesto a la Renta, a fin de establecer de forma expresa que los pagos por cohecho en sus distintas modalidades no son deducibles como costo ni como gasto para determinar el impuesto a la renta, siguiendo las recomendaciones formuladas por la Organización para la Cooperación y el Desarrollo Económicos (OCDE), la Organización de las Naciones Unidas (ONU) y la Organización de los Estados Americanos (OEA) con motivo de las evaluaciones realizadas para verificar el cumplimiento de los tratados internacionales en materia de anticorrupción suscritos por el Perú."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto del presente decreto legislativo, se entiende por Ley al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por el Decreto Supremo Nº 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación de la quincuagésimo cuarta disposición transitoria y final a la Ley",
+      "content": "Incorpórase la quincuagésimo cuarta disposición transitoria y final a la Ley, conforme al siguiente texto: “ Quincuagésimo Cuarta. - No deducibilidad de los pagos por cohecho De conformidad con lo previsto en los artículos 20, 37 y 51-A de la Ley, no constituyen costo o gasto deducible para efectos de determinar el Impuesto a la Renta las erogaciones descritas en los tipos penales de los delitos de cohecho en sus distintas modalidades regulados en el Código Penal o en leyes penales especiales.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El Decreto Legislativo es refrendado por la Presidenta del Consejo de Ministros y el Ministro de Economía y Finanzas. Única. Vigencia Lo dispuesto por el presente decreto legislativo entra en vigencia al día siguiente de su publicación. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintiún días del mes de enero del año dos mil veintidós. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República MIRTHA ESTHER VÁSQUEZ CHUQUILÍN Presidenta del Consejo de Ministros PEDRO FRANCKE BALLVÉ Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

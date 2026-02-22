@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-1953924-2",
+  "type": "statute",
+  "title": "Ley que declara de necesidad pública y de interés nacional la creación del distrito de Villa Ampay",
+  "short_name": "N° 31198",
+  "status": "in_force",
+  "issued_date": "2021-05-18",
+  "in_force_date": "2021-05-18",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1953924-2",
+  "description": "LEY | N° 31198 | Ley que declara de necesidad pública y de interés nacional la creación del distrito de Villa Ampay",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto declarar de necesidad pública e interés preferente la creación del distrito de Villa Ampay, ubicado en la provincia de Abancay, región Apurímac, con la finalidad de impulsar el desarrollo, la descentralización, el acceso a servicios básicos y promover el crecimiento de las poblaciones vulnerables que habitan en dicha jurisdicción."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Declaración de necesidad pública y preferente interés",
+      "content": "Declárase de necesidad pública y preferente interés la creación del distrito de Villa Ampay, ubicado en la provincia de Abancay, región de Apurímac."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Vigencia de la Ley",
+      "content": "La presente ley entra en vigencia al día siguiente de su publicación en el diario oficial El Peruano. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de diciembre de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los catorce días del mes de mayo de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de diciembre de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art3"
+    }
+  ]
+}

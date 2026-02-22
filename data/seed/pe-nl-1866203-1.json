@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-1866203-1",
+  "type": "statute",
+  "title": "Ley que suspende el cobro de peajes en la red vial nacional, departamental y local concesionada, durante el Estado de Emergencia Nacional declarado a causa del brote del COVID-19",
+  "short_name": "N° 31018",
+  "status": "in_force",
+  "issued_date": "2020-05-09",
+  "in_force_date": "2020-05-09",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866203-1",
+  "description": "LEY | N° 31018 | Ley que suspende el cobro de peajes en la red vial nacional, departamental y local concesionada, durante el Estado de Emergencia Nacional declarado a causa del brote del COVID-19",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Suspensión del cobro de peaje",
+      "content": "Suspéndese con carácter excepcional y provisional del cobro de peaje en todas las unidades de peaje de la red vial nacional, departamental y local concesionada, con el objeto de evitar el contacto con los usuarios y cumplir con el aislamiento obligatorio mientras dure el estado de emergencia nacional dispuesto por el Poder Ejecutivo ante los riesgos de propagación del COVID-19. La suspensión establecida en el presente artículo no causará ni generará derecho compensatorio. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día tres de abril de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los siete días del mes de mayo de dos mil veinte. MANUEL MERINO DE LAMA Presidente del Congreso de la República LUIS ALBERTO VALDEZ FARÍAS Primer Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día tres de abril de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "artunico"
+    }
+  ]
+}

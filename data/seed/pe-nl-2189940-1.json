@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-2189940-1",
+  "type": "statute",
+  "title": "Ley que modifica el Decreto Legislativo 1338, para fortalecer la seguridad ciudadana",
+  "short_name": "N° 31798",
+  "status": "in_force",
+  "issued_date": "2023-06-23",
+  "in_force_date": "2023-06-23",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2189940-1",
+  "description": "LEY | N° 31798 | Ley que modifica el Decreto Legislativo 1338, para fortalecer la seguridad ciudadana",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto modificar el numeral 8.1 del artículo 8 del Decreto Legislativo 1338, Decreto Legislativo que crea el Registro Nacional de Equipos Terminales Móviles para la Seguridad, orientado a la prevención y combate del comercio ilegal de equipos terminales móviles y al fortalecimiento de la seguridad ciudadana."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del numeral 8.1 del artículo 8 del Decreto Legislativo 1338",
+      "content": "Se modifica el numeral 8.1 del artículo 8 del Decreto Legislativo 1338, Decreto Legislativo que crea el Registro Nacional de Equipos Terminales Móviles para la Seguridad, orientado a la prevención y combate del comercio ilegal de equipos terminales móviles y al fortalecimiento de la seguridad ciudadana, cuyo texto queda redactado de la siguiente manera: “ Artículo 8. Empresas operadoras de servicios públicos móviles de telecomunicaciones 8.1 Las empresas operadoras de servicios públicos móviles de telecomunicaciones tienen las siguientes obligaciones: […] i) Verificar que el equipo terminal móvil donde se utilizará el servicio público móvil de telecomunicaciones contratado no se encuentre en la Lista Negra y se encuentre en la Lista Blanca del RENTESEG. En caso de encontrarse en la Lista Negra o no encontrarse en la Lista Blanca del RENTESEG, no procede la activación del servicio. Para dicha verificación, previo a la activación del servicio, la empresa operadora habilita, únicamente, las funcionalidades que permitan la captura del IMEI por parte de la red móvil. j) Otras obligaciones establecidas en el reglamento del presente decreto legislativo”. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintidós días del mes de junio de dos mil veintitrés. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art2"
+    }
+  ]
+}

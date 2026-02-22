@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2317770-3",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el Decreto Legislativo N° 1436, Decreto Legislativo Marco de la Administración Financiera del Sector Público",
+  "short_name": "N° 1630",
+  "status": "in_force",
+  "issued_date": "2024-08-22",
+  "in_force_date": "2024-08-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2317770-3",
+  "description": "DECRETO LEGISLATIVO | N° 1630 | Decreto Legislativo que modifica el Decreto Legislativo N° 1436, Decreto Legislativo Marco de la Administración Financiera del Sector Público",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el Decreto Legislativo Nº 1436, Decreto Legislativo Marco de la Administración Financiera del Sector Público, a fin de consolidar la integración intersistémica y extrasistémica de los procesos de la Administración Financiera del Sector Público, a través de una gestión centralizada del Sistema Integrado de la Administración Financiera de los Recursos Públicos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los numerales 7.1 y 7.2 del artículo 7 y del artículo 24 del Decreto Legislativo Nº 1436, Decreto Legislativo Marco de la Administración Financiera del Sector Público",
+      "content": "Modificar los numerales 7.1 y 7.2 del artículo 7 y el artículo 24 del Decreto Legislativo Nº 1436, Decreto Legislativo Marco de la Administración Financiera del Sector Público, conforme al siguiente texto: “ Artículo 7.- Comité de Coordinación de la Administración Financiera del Sector Público 7.1 El Comité de Coordinación de la Administración Financiera del Sector Público se constituye en el Ministerio de Economía y Finanzas, a través del Despacho Viceministerial de Hacienda, teniendo como objetivo liderar la gobernanza de la Administración Financiera del Sector Público, para el uso eficiente, eficaz y transparente de los recursos públicos . 7.2 El Comité de Coordinación de la Administración Financiera del Sector Público está constituido de forma colegiada por el Viceministro de Hacienda, quien lo preside, los Directores Generales de las Direcciones Generales de Presupuesto Público, del Tesoro Público, de Contabilidad Pública, de Programación Multianual de Inversiones, de Abastecimiento , de Gestión Fiscal de los Recursos Humanos y de Sistemas de Información de la Administración Financiera , los cuales garantizan la integración intersistémica, de acuerdo con sus respectivas atribuciones. (…).”"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Artículo 24.- Administración del Sistema Integrado de Administración Financiera de los Recursos Públicos (SIAF-RP)",
+      "content": "24.1 El SIAF-RP está a cargo del Ministerio de Economía y Finanzas , a través de la Dirección General de Sistemas de Información de la Administración Financiera, dependiente del Despacho Viceministerial de Hacienda. 24.2 La Dirección General de Sistemas de Información de la Administración Financiera es competente para asegurar la integración, articulación e interrelación de los procesos de la Administración Financiera del Sector Público, a través de la gestión centralizada del SIAF-RP y otros medios, que permitan su acceso por parte de las entidades de la Administración Pública. 24.3 Los requisitos funcionales del SIAF-RP son articulados y priorizados en forma centralizada por el Comité de Coordinación de la Administración Financiera del Sector Público con el objeto de garantizar su debida operatividad, sostenibilidad y seguridad. 24.4 Todos los datos que contribuyan a mejorar la Administración Financiera del Sector Público (AFSP), acorde a la integración extrasistémica e intersistémica, son considerados fuentes de la Plataforma de Data y Analítica de la Administración Financiera del Sector Público, a cargo de la Dirección General de Sistemas de Información de la Administración Financiera , con el propósito, entre otros, de gestionar de manera ágil la información necesaria para la oportuna toma de decisiones asociadas a la optimización de todos los procesos de la AFSP. 24.5 La Dirección General de Sistemas de Información de la Administración Financiera emite las directivas correspondientes para la adecuada gestión de la plataforma antes señalada, estableciendo las especificaciones y condiciones tales como fuentes de datos, frecuencias de actualización, variables obligatorias y entidades responsables de la remisión y uso de datos, en el marco de la Ley 29733, Ley de Protección de Datos Personales, entre otras normas aplicables.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Financiamiento",
+      "content": "La implementación de lo establecido en el presente Decreto Legislativo se financia con cargo al presupuesto institucional del Ministerio de Economía y Finanzas, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintiún días del mes de agosto del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros JOSÉ BERLEY ARISTA ARBILDO Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

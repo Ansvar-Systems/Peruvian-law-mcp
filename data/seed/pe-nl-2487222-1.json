@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-2487222-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que incorpora el Artículo 409-C al Código Penal, promulgado mediante Decreto Legislativo N° 635",
+  "short_name": "N° 1739",
+  "status": "in_force",
+  "issued_date": "2026-02-13",
+  "in_force_date": "2026-02-13",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2487222-1",
+  "description": "DECRETO LEGISLATIVO | N° 1739 | Decreto Legislativo que incorpora el Artículo 409-C al Código Penal, promulgado mediante Decreto Legislativo N° 635",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto incorporar el artículo 409-C al Código Penal, promulgado por el Decreto Legislativo Nº 635, a fin de tipificar el delito de revelación de información reservada por servidor o funcionario público."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad",
+      "content": "La finalidad del presente Decreto Legislativo es proteger la reserva de la información de carácter reservado, conforme al ordenamiento jurídico vigente, vinculada a la persecución penal, las investigaciones penales y las diligencias policiales o fiscales que se desarrollan en dicho marco, así como fortalecer la responsabilidad y ética funcional de los servidores y funcionarios públicos que, por razón de su cargo, acceden a dicha información, reforzando la transparencia y la confianza institucional en el Estado."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación del artículo 409-C al Código Penal, Decreto Legislativo Nº 635",
+      "content": "Modificar el Código Penal, Decreto Legislativo 635, a fin de incorporar en el capítulo III del título XVIII del libro segundo el artículo 409-C, el cual queda redactado en los términos siguientes:"
+    },
+    {
+      "provision_ref": "art409c",
+      "section": "409-C",
+      "title": "Artículo 409-C.- Revelación de información reservada por servidor o funcionario público",
+      "content": "409-C.1. El funcionario o servidor público que, indebidamente, exhiba, filtre, entregue, capture mediante cualquier medio técnico, permita el acceso indebido u omita dolosamente la protección debida de la información de carácter reservado, a la que haya tenido acceso o tomado conocimiento en razón de su cargo, sobre el contenido de la(s) denuncia(s), identidad del denunciante que goce de reserva conforme a ley, diligencias policiales o fiscales reservadas antes de su ejecución, en la investigación o proceso por los delitos de extorsión, secuestro o sicariato, será reprimido con pena privativa de libertad no menor de cinco (05) ni mayor de siete (07) años, inhabilitación conforme al artículo 36, incisos 1, 2 y 8, y con ciento ochenta a trescientos sesenta y cinco días-multa. 409-C.2. La pena será no menor de siete (07) ni mayor de diez (10) años, inhabilitación conforme al artículo 36, incisos 1, 2 y 8, y con trescientos sesenta y cinco a setecientos treinta días-multa, en cualquiera de los siguientes supuestos: a) Como consecuencia se frustre o genere un riesgo concreto para la ejecución de diligencia(s) fiscal(es) o policial(es) reservadas, o se comprometa gravemente la continuidad o resultado de la investigación o proceso penal. b) Se ponga en peligro concreto la vida, integridad o seguridad del denunciante al vulnerar los sistemas de protección de reserva de identidad establecidos por Ley. c) Cuando el agente, aprovechando su posición funcional, mercantilice la información reservada, obteniendo o pretendiendo obtener un beneficio económico, ventaja o promesa para sí o para un tercero. d) La información reservada sea transmitida a una organización criminal o utilizada para amenazar al denunciante. e) Cuando la conducta recaiga sobre información reservada que, conforme al artículo 324 del Código Procesal Penal, haya sido formalmente declarada secreta en el proceso penal. 409-C.3. No constituye delito, la conducta efectuada por el servidor o funcionario público, cuando tenga por finalidad poner en conocimiento público hechos que razonablemente puedan constituir un delito de persecución pública. 409-C.4. No constituye delito, ni participación delictiva, la publicación de información por parte de periodistas y medios de comunicación en el ejercicio de las libertades de información y de prensa.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Financiamiento",
+      "content": "La implementación del presente Decreto Legislativo se financia con cargo al presupuesto de las instituciones públicas involucradas, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Publicación",
+      "content": "El presente Decreto Legislativo es publicado en la Plataforma Digital Única del Estado Peruano para la Orientación al Ciudadano ( www.gob.pe ) y en las sedes digitales del Ministerio del Interior ( www.gob.pe/mininter ) y del Ministerio de Justicia y Derechos Humanos ( www.gob.pe/minjus ), el mismo día de su publicación en el Diario Oficial El Peruano."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, el Ministro del Interior y el Ministro de Justicia y Derechos Humanos. POR TANTO: Mando que se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los trece días del mes de febrero del año dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros VICENTE TIBURCIO ORBEZO Ministro del Interior WALTER ELEODORO MARTÍNEZ LAURA Ministro de Justicia y Derechos Humanos"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando que se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art6"
+    }
+  ]
+}

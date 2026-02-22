@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-1973481-3",
+  "type": "statute",
+  "title": "Ley que modifica el Decreto Legislativo 1182, Decreto Legislativo que regula el uso de los datos derivados de las telecomunicaciones para la identificación, localización y geolocalización de equipos de comunicación, en la lucha contra la delincuencia y el crimen organizado",
+  "short_name": "N° 31284",
+  "status": "in_force",
+  "issued_date": "2021-07-16",
+  "in_force_date": "2021-07-16",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1973481-3",
+  "description": "LEY | N° 31284 | Ley que modifica el Decreto Legislativo 1182, Decreto Legislativo que regula el uso de los datos derivados de las telecomunicaciones para la identificación, localización y geolocalización de equipos de comunicación, en la lucha contra la delincuencia y el crimen organizado",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Modificación de los artículos 2, 3 y 4 del Decreto Legislativo 1182, Decreto Legislativo que regula el uso de los datos derivados de las telecomunicaciones para la identificación, localización y geolocalización de equipos de comunicación, en la lucha contra la delincuencia y el crimen organizado",
+      "content": "Modifícanse los artículos 2, 3 —inciso a.— y 4 —numeral 4.3— del Decreto Legislativo 1182, Decreto Legislativo que regula el uso de los datos derivados de las telecomunicaciones para la identificación, localización y geolocalización de equipos de comunicación, en la lucha contra la delincuencia y el crimen organizado, conforme a los textos siguientes: “ Artículo 2.- Finalidad La finalidad del presente decreto legislativo es regular el acceso de la unidad especializada de la Policía Nacional del Perú, en casos de flagrancia delictiva o en investigaciones preliminares por el delito contra la vida, el cuerpo y la salud, el delito contra la libertad, el delito contra el patrimonio, delitos contra la administración pública, delitos de lavado de activos, delitos de trata de personas, delitos de tráfico ilícito de drogas, delitos de minería ilegal y los delitos comprendidos en la Ley 30077, Ley contra el Crimen Organizado, a la localización, geolocalización o rastreo de los teléfonos móviles y/o de cualquier otro dispositivo electrónico de comunicación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Procedencia",
+      "content": "La unidad a cargo de la investigación policial solicita a la unidad especializada el acceso inmediato a los datos de localización, geolocalización o rastreo de los teléfonos móviles o de cualquier otro dispositivo electrónico de comunicación, siempre que concurran los siguientes presupuestos: a. Cuando se trate de flagrante delito, de conformidad con lo dispuesto en el artículo 259 del Decreto Legislativo N° 957, Código Procesal Penal, o investigaciones preliminares por el delito contra la vida, el cuerpo y la salud; el delito contra la libertad, el delito contra el patrimonio, delitos contra la administración pública, delitos de lavado de activos, delitos de trata de personas, delitos de tráfico ilícito de drogas, delitos de minería ilegal y los delitos comprendidos en la Ley 30077, Ley contra el Crimen Organizado. […]"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Procedimiento",
+      "content": "[...] 4.3. Los concesionarios de servicios públicos de telecomunicaciones o las entidades públicas y privadas relacionadas con estos servicios, están obligados a brindar los datos de localización, geolocalización o rastreo de manera inmediata y oportuna, dentro de un plazo máximo de veinticuatro (24) horas de solicitada la información por la unidad especializada de la Policía Nacional del Perú, cuya atención del requerimiento será las veinticuatro (24) horas del día de los trescientos sesenta y cinco (365) días del año, bajo apercibimiento de ser pasible de las responsabilidades de carácter administrativo, civil y penal, en caso de incumplimiento. […]”. ÚNICA. Precisión Para efectos de la presente ley, entiéndase que toda mención a los datos de localización, geolocalización o rastreo de los teléfonos móviles o de cualquier otro dispositivo electrónico de comunicación, tiene como finalidad la eficacia en la ubicación del equipo o lugar donde se cometen o generen los delitos contra la vida, el cuerpo y la salud; el delito contra la libertad, el delito contra el patrimonio, delitos contra la administración pública, delitos de lavado de activos, delitos de trata de personas, delitos de tráfico ilícito de drogas, delitos de minería ilegal y los delitos comprendidos en la Ley 30077, Ley contra el Crimen Organizado. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día catorce de mayo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los quince días del mes de julio de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día catorce de mayo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art4"
+    }
+  ]
+}

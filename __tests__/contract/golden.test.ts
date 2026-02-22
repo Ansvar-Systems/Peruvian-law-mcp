@@ -20,21 +20,21 @@ beforeAll(() => {
 });
 
 describe('Database integrity', () => {
-  it('should have 10 legal documents (excluding EU cross-refs)', () => {
+  it('should have a large legal-documents corpus', () => {
     const row = db.prepare(
       "SELECT COUNT(*) as cnt FROM legal_documents WHERE id != 'eu-cross-references'"
     ).get() as { cnt: number };
-    expect(row.cnt).toBe(10);
+    expect(row.cnt).toBeGreaterThanOrEqual(1000);
   });
 
-  it('should have at least 140 provisions', () => {
+  it('should have at least 8k provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(140);
+    expect(row.cnt).toBeGreaterThanOrEqual(8000);
   });
 
   it('should have extracted definitions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM definitions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(20);
+    expect(row.cnt).toBeGreaterThanOrEqual(50);
   });
 
   it('should have FTS index rows', () => {
@@ -48,7 +48,7 @@ describe('Database integrity', () => {
 describe('Article retrieval', () => {
   it('should retrieve a provision by document_id and section', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'pe-dl-1700' AND section = '12-A'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'pe-nl-2480387-2' AND section = '12-A'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
     expect(row!.content.length).toBeGreaterThan(100);
@@ -75,35 +75,33 @@ describe('Negative tests', () => {
 
   it('should return no results for invalid section', () => {
     const row = db.prepare(
-      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'pe-dl-1700' AND section = '999ZZZ-INVALID'"
+      "SELECT COUNT(*) as cnt FROM legal_provisions WHERE document_id = 'pe-nl-2480387-2' AND section = '999ZZZ-INVALID'"
     ).get() as { cnt: number };
     expect(row.cnt).toBe(0);
   });
 });
 
-describe('All 10 laws are present', () => {
-  const expectedDocs = [
-    'pe-dl-1700',
-    'pe-dl-1741',
-    'pe-ds-modifica-reglamento-gobierno-digital',
-    'pe-ds-modifica-reglamento-rnhce',
-    'pe-ds-reglamento-confianza-digital',
-    'pe-ds-reglamento-ia-31814',
-    'pe-rd-oficial-datos-personales',
-    'pe-res-directiva-consumo-seguro-pide',
-    'pe-rm-documento-seguridad-sihce-minsa',
-    'pe-rm-metodologia-multas-datos-personales',
-  ];
+describe('Key law categories are present', () => {
+  it('should contain at least one LEY', () => {
+    const row = db.prepare(
+      "SELECT COUNT(*) as cnt FROM legal_documents WHERE description LIKE '%LEY%'"
+    ).get() as { cnt: number };
+    expect(row.cnt).toBeGreaterThan(0);
+  });
 
-  for (const docId of expectedDocs) {
-    it(`should contain document: ${docId}`, () => {
-      const row = db.prepare(
-        'SELECT id FROM legal_documents WHERE id = ?'
-      ).get(docId) as { id: string } | undefined;
-      expect(row).toBeDefined();
-      expect(row!.id).toBe(docId);
-    });
-  }
+  it('should contain at least one DECRETO LEGISLATIVO', () => {
+    const row = db.prepare(
+      "SELECT COUNT(*) as cnt FROM legal_documents WHERE description LIKE '%DECRETO LEGISLATIVO%'"
+    ).get() as { cnt: number };
+    expect(row.cnt).toBeGreaterThan(0);
+  });
+
+  it('should contain at least one DECRETO DE URGENCIA', () => {
+    const row = db.prepare(
+      "SELECT COUNT(*) as cnt FROM legal_documents WHERE description LIKE '%DECRETO DE URGENCIA%'"
+    ).get() as { cnt: number };
+    expect(row.cnt).toBeGreaterThan(0);
+  });
 });
 
 describe('list_sources metadata compatibility', () => {

@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-1634701-2",
+  "type": "statute",
+  "title": "Ley que declara de interés nacional y necesidad pública la creación del distrito de Udima, en la provincia de Santa Cruz, en el departamento de Cajamarca",
+  "short_name": "N° 30750",
+  "status": "in_force",
+  "issued_date": "2018-04-07",
+  "in_force_date": "2018-04-07",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1634701-2",
+  "description": "LEY | N° 30750 | Ley que declara de interés nacional y necesidad pública la creación del distrito de Udima, en la provincia de Santa Cruz, en el departamento de Cajamarca",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Declaración de interés nacional",
+      "content": "Declárase de interés nacional y necesidad pública la creación del distrito de Udima, en la provincia de Santa Cruz, en el departamento de Cajamarca. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día siete de setiembre de dos mil diecisiete, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los seis días del mes de abril de dos mil dieciocho. LUIS GALARRETA VELARDE Presidente del Congreso de la República MARIO MANTILLA MEDINA Primer Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día siete de setiembre de dos mil diecisiete, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "artunico"
+    }
+  ]
+}

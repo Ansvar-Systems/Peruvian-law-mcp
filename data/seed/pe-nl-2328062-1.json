@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2328062-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "N° 1662",
+  "status": "in_force",
+  "issued_date": "2024-09-24",
+  "in_force_date": "2024-09-24",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2328062-1",
+  "description": "DECRETO LEGISLATIVO | N° 1662 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto y finalidad",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el inciso f) del artículo 32-A de la Ley del Impuesto a la Renta a fin de permitir la aplicación retroactiva de los acuerdos anticipados de precios (roll-back) en ciertos casos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efectos del presente Decreto Legislativo se entiende por Ley a la Ley del Impuesto a la Renta, cuyo Texto Único Ordenado ha sido aprobado por el Decreto Supremo Nº 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del inciso f) del artículo 32-A de la Ley",
+      "content": "Modificar el inciso f) del artículo 32-A de la Ley, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art32a",
+      "section": "32-A",
+      "title": "Artículo 32-A.- En la determinación del valor de mercado de las transacciones a que se refiere el numeral 4) del artículo 32, se debe tener en cuenta las siguientes disposiciones:",
+      "content": "(…) f) Acuerdos anticipados de precios La SUNAT puede celebrar acuerdos anticipados de precios con contribuyentes domiciliados en el país, en los que se determine la valoración de las diferentes transacciones que se encuentren dentro del ámbito de aplicación a que se refiere el inciso a) del presente artículo, en base a los métodos señalados en esta Ley y los criterios establecidos en el reglamento. El Superintendente Nacional de Aduanas y de Administración Tributaria de la SUNAT también puede celebrar los acuerdos anticipados de precios a que se refiere el párrafo anterior con otras autoridades competentes de países con los que la República del Perú hubiese celebrado un convenio internacional para evitar la doble imposición en el marco del procedimiento de acuerdo mutuo previsto en dichos convenios. Cuando se celebren los acuerdos a los que se refiere el segundo párrafo del presente inciso, se puede acordar que tengan efectos en transacciones de ejercicios gravables anteriores a los cubiertos por aquellos, siempre que se verifique que los hechos y circunstancias relevantes de dichos ejercicios sean los mismos que en los ejercicios cubiertos por los acuerdos anticipados de precios; y no haya prescrito la acción de la SUNAT para determinar la obligación tributaria del Impuesto a la Renta por aplicación de las normas de precios de transferencia respecto de dichas transacciones. Lo dispuesto en el párrafo anterior no es aplicable cuando respecto de la determinación del valor de dichas transacciones se hubiese notificado una resolución de determinación como consecuencia de la aplicación de las normas de precios de transferencia. Mediante decreto supremo refrendado por el Ministro de Economía y Finanzas se dictan las disposiciones relativas a la forma y procedimientos que se deberá seguir para la celebración de este tipo de acuerdos.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. ÚNICA. Vigencia El presente Decreto Legislativo entra en vigencia el 1 de enero de 2025. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintiún días del mes de setiembre del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros JOSE BERLEY ARISTA ARBILDO Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

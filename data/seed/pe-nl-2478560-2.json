@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-2478560-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el Código Procesal Penal, aprobado mediante Decreto Legislativo N° 657, a fin de regular la autorización para la revisión de equipos informáticos en casos de flagrancia delictiva en los delitos de extorsión, sicariato y secuestro, así como de aquellos detectados al interior de los establecimientos penitenciarios",
+  "short_name": "N° 1698",
+  "status": "in_force",
+  "issued_date": "2026-01-20",
+  "in_force_date": "2026-01-20",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2478560-2",
+  "description": "DECRETO LEGISLATIVO | N° 1698 | Decreto Legislativo que modifica el Código Procesal Penal, aprobado mediante Decreto Legislativo N° 657, a fin de regular la autorización para la revisión de equipos informáticos en casos de flagrancia delictiva en los delitos de extorsión, sicariato y secuestro, así como de aquellos detectados al interior de los establecimientos penitenciarios",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente decreto legislativo tiene por objeto modificar el Código Procesal Penal, aprobado mediante Decreto Legislativo Nº 957."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad",
+      "content": "El presente decreto legislativo tiene por finalidad incorporar el artículo 230-A al Código Procesal Penal, aprobado mediante Decreto Legislativo Nº 957, a fin de regular la autorización para la revisión de equipos informáticos en casos de flagrancia delictiva en los delitos de extorsión, sicariato y secuestro, así como de aquellos detectados al interior de los Establecimientos Penitenciarios."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación del artículo 230-A al Código Procesal Penal, aprobado por el Decreto Legislativo Nº 957",
+      "content": "Se incorpora el artículo 230-A al Código Procesal Penal, aprobado por el Decreto Legislativo Nº 957; en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art230a",
+      "section": "230-A",
+      "title": "Artículo 230-A.- Revisión de equipos informáticos",
+      "content": "En los casos de detención en flagrancia delictiva por la comisión de los delitos de extorsión, sicariato o secuestro, el efectivo policial, con autorización previa del Ministerio Público, está facultado para revisar la información contenida en los equipos informáticos hallados en posesión del detenido. Asimismo, esta facultad puede ejecutarse dentro del establecimiento penitenciario cuando, en operativos inopinados, se hallen equipos informáticos. La autorización se dispone cuando resulte indispensable para cumplir los fines de esclarecimiento del hecho. Al término del acto de investigación, el Fiscal requiere al Juez competente la correspondiente resolución confirmatoria”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, el Ministro del Interior y el Ministro de Justicia y Derechos Humanos."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Financiamiento",
+      "content": "La implementación del presente decreto legislativo se financia con cargo al presupuesto institucional de las entidades involucradas, tales como el Ministerio del Interior y la Policía Nacional del Perú, en el marco de las leyes anuales de presupuesto, de acuerdo a las competencias de cada entidad y sin demandar recursos adicionales al tesoro público. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los diecinueve días del mes de enero del dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros VICENTE TIBURCIO ORBEZO Ministro del Interior WALTER ELEODORO MARTÍNEZ LAURA Ministro de Justicia y Derechos Humanos"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

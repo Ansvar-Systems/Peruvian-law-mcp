@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2321880-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que deroga la Tercera Disposición Complementaria Transitoria de la Ley N° 30056, Ley que modifica diversas leyes para facilitar la inversión, impulsar el desarrollo productivo y el crecimiento empresarial",
+  "short_name": "N° 1643",
+  "status": "in_force",
+  "issued_date": "2024-09-05",
+  "in_force_date": "2024-09-05",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2321880-2",
+  "description": "DECRETO LEGISLATIVO | N° 1643 | Decreto Legislativo que deroga la Tercera Disposición Complementaria Transitoria de la Ley N° 30056, Ley que modifica diversas leyes para facilitar la inversión, impulsar el desarrollo productivo y el crecimiento empresarial",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto derogar la Tercera Disposición Complementaria Transitoria de la Ley N° 30056, Ley que modifica diversas leyes para facilitar la inversión, impulsar el desarrollo productivo y el crecimiento empresarial, a fin de unificar los requisitos para que las empresas accedan y permanezcan en el Registro Nacional de la Micro y Pequeña Empresa (REMYPE)."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Derogación de la Tercera Disposición Complementaria Transitoria de la Ley N° 30056, Ley que modifica diversas leyes para facilitar la inversión, impulsar el desarrollo productivo y el crecimiento empresarial",
+      "content": "Derogar la Tercera Disposición Complementaria Transitoria de la Ley N° 30056, Ley que modifica diversas leyes para facilitar la inversión, impulsar el desarrollo productivo y el crecimiento empresarial."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, el Ministro de la Producción y el Ministro de Trabajo y Promoción del Empleo. Primera.- Información del REMYPE El administrador del REMYPE comparte la información contenida en dicho registro con el Ministerio de la Producción, en coordinación con este, en el marco de las normas que regulan la interoperabilidad del Estado peruano. Ello, a efectos que el referido Ministerio pueda contar con información oportuna, actualizada y segura sobre las empresas inscritas en el REMYPE tras la unificación de los requisitos para su acceso y permanencia en dicho registro. Segunda.- Disposición para cautelar el vínculo laboral en las empresas que integran el REMYPE El Ministerio de Trabajo y Promoción del Empleo cautela el vínculo laboral en las empresas que integran el REMYPE, conforme al marco normativo vigente. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los cuatro días del mes de setiembre del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros SERGIO GONZÁLEZ GUERRERO Ministro de la Producción DANIEL YSAU MAURATE ROMERO Ministro de Trabajo y Promoción del Empleo"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2026383-4",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "Nº 1518",
+  "status": "in_force",
+  "issued_date": "2021-12-30",
+  "in_force_date": "2021-12-30",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2026383-4",
+  "description": "DECRETO LEGISLATIVO | Nº 1518 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente decreto legislativo tiene por objeto modificar la Ley del Impuesto a la Renta a fin de modificar las rentas netas presuntas de fuente peruana que perciban los contribuyentes no domiciliados y las sucursales, agencias o cualquier otro establecimiento permanente en el país de empresas unipersonales, sociedades y entidades de cualquier naturaleza constituida en el exterior a fin de incluir a la extracción y venta de recursos hidrobiológicos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto de lo dispuesto en el presente Decreto Legislativo, se entiende por Ley del Impuesto a la Renta al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por Decreto Supremo N° 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación un segundo párrafo al artículo 48 de la Ley, conforme al siguiente texto:",
+      "content": "Incorpórese un segundo párrafo al artículo 48 de la Ley, conforme al siguiente texto: “ Artículo 48.- (…) “Se presume, sin admitir prueba en contrario, que las empresas no domiciliadas en el Perú, que vendan recursos hidrobiológicos altamente migratorios extraídos dentro y fuera del dominio marítimo del Perú a empresas domiciliadas en el Perú, obtienen renta neta de fuente peruana igual al nueve por ciento (9%) de los ingresos brutos que perciban por esa venta. El Ministerio de la Producción determinará periódicamente la relación de dichos recursos.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por la Presidenta del Consejo de Ministros y el Ministro de Economía y Finanzas. Única. Vigencia Lo dispuesto por el presente decreto legislativo entra en vigencia a partir del 1 de enero de 2022. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la Republica Dado en la Casa de Gobierno, en Lima, a los veintinueve días del mes de diciembre del año dos mil veintiuno. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República MIRTHA ESTHER VÁSQUEZ CHUQUILÍN Presidenta del Consejo de Ministros PEDRO FRANCKE BALLVÉ Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la Republica Dado en la Casa de Gobierno, en Lima, a los veintinueve días del mes de diciembre del año dos mil veintiuno",
+      "source_provision": "art4"
+    }
+  ]
+}

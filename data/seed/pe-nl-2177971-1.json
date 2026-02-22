@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-2177971-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley N° 25323, Ley que crea el Sistema Nacional de Archivos",
+  "short_name": "N° 1556",
+  "status": "in_force",
+  "issued_date": "2023-05-16",
+  "in_force_date": "2023-05-16",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2177971-1",
+  "description": "DECRETO LEGISLATIVO | N° 1556 | Decreto Legislativo que modifica la Ley N° 25323, Ley que crea el Sistema Nacional de Archivos",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente dispositivo tiene por objeto modificar la Ley Nº 25323, Ley que crea el Sistema Nacional de Archivos, a fin de incorporar disposiciones relacionadas con la gestión, tratamiento y preservación digital de los documentos de archivo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Incorporación del literal f) al artículo 2 de la Ley N° 25323, Ley que crea el Sistema Nacional de Archivos",
+      "content": "Incorporar el literal f) en el artículo 2 de la Ley Nº 25323, Ley que crea el Sistema Nacional de Archivos, el cual, queda redactado de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación del artículo 9 a la Ley N° 25323, Ley que crea el Sistema Nacional de Archivos",
+      "content": "Incorporar el artículo 9 a la Ley Nº 25323, Ley que crea el Sistema Nacional de Archivos, el cual, queda redactado de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "Artículo 9.- Los integrantes del Sistema Nacional de Archivos usan e implementan, de manera segura y confiable, tecnologías digitales para la gestión y preservación de sus documentos de archivo en un entorno digital, considerando la autenticidad, seguridad, integridad, interoperabilidad, fiabilidad, disponibilidad y usabilidad, siendo parte de la gestión archivística digital y la adecuada preservación digital de dichos documentos de archivo de acuerdo a su ciclo vital.",
+      "content": "En la implementación de tecnologías digitales, las entidades priorizan la transformación digital de los servicios, procesos, procedimientos y flujos de trabajo a través de una gestión documental digital integral, conforme la regulación vigente en materia de gobierno y transformación digital. Los Archivos Regionales y el Sistema Institucional de Archivos de las entidades públicas adoptan tecnologías digitales de manera progresiva”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Financiamiento",
+      "content": "La implementación de lo dispuesto en el presente Decreto Legislativo se financia con cargo al presupuesto institucional de los pliegos involucrados, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Articulación con el Sistema Nacional de Transformación Digital",
+      "content": "El Archivo General de la Nación coordina con la Presidencia del Consejo de Ministros, a través de la Secretaría de Gobierno y Transformación Digital, las acciones vinculadas con la digitalización de la gestión archivística con la finalidad de preservar la seguridad digital de los documentos de archivo, promover su integración con la arquitectura digital del Estado y fortalecer la confianza digital en los ciudadanos."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y la Ministra de Cultura. Primera.- Adecuación del Reglamento de la Ley N° 25323, Ley que crea el Sistema Nacional de Archivos El Poder Ejecutivo, mediante Decreto Supremo refrendado por el titular del Ministerio de Cultura, dentro de los ciento ochenta días siguientes a la vigencia del presente Decreto Legislativo, adecúa el Reglamento de la Ley N° 25323, Ley que crea el Sistema Nacional de Archivos, aprobado mediante Decreto Supremo N° 008-92-JUS, a lo dispuesto en la presente norma. Segunda.- Implementación progresiva de la presente norma La implementación de lo dispuesto en la presente norma es progresiva en función del grado de desarrollo y uso de tecnologías digitales para la gestión archivística digital en las entidades públicas que integran el Sistema Nacional de Archivos. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los quince días del mes de mayo del año dos mil veintitrés. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República LUIS ALBERTO OTÁROLA PEÑARANDA Presidente del Consejo de Ministros LESLIE CAROL URTEAGA PEÑA Ministra de Cultura"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art6"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2089456-1",
+  "type": "statute",
+  "title": "Ley que modifica los artículos 4, 5 y 21 del Decreto Legislativo 1095, Decreto Legislativo que establece reglas de empleo y uso de la fuerza por parte de las Fuerzas Armadas en el territorio nacional",
+  "short_name": "N° 31522",
+  "status": "in_force",
+  "issued_date": "2022-07-23",
+  "in_force_date": "2022-07-23",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2089456-1",
+  "description": "LEY | N° 31522 | Ley que modifica los artículos 4, 5 y 21 del Decreto Legislativo 1095, Decreto Legislativo que establece reglas de empleo y uso de la fuerza por parte de las Fuerzas Armadas en el territorio nacional",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Modificación de los artículos 4, 5 y 21 del Decreto Legislativo 1095, Decreto Legislativo que establece reglas de empleo y uso de la fuerza por parte de las Fuerzas Armadas en el territorio nacional",
+      "content": "Modifícanse los artículos 4, numeral 4.3; 5, numeral 5.3; y 21 del Decreto Legislativo 1095, Decreto Legislativo que establece reglas de empleo y uso de la fuerza por parte de las Fuerzas Armadas en el territorio nacional, en los términos siguientes: “ Artículo 4.- Finalidad de la Intervención de las Fuerzas Armadas La intervención de las Fuerzas Armadas en defensa del Estado de Derecho y protección de la sociedad se realiza dentro del territorio nacional con la finalidad de: [...] 4.3 Prestar apoyo a la Policía Nacional, previa declaración de Estado de Emergencia, en casos de tráfico ilícito de drogas, terrorismo o protección de instalaciones estratégicas para funcionamiento del país, servicios públicos esenciales y en los demás casos constitucionalmente justificados cuando la capacidad de la Policía sea sobrepasada en su capacidad de control de orden interno, sea previsible o existiera peligro de que ello ocurriera."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Determinación del marco jurídico aplicable",
+      "content": "Cada una de las situaciones consideradas en el presente artículo, se rigen por los principios señalados y definidos en el Título correspondiente del presente Decreto Legislativo. [...] 5.3 Cuando la actuación de las Fuerzas Armadas, previa declaración de Estado de Emergencia, se orienta a realizar acciones militares en apoyo a la Policía Nacional en las situaciones descritas en el artículo 4.3 y en el Título III del presente Decreto Legislativo, rigen las normas del Derecho Internacional de los Derechos Humanos."
+    },
+    {
+      "provision_ref": "art21",
+      "section": "21",
+      "title": "Artículo 21.- Generalidades",
+      "content": "Habiendo declarado el Estado de Emergencia, en las situaciones previstas en el artículo 5.3, las Fuerzas Armadas excepcionalmente, actúan en apoyo de la Policía Nacional, de conformidad con el procedimiento señalado en el presente Título”. ÚNICA. El Poder Ejecutivo adecuará en el plazo máximo de 90 días calendario el Reglamento del Decreto Legislativo 1095, Decreto Legislativo que establece reglas de empleo y uso de la fuerza por parte de las Fuerzas Armadas en el territorio nacional. ÚNICA. Se deroga el numeral 25.2 del artículo 25 del Decreto Legislativo 1095, Decreto Legislativo que establece reglas de empleo y uso de la fuerza por parte de las Fuerzas Armadas en el territorio nacional. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día veintiséis de mayo de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiún días del mes de julio de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día veintiséis de mayo de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art21"
+    }
+  ]
+}

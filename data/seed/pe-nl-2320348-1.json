@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2320348-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el numeral 207.2 del artículo 207 de la Ley N° 27444, Ley del Procedimiento Administrativo General",
+  "short_name": "N° 1633",
+  "status": "in_force",
+  "issued_date": "2024-08-30",
+  "in_force_date": "2024-08-30",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2320348-1",
+  "description": "DECRETO LEGISLATIVO | N° 1633 | Decreto Legislativo que modifica el numeral 207.2 del artículo 207 de la Ley N° 27444, Ley del Procedimiento Administrativo General",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el numeral 207.2 del artículo 207 de la Ley Nº 27444, Ley del Procedimiento Administrativo General, a efectos de ampliar el plazo de quince (15) días hasta treinta (30) días hábiles, como una excepción al plazo general establecido en la citada norma legal, para que los consejos directivos de los organismos reguladores, puedan resolver los recursos de reconsideración interpuestos por sus administrados en los procedimientos administrativos de instancia única."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del numeral 207.2 del artículo 207 de la Ley Nº 27444, Ley del Procedimiento Administrativo General",
+      "content": "Modificar el numeral 207.2 del artículo 207 de la Ley Nº 27444, Ley del Procedimiento Administrativo General, conforme al siguiente texto: “ Artículo 207.- Recursos administrativos (…) 207.2 El término para la interposición de los recursos es de quince (15) días perentorios, y deben resolverse en el plazo de treinta (30) días, con excepción del recurso de reconsideración que se resuelve en el plazo de quince (15) días. Excepcionalmente, en los procedimientos administrativos de instancia única de competencia de los consejos directivos de los organismos reguladores, el recurso de reconsideración se resuelve en el plazo de treinta (30) días.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo.",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y por el Ministro de Justicia y Derechos Humanos. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintinueve días del mes de agosto del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros EDUARDO MELCHOR ARANA YSA Ministro de Justicia y Derechos Humanos"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

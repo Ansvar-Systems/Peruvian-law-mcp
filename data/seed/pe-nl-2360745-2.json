@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-2360745-2",
+  "type": "statute",
+  "title": "Ley que promueve la unidad familiar en la carrera pública magisterial, modificando el artículo 68 de la Ley 29944, Ley de Reforma Magisterial",
+  "short_name": "N° 32238",
+  "status": "in_force",
+  "issued_date": "2025-01-10",
+  "in_force_date": "2025-01-10",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2360745-2",
+  "description": "LEY | N° 32238 | Ley que promueve la unidad familiar en la carrera pública magisterial, modificando el artículo 68 de la Ley 29944, Ley de Reforma Magisterial",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Modificación del artículo 68 de la Ley 29944, Ley de Reforma Magisterial",
+      "content": "Se modifica el artículo 68 de la Ley 29944, Ley de Reforma Magisterial, quedando redactado del siguiente modo: “[…]"
+    },
+    {
+      "provision_ref": "art68",
+      "section": "68",
+      "title": "Artículo 68.- Causales de reasignación",
+      "content": "Las causales de reasignación son: a) Por razones de salud b) Por interés personal c) Por unidad familiar d) Por racionalización e) Por situaciones de emergencia En el caso regulado en el literal b) el solicitante debe acreditar como mínimo 3 años de servicio como profesor nombrado con servicios oficiales efectivos. En el supuesto regulado en el literal c), el solicitante debe acreditar como mínimo 1 año de servicio como profesor nombrado con servicios oficiales efectivos. La causal prevista en el literal c) priorizará la reasignación a plazas ubicadas en regiones distintas a la de origen, atendiendo a criterios de necesidad familiar. El reglamento de la presente ley establece los procedimientos para la reasignación. […]”. ÚNICA. El Ministerio de Educación adecuará el Reglamento de la Ley 29944, Ley de Reforma Magisterial, conforme a la modificación de la presente ley, en un plazo máximo de treinta (30) días, contados a partir del día siguiente de su publicación. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los dieciséis días del mes de diciembre de dos mil veinticuatro. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del C ongreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de enero del año dos mil veinticinco. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Las causales de reasignación son",
+      "definition": "a) Por razones de salud b) Por interés personal c) Por unidad familiar d) Por racionalización e) Por situaciones de emergencia En el caso regulado en el literal b) el solicitante debe acreditar como mínimo 3 años de servicio como profesor nombrado con servicios oficiales efectivos",
+      "source_provision": "art68"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-2050405-1",
+  "type": "statute",
+  "title": "Ley que modifica la Ley 29571, Código de Protección y Defensa del Consumidor, reduciendo el plazo de atención de reclamos de los consumidores",
+  "short_name": "N° 31435",
+  "status": "in_force",
+  "issued_date": "2022-03-22",
+  "in_force_date": "2022-03-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2050405-1",
+  "description": "LEY | N° 31435 | Ley que modifica la Ley 29571, Código de Protección y Defensa del Consumidor, reduciendo el plazo de atención de reclamos de los consumidores",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Modificación de los artículos 24 y 152 de la Ley 29571, Código de Protección y Defensa del Consumidor",
+      "content": "Modifícanse los artículos 24 y 152 de la Ley 29571, Código de Protección y Defensa del Consumidor, en los siguientes términos: “ Artículo 24.- Servicio de atención de reclamos 24.1 Sin perjuicio del derecho de los consumidores de iniciar las acciones correspondientes ante las autoridades competentes, los proveedores están obligados a atender los reclamos presentados por sus consumidores y dar respuesta a los mismos en un plazo no mayor de quince (15) días hábiles improrrogables. […]"
+    },
+    {
+      "provision_ref": "art152",
+      "section": "152",
+      "title": "Artículo 152.- Entrega del libro de reclamaciones",
+      "content": "Los consumidores pueden exigir la entrega del libro de reclamaciones para formular su queja o reclamo respecto de los productos o servicios ofertados. Los establecimientos comerciales tienen la obligación de dar respuesta a los reclamos y las quejas en el plazo establecido en el artículo 24.1 del presente código y de remitir al Indecopi la documentación correspondiente al Libro de Reclamaciones cuando este le sea requerido. En los procedimientos sancionadores, el proveedor denunciado debe remitir la copia de la queja o reclamo correspondiente junto con sus descargos”. PRIMERA. Vigencia de la ley La presente ley entra en vigencia a los sesenta (60) días calendario contados a partir del día siguiente de su publicación en el diario oficial El Peruano. SEGUNDA. Reglamento El Poder Ejecutivo a través del Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi), en un plazo no mayor de 30 (treinta) días calendario, contados a partir de la publicación de la presente ley, emitirá las directivas necesarias o adecuará las existentes, para la aplicación efectiva del artículo 152 de la Ley 29571, Código de Protección y Defensa del Consumidor, conforme a la modificación aprobada por la presente ley. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de diciembre de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los diecisiete días del mes de marzo de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de diciembre de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art152"
+    }
+  ]
+}

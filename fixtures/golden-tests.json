@@ -10,7 +10,7 @@
       "description": "Retrieve DL 1700 Article 12-A (illicit acquisition/traffic of digital data)",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-dl-1700",
+        "document_id": "pe-nl-2480387-2",
         "section": "12-A"
       },
       "assertions": {
@@ -31,7 +31,7 @@
       "description": "Retrieve DL 1741 Article 12-A amendment",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-dl-1741",
+        "document_id": "pe-nl-2487222-3",
         "section": "12-A"
       },
       "assertions": {
@@ -49,7 +49,7 @@
       "description": "Retrieve Reglamento IA 31814 Article 1",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-ds-reglamento-ia-31814",
+        "document_id": "pe-nl-2479424-1",
         "section": "1"
       },
       "assertions": {
@@ -106,7 +106,7 @@
       "description": "Provision retrieval returns non-empty citation-capable context",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-dl-1700",
+        "document_id": "pe-nl-2480387-2",
         "section": "1"
       },
       "assertions": {
@@ -148,7 +148,7 @@
       "description": "Malformed section returns graceful empty result",
       "tool": "get_provision",
       "input": {
-        "document_id": "pe-dl-1700",
+        "document_id": "pe-nl-2480387-2",
         "section": "999ZZZ-INVALID"
       },
       "assertions": {

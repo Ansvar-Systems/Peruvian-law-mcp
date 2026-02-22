@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-2052256-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "N° 1537",
+  "status": "in_force",
+  "issued_date": "2022-03-26",
+  "in_force_date": "2022-03-26",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2052256-1",
+  "description": "DECRETO LEGISLATIVO | N° 1537 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El Decreto Legislativo tiene por objeto flexibilizar el plazo para la presentación de la comunicación de bienes exportados e importados y la obligación de la información a registrarse en dicha comunicación."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto del presente Decreto Legislativo, cuando se haga mención a la Ley se entiende referida al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por el Decreto Supremo Nº 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del tercer párrafo del inciso e) del artículo 32-A de la Ley",
+      "content": "Modifícase el tercer párrafo del inciso e) del artículo 32-A de la Ley, conforme al texto siguiente:"
+    },
+    {
+      "provision_ref": "art32a",
+      "section": "32-A",
+      "title": "Artículo 32-A.- (...)",
+      "content": "e) Métodos utilizados (…) Tratándose de exportaciones, la comunicación a la que se refiere el párrafo anterior podrá ser modificada hasta el tercer día hábil siguiente a la fecha del término del desembarque en el país de destino o el trigésimo día hábil después del término del embarque en el Perú, lo que ocurra primero, siempre que la comunicación haya sido presentada con la información y/o documentación requerida dentro del plazo señalado en el presente artículo. El Reglamento establecerá el detalle de la información que, por condiciones de la transacción y/o causas no imputables al contribuyente, puede ser modificada, así como la obligación de presentar documentos que sustenten tal modificación y la forma y condiciones en que estos deben ser presentados. No se considerará que la comunicación contiene información no acorde a lo pactado si la modificación de esta se efectúa en el plazo antes señalado y se cumple con presentar los documentos en la forma y condiciones que establezca el Reglamento.”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Incorporación del quinto, sexto y séptimo párrafos al inciso e) del artículo 32-A de la Ley",
+      "content": "Incorpórase el quinto, sexto y séptimo párrafos al inciso e) del artículo 32-A de la Ley, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. ÚNICA. Vigencia Lo dispuesto en el presente Decreto Legislativo entra en vigencia el 1 de enero de 2023. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República Dado en la Casa de Gobierno, en Lima, a los veinticinco días del mes de marzo del año dos mil veintidós. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República ANÍBAL TORRES VÁSQUEZ Presidente del Consejo de Ministros OSCAR GRAHAM YAMAHUCHI Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República Dado en la Casa de Gobierno, en Lima, a los veinticinco días del mes de marzo del año dos mil veintidós",
+      "source_provision": "art5"
+    }
+  ]
+}

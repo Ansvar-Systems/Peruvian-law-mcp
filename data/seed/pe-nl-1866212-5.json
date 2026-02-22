@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-1866212-5",
+  "type": "statute",
+  "title": "Decreto Legislativo que incorpora una disposición complementaria, transitoria y final a la Ley N° 29944, Ley de Reforma Magisterial",
+  "short_name": "N° 1493",
+  "status": "in_force",
+  "issued_date": "2020-05-10",
+  "in_force_date": "2020-05-10",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866212-5",
+  "description": "DECRETO LEGISLATIVO | N° 1493 | Decreto Legislativo que incorpora una disposición complementaria, transitoria y final a la Ley N° 29944, Ley de Reforma Magisterial",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto incorporar una disposición complementaria, transitoria y final a la Ley N° 29944, Ley de Reforma Magisterial, a fin de establecer la continuidad en el cargo directivo del profesor designado, en tanto se realice la evaluación de su desempeño en dicho cargo, aun cuando haya culminado su periodo de designación."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Incorporación de una disposición complementaria, transitoria y final a la Ley N° 29944, Ley de Reforma Magisterial",
+      "content": "Incorpórase una disposición complementaria, transitoria y final a la Ley N° 29944, Ley de Reforma Magisterial, la misma que queda redactada en los siguientes términos: “ Vigésima Tercera.- Evaluación del Desempeño en Cargos Directivos 2020, en Instancias de Gestión Educativa Descentralizada El profesor designado en un cargo directivo en una Instancia de Gestión Educativa Descentralizada, que hasta el término de su periodo de designación no haya sido evaluado en su desempeño en el cargo, debido a la vigencia de la declaratoria de la Emergencia Sanitaria a nivel nacional y del Estado de Emergencia a consecuencia del brote del COVID-19, de manera excepcional y por única vez, continua ejerciendo el cargo directivo, debiendo reiniciarse su evaluación de desempeño en el cargo una vez iniciada la prestación presencial del servicio educativo en las instituciones educativas públicas. La aprobación de la citada evaluación dispone la ratificación por un periodo adicional de cuatro años y su desaprobación, el retorno al cargo docente. El Ministerio de Educación aprueba las disposiciones que sean necesarias para la aplicación de la presente disposición”."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Educación. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de mayo del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros CARLOS MARTÍN BENAVIDES ABANTO Ministro de Educación"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

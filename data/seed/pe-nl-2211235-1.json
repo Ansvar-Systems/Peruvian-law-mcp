@@ -1,0 +1,47 @@
+{
+  "id": "pe-nl-2211235-1",
+  "type": "statute",
+  "title": "Resolución Legislativa que autoriza el ingreso de una unidad naval y personal militar extranjero con armas de guerra al territorio de la República del Perú",
+  "short_name": "N° 31869",
+  "status": "in_force",
+  "issued_date": "2023-09-02",
+  "in_force_date": "2023-09-02",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2211235-1",
+  "description": "RESOLUCION LEGISLATIVA | N° 31869 | Resolución Legislativa que autoriza el ingreso de una unidad naval y personal militar extranjero con armas de guerra al territorio de la República del Perú",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Resolución Legislativa",
+      "content": "Se autoriza el ingreso al territorio de la República del Perú del Buque Escuela Fragata A.R.A. Libertad y personal militar con armas de guerra de la Armada Argentina, con la finalidad de arribar al puerto del Callao del 11 al 15 de setiembre de 2023, durante su Viaje de Instrucción 2023; teniendo previsto ingresar al dominio marítimo el 6 de setiembre de 2023 y partir de aguas jurisdiccionales peruanas el 20 de setiembre de 2023, en el marco de lo establecido en el numeral 8) del artículo 102 de la Constitución Política del Perú, conforme a las especificaciones y objetivos que se señalan en el anexo que forma parte integrante de la presente resolución legislativa."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Autorización para modificación de plazo",
+      "content": "Se autoriza al Poder Ejecutivo para que, a través de resolución suprema refrendada por el ministro de Defensa, pueda modificar, cuando existan causas imprevistas, la fecha de inicio de ejecución de la actividad operacional considerada en el anexo de la presente resolución legislativa, siempre que dicha modificación no exceda el tiempo de permanencia establecido y se realice antes del ingreso del personal militar extranjero al territorio de la República. El ministro de Defensa procede a dar cuenta a la Comisión de Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha contra las Drogas del Congreso de la República, en un plazo de cuarenta y ocho horas después de expedida la citada resolución suprema. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los treintaiún días del mes de agosto de dos mil veintitrés. ALEJANDRO SOTO REYES Presidente del Congreso de la República HERNANDO GUERRA GARCÍA CAMPOS Primer Vicepresidente del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA Lima, 1 de setiembre de 2023. Cúmplase, regístrese, comuníquese, publíquese y archívese. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República LUIS ALBERTO OTÁROLA PEÑARANDA Presidente del Consejo de Ministros ANEXO CUADRO DE CARACTERÍSTICAS DE LA UNIDAD NAVAL Y DEL PERSONAL MILITAR EXTRANJERO QUE INGRESA CON ARMAS DE GUERRA AL TERRITORIO DE LA REPÚBLICA DEL PERÚ BUQUE ESCUELA FRAGATA A.R.A. LIBERTAD DE LA ARMADA ARGENTINA OBJETIVO Viaje de Instrucción 2023. LUGAR Puerto del Callao. INGRESO/SALIDA DEL PUERTO DEL CALLAO Del 11 al 15 de setiembre de 2023. TIEMPO DE PERMANENCIA EN EL PUERTO DEL CALLAO Cinco días. INGRESO / SALIDA DE AGUAS TERRITORIALES Del 6 al 20 de setiembre de 2023. PAÍS PARTICIPANTE República Argentina. TIPO DE UNIDAD PARTICIPANTE Buque Escuela. CANTIDAD DE UNIDADES Una. CANTIDAD DE PERSONAL Oficiales: veintisiete. Suboficiales: ciento ochenta y cuatro. Guardiamarinas en comisión: cincuenta y tres. Invitados: dieciséis. CLASE Y/O TIPO DE UNIDAD Moto Velero / Buque Escuela. NOMBRE Y/O NÚMERO DE CASCO Libertad / Q5. DESPLAZAMIENTO 3,400 toneladas. ESLORA 103.7 metros. MANGA 14.31 metros. CALADO 6.7 metros. TIPO Y CANTIDAD DE ARMAS Cuatro cañones Hotchkiss 40 mm. (batería de saludo) SISTEMAS ELECTRÓNICOS (RADARES, SONAR, CONTRAMEDIDAS, OTROS) Dos radares de navegación de 10 y 3 cm. Ais Transponder. AERONAVES EMBARCADAS (NÚMERO DE MATRÍCULA, TIPO CLASE) No cuenta. EMBARCACIONES Dos botes tipo Zodiac. Dos lanchas de fibra de vidrio. SISTEMA DE COMUNICACIONES (HF, VHF, CANAL 16, SATELITAL, SISTEMA DE NAVEGACIÓN) Canal de seguridad náutica en VHF – GPS."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "CANTIDAD DE PERSONAL Oficiales",
+      "definition": "veintisiete",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Suboficiales",
+      "definition": "ciento ochenta y cuatro",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Guardiamarinas en comisión",
+      "definition": "cincuenta y tres",
+      "source_provision": "art2"
+    },
+    {
+      "term": "Invitados",
+      "definition": "dieciséis",
+      "source_provision": "art2"
+    }
+  ]
+}

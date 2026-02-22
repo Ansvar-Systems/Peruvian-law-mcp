@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-1655394-1",
+  "type": "statute",
+  "title": "Ley que declara de interés nacional y necesidad pública la creación del distrito de San Joaquín, en la provincia de Ica, del departamento de Ica",
+  "short_name": "N° 30778",
+  "status": "in_force",
+  "issued_date": "2018-06-02",
+  "in_force_date": "2018-06-02",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1655394-1",
+  "description": "LEY | N° 30778 | Ley que declara de interés nacional y necesidad pública la creación del distrito de San Joaquín, en la provincia de Ica, del departamento de Ica",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Declaración de interés nacional",
+      "content": "Declárase de interés nacional y necesidad pública la creación del distrito de San Joaquín, en la provincia de Ica, del departamento de Ica. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de enero de dos mil dieciocho, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, al primer día del mes de junio de dos mil dieciocho. LUIS GALARRETA VELARDE Presidente del Congreso de la República RICHARD ACUÑA NÚÑEZ Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de enero de dos mil dieciocho, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "artunico"
+    }
+  ]
+}

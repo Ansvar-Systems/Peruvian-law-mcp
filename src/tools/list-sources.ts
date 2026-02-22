@@ -49,8 +49,8 @@ export async function listSources(
           url: 'https://busquedas.elperuano.pe',
           license: 'Official publication terms',
           coverage:
-            'Curated set of Peruvian cybersecurity, digital governance, and data protection norms ' +
-            'with official HTML text available via /api/visor_html/{op}.',
+            'Law corpus from Normas Legales discovered via GraphQL getGenericPublication ' +
+            'and ingested from official HTML text via /api/visor_html/{op}.',
           languages: ['es'],
         },
       ],

@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-1868056-1",
+  "type": "statute",
+  "title": "Ley que dispone el uso de la firma digital en la remisión de la información a la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República",
+  "short_name": "Nº 31024",
+  "status": "in_force",
+  "issued_date": "2020-06-16",
+  "in_force_date": "2020-06-16",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1868056-1",
+  "description": "LEY | Nº 31024 | Ley que dispone el uso de la firma digital en la remisión de la información a la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto hacer uso eficiente de las tecnologías digitales en las entidades de la administración pública que tienen la obligación de presentar por mandato legal información a la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Plataforma digital para gestión de la información",
+      "content": "La información que los funcionarios y servidores públicos de las entidades públicas presentan por mandato legal a la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República, en adelante la Comisión, se elabora y se presenta únicamente a través de la plataforma digital para gestión de la información que establezca la Comisión para tal fin como información digital. La plataforma digital es desarrollada, implementada, monitoreada y supervisada por el área correspondiente del Congreso de la República. La misma es financiada con cargo al presupuesto del Congreso de la República sin demandar recursos adicionales al tesoro público. La Comisión administra la información presentada por las entidades públicas en esta plataforma digital. La información digital es un documento electrónico que es firmado digitalmente por los funcionarios o servidores públicos obligados por ley a presentar dicha información ante la Comisión de Presupuesto y Cuenta General de la República del Congreso de la República y se efectúa haciendo uso del documento nacional de identidad electrónico (DNIe). La Plataforma Digital proporciona o cuenta con una opción para realizar el procedimiento de firma digital."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Mecanismo de verificación de la información",
+      "content": "Los documentos electrónicos generados y firmados digitalmente en el sistema de información al que se hace referencia en el artículo 2 de la presente ley contienen un mecanismo de verificación para comprobar su autenticidad."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Validez, eficacia jurídica y probatoria de la información",
+      "content": "4.1 La información elaborada y presentada por medios electrónicos y firmada digitalmente por los funcionarios y servidores públicos de las entidades públicas, mediante el certificado digital de persona natural incorporado en el documento nacional de identidad electrónico (DNIe), que es otorgado por el Registro Nacional de Identificación y Estado Civil (Reniec) bajo la infraestructura oficial de firma electrónica, tiene la misma validez, eficacia jurídica y probatoria que un documento impreso y firmado en forma manuscrita por el que la presenta. 4.2 La información a que se hace referencia en el numeral 4.1 puede ser impresa en papel con un código generado electrónicamente, la cual goza de la misma validez, eficacia jurídica y probatoria que la información electrónica firmada digitalmente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Validación de la identidad de funcionarios y servidores",
+      "content": "La validación de identidad de los funcionarios y servidores al que se refiere el artículo 2 también se podrá realizar haciendo uso de la Plataforma Nacional de Autenticación de la Identidad Digital (ID Perú). ÚNICA. Conservación de los documentos electrónicos firmados digitalmente Para conservar documentos electrónicos y garantizar la perdurabilidad en el tiempo de la firma digital incorporada en aquellos, se emplean sellos de tiempo y mecanismos basados en estándares internacionalmente aceptados que permitan verificar el estado del certificado digital asociado. Cuando dicho tipo de documentos electrónicos, y sus respectivos formatos que aseguran la característica de perdurabilidad de la firma digital, deban ser conservados de modo permanente, estos se archivarán observando las disposiciones legales sobre la materia. ÚNICA. Progresividad de la implementación de la ley La presente ley se implementa de acuerdo al siguiente cronograma: a) En los pliegos de los ministerios y los gobiernos regionales, a partir del 1 de agosto de 2020. b) En los gobiernos locales provinciales, a partir del 1 de setiembre de 2020. c) Para las entidades públicas no comprendidas en los literales precedentes, a partir del 1 de octubre de 2020. En base a la ausencia de recursos y capacidades requeridas para implementar la presente ley, se puede postergar la implementación de la presente ley en las entidades públicas que lo requieran principalmente de gobiernos locales que se encuentran ubicados en zonas rurales. La Comisión de Presupuesto y Cuenta General de la República a través del Congreso de la República publica un comunicado en el diario oficial El Peruano con la lista de las entidades públicas en las que se posterga dicha implementación. Comuníquese al señor Presidente de la República para su promulgación. En Lima, a los veintisiete días del mes de mayo de dos mil veinte. MANUEL MERINO DE LAMA Presidente del Congreso de la República LUIS ALBERTO VALDEZ FARÍAS Primer Vicepresidente del Congreso de la República AL SEÑOR PRESIDENTE DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los quince días del mes de junio del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": []
+}

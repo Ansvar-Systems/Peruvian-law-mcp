@@ -1,0 +1,68 @@
+{
+  "id": "pe-nl-2484948-3",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica los artículos 11, 15 y 24 del Decreto Legislativo N° 1350, Decreto Legislativo de Migraciones, a fin de mejorar la identificación de extranjeros",
+  "short_name": "N° 1720",
+  "status": "in_force",
+  "issued_date": "2026-02-07",
+  "in_force_date": "2026-02-07",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2484948-3",
+  "description": "DECRETO LEGISLATIVO | N° 1720 | Decreto Legislativo que modifica los artículos 11, 15 y 24 del Decreto Legislativo N° 1350, Decreto Legislativo de Migraciones, a fin de mejorar la identificación de extranjeros",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar los artículos 11, 15 y 24 del Decreto Legislativo N° 1350, Decreto Legislativo de Migraciones, a fin de mejorar la identificación de extranjeros."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Finalidad",
+      "content": "El presente Decreto Legislativo tiene por finalidad mejorar la identificación de las personas extranjeras al contratar servicios ante entidades públicas y privadas en el mercado peruano, distinguiendo a aquellas con antecedentes penales, y reduciendo los riesgos de fraude documental y suplantación de identidad, en el marco de la lucha contra la inseguridad ciudadana y el crimen organizado, así como proteger a las entidades públicas y privadas previniendo el uso de identidades falsas."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del numeral 15.8 del artículo 15 y el numeral 24.5 del artículo 24 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones",
+      "content": "Se modifica el numeral 15.8 del artículo 15 y el numeral 24.5 del artículo 24 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones, los cuales quedan redactados de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art15",
+      "section": "15",
+      "title": "Artículo 15.- Identificación de las personas extranjeras en el territorio nacional",
+      "content": "(…) 15.8. Las entidades públicas y privadas dentro del territorio nacional deben reconocer los documentos de identidad emitidos por MIGRACIONES y el Ministerio de Relaciones Exteriores. Dicho reconocimiento se efectúa conforme a los mecanismos de verificación y validación de identidad que, en el marco de sus competencias, implemente la autoridad migratoria competente, de acuerdo con la normativa vigente.”"
+    },
+    {
+      "provision_ref": "art24",
+      "section": "24",
+      "title": "Artículo 24.- Registro de Información Migratoria (RIM)",
+      "content": "(…) 24.5 MIGRACIONES implementa y facilita el acceso a la información, bajo su competencia, a otras entidades nacionales e internacionales, públicas o privadas habilitadas por ley, de forma segura, conforme la normativa vigente. (…)”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Modificación del Decreto Legislativo N° 1350, Decreto Legislativo de Migraciones, incorporando el numeral 11.5 al artículo 11",
+      "content": "Se modifica el Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones, incorporando el numeral 11.5 al artículo 11, el cual queda redactado de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11.- Personas extranjeras en situación de vulnerabilidad",
+      "content": "(…) 11.5 MIGRACIONES en el ámbito de sus competencias, adopta las medidas necesarias para facilitar la verificación de los documentos de identidad que se otorguen a personas extranjeras en situación de vulnerabilidad, de conformidad con lo dispuesto en el artículo 24.”"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, la Ministra de Economía y Finanzas y por el Ministro del Interior. ÚNICA.- Apr obación de normas reglamentarias El Ministerio del Interior, dentro del plazo de noventa (90) días calendario contado a partir del día siguiente de publicado el presente decreto legislativo en el diario oficial El Peruano, adecúa el Reglamento del Decreto Legislativo N° 1350, Decreto Legislativo de Migraciones, aprobado mediante Decreto Supremo N° 007-2017-IN, a lo dispuesto en el presente Decreto Legislativo. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los seis días del mes de febrero del año dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros DENISSE AZUCENA MIRALLES MIRALLES Ministra de Economía y Finanzas VICENTE TIBURCIO ORBEZO Ministro del Interior"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

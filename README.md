@@ -23,9 +23,13 @@ npx @ansvar/peruvian-law-mcp
 
 ## Data Sources
 
-Official legal text from Diario Oficial El Peruano (`busquedas.elperuano.pe`), ingested from the public
-HTML endpoint `https://busquedas.elperuano.pe/api/visor_html/{op}` for a curated set of cybersecurity,
-digital-governance, and personal-data-protection norms.
+Official legal text from Diario Oficial El Peruano (`busquedas.elperuano.pe`).
+
+- Discovery/indexing: `https://busquedas.elperuano.pe/api/graphql` via `getGenericPublication`
+- Full text: `https://busquedas.elperuano.pe/api/visor_html/{op}`
+
+Current ingestion mode targets full law corpus categories (e.g., `LEY`, `DECRETO LEGISLATIVO`,
+`DECRETO DE URGENCIA`, `RESOLUCION LEGISLATIVA`) within the configured date range.
 
 ## License
 

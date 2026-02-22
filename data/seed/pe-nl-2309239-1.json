@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2309239-1",
+  "type": "statute",
+  "title": "Ley que crea la Universidad Nacional de Sechura en el distrito de Sechura de la provincia de Sechura del departamento de Piura",
+  "short_name": "N° 32101",
+  "status": "in_force",
+  "issued_date": "2024-07-22",
+  "in_force_date": "2024-07-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2309239-1",
+  "description": "LEY | N° 32101 | Ley que crea la Universidad Nacional de Sechura en el distrito de Sechura de la provincia de Sechura del departamento de Piura",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Creación de la Universidad Nacional de Sechura",
+      "content": "Se crea la Universidad Nacional de Sechura, con personería jurídica de derecho público interno, con sede en el distrito de Sechura de la provincia de Sechura del departamento de Piura."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Fines de la Universidad Nacional de Sechura",
+      "content": "Son fines de la Universidad Nacional de Sechura los establecidos en la Constitución Política del Perú, en la Ley 30220, Ley Universitaria, y en la Ley 28044, Ley General de Educación."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Régimen académico",
+      "content": "La Universidad Nacional de Sechura cuenta con facultades, escuelas profesionales, departamentos académicos, unidades de investigación y dirección de posgrado que determine la comisión organizadora."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Carreras profesionales",
+      "content": "La Universidad Nacional de Sechura ofrece las siguientes carreras profesionales: a) Ingeniería Pesquera. b) Ingeniería Industrial. c) Ingeniería de Minas. d) Ingeniería de Sistemas. e) Ingeniería Civil. f) Ciencias Contables. g) Administración de Empresas. h) Educación. i) Medicina Humana. j) Enfermería. PRIMERA. Constitución como pliego presupuestal La Universidad Nacional de Sechura se constituye como pliego presupuestal y se autoriza al Ministerio de Economía y Finanzas para que transfiera las partidas presupuestarias con cargo al presupuesto institucional del Pliego 10 Ministerio de Educación. SEGUNDA. Financiamiento El Ministerio de Educación, en coordinación con el Ministerio de Economía y Finanzas, el Gobierno Regional de Piura, la Municipalidad Provincial de Sechura, la Municipalidad Distrital de Sechura y el Fondo Social del Proyecto Integral Bayóvar, programará recursos con la finalidad de asegurar el funcionamiento de la Universidad Nacional de Sechura; asimismo, se asegura dicho funcionamiento con el financiamiento proveniente de los recursos propios, donaciones y legados, y los recursos del canon. TERCERA. Comisión organizadora El Ministerio de Educación constituirá la comisión organizadora de la Universidad Nacional de Sechura, integrada por tres académicos de reconocido prestigio, tal como lo dispone el artículo 29 de la Ley 30220, Ley Universitaria. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, al primer día del mes de julio de dos mil veinticuatro. ALEJANDRO SOTO REYES Presidente del Congreso de la República ARTURO ALEGRÍA GARCÍA Primer Vicepresidente del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los diecinueve días del mes de julio del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "La Universidad Nacional de Sechura ofrece las siguientes carreras profesionales",
+      "definition": "a) Ingeniería Pesquera",
+      "source_provision": "art4"
+    }
+  ]
+}

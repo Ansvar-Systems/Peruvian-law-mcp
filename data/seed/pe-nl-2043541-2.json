@@ -1,0 +1,61 @@
+{
+  "id": "pe-nl-2043541-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "N° 1527",
+  "status": "in_force",
+  "issued_date": "2022-03-01",
+  "in_force_date": "2022-03-01",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2043541-2",
+  "description": "DECRETO LEGISLATIVO | N° 1527 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente decreto legislativo tiene por objeto modificar la Ley del Impuesto a la Renta a fin de modificar las disposiciones sobre el sustento para exigir documentos fehacientes y/o de fecha cierta para acreditar que no existe incremento patrimonial no justificado. Las medidas que se aprueben deben ceñirse al objetivo y no violentar los derechos constitucionales de los contribuyentes."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto de lo dispuesto en el presente Decreto Legislativo, se entiende por Ley del Impuesto a la Renta al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por el Decreto Supremo N° 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del inciso a) del segundo párrafo del artículo 52 y el artículo 92 de la Ley del Impuesto a la Renta",
+      "content": "Modifícase el inciso a) del segundo párrafo del artículo 52 y el artículo 92 de la Ley del Impuesto a la Renta, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art52",
+      "section": "52",
+      "title": "Artículo 52.- (…)",
+      "content": "Los incrementos patrimoniales no podrán ser justificados con: a) Donaciones recibidas u otras liberalidades que no consten en: 1) escritura pública, tratándose de la donación de bienes inmuebles o muebles, cuya transferencia requiera de dicho instrumento, según las normas de la materia, 2) documento de fecha cierta, tratándose de la donación de bienes muebles distintos a los señalados en el numeral 1), o 3) documento que acredite de manera fehaciente: (i) la donación recibida, tratándose de bienes muebles previstos en el numeral 2) y que hayan sido recibidos con ocasión de bodas o acontecimientos similares o cuyo valor no supere el 25% de la UIT, o (ii) la liberalidad recibida. En los casos que para su constitución o formalización se requiera de una escritura pública o documento de fecha cierta, según las normas sobre la materia, la liberalidad no podrá ser sustentada con documento que no cumplan con dicha formalidad. (…). ”"
+    },
+    {
+      "provision_ref": "art92",
+      "section": "92",
+      "title": "Artículo 92.- Para determinar las rentas o cualquier ingreso que justifiquen los incrementos patrimoniales, la SUNAT podrá requerir al deudor tributario que sustente el destino de dichas rentas o ingresos.",
+      "content": "El incremento patrimonial se determinará tomando en cuenta, entre otros, los signos exteriores de riqueza, las variaciones patrimoniales, la adquisición y transferencia de bienes, las inversiones, los depósitos en cuentas de entidades del sistema financiero nacional o del extranjero, los consumos, los gastos efectuados durante el ejercicio fiscalizado, aun cuando éstos no se reflejen en su patrimonio al final del ejercicio, de acuerdo a los métodos que establezca el Reglamento. Dichos métodos deberán considerar también la deducción de las rentas totales declaradas y otros ingresos y/o rentas percibidas comprobadas por la SUNAT. Para efecto de lo señalado en el segundo párrafo, no se considerarán los depósitos en cuentas de entidades del sistema financiero nacional o del extranjero que correspondan a operaciones entre terceros, siempre que el origen o procedencia de tales depósitos estén debidamente sustentados y la información vinculada a estos se declare a la SUNAT, en la forma, plazo y condiciones, entre ellas, el monto mínimo a partir del cual se presentará dicha declaración, que se establezcan mediante resolución de superintendencia. Lo dispuesto en este artículo no será de aplicación a las personas jurídicas a quienes pueda determinarse la obligación tributaria en base a la presunción a que se refiere el artículo 70 del Código Tributario. ”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. Única. Vigencia Lo dispuesto por el presente decreto legislativo entra en vigencia a partir del 1 de enero de 2023. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República Dado en la Casa de Gobierno, en Lima, a los veintiocho días del mes de febrero del año dos mil veintidós. JOSÉ PEDRO CASTILLO TERRONES Presidente de la República ANÍBAL TORRES VÁSQUEZ Presidente del Consejo de Ministros OSCAR GRAHAM YAMAHUCHI Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Los incrementos patrimoniales no podrán ser justificados con",
+      "definition": "a) Donaciones recibidas u otras liberalidades que no consten en: 1) escritura pública, tratándose de la donación de bienes inmuebles o muebles, cuya transferencia requiera de dicho instrumento, según las normas de la materia, 2) documento de fecha cierta, tratándose de la donación de bienes muebles distintos a los señalados en el numeral 1), o 3) documento que acredite de manera fehaciente: (i) la",
+      "source_provision": "art52"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República Dado en la Casa de Gobierno, en Lima, a los veintiocho días del mes de febrero del año dos mil veintidós",
+      "source_provision": "art4"
+    }
+  ]
+}

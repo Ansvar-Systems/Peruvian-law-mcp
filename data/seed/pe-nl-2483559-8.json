@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-2483559-8",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el Decreto Legislativo N° 813, Ley Penal Tributaria",
+  "short_name": "N° 1716",
+  "status": "in_force",
+  "issued_date": "2026-02-04",
+  "in_force_date": "2026-02-04",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2483559-8",
+  "description": "DECRETO LEGISLATIVO | N° 1716 | Decreto Legislativo que modifica el Decreto Legislativo N° 813, Ley Penal Tributaria",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto y finalidad",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el Decreto Legislativo N° 813, Decreto Legislativo que aprueba la Ley Penal Tributaria, con la finalidad de actualizar los tipos penales relacionados a comprobantes de pago a través de la incorporación de los comprobantes de pago electrónicos, teniendo en cuenta la transformación digital; asimismo, incorporar figuras punitivas relacionadas con la disposición indebida así como la falsificación o adulteración de las constancias de depósito de las operaciones sujetas al Sistema de Pago de Obligaciones Tributarias."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efectos del presente Decreto Legislativo se entiende por Ley Penal Tributaria a aquella aprobada mediante el Decreto Legislativo N° 813."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación de artículos de la Ley Penal Tributaria",
+      "content": "Modificar el artículo 5-A y el numeral 1 del artículo 7 de la Ley Penal Tributaria, conforme a los textos siguientes:"
+    },
+    {
+      "provision_ref": "art5a",
+      "section": "5-A",
+      "title": "Artículo 5-A.- Será reprimido con pena privativa de libertad no menor de 2 (dos) ni mayor de 5 (cinco) años y con 180 (ciento ochenta) a 365 (trescientos sesenta y cinco) días-multa, el que a sabiendas proporcione información falsa con ocasión de la inscripción o modificación de datos en el Registro Único de Contribuyentes, y así se encuentre habilitado para realizar trámites conducentes a la emisión electrónica de comprobantes de pago, guías de remisión, notas de crédito o notas de débito y/u obtenga autorización de impresión de comprobantes de pago, guías de remisión, notas de crédito o notas de débito.”",
+      "content": "“ Artículo 7.- Requisito de procedibilidad 1. El Ministerio Público, en los casos de delito tributario, dispondrá la formalización de la Investigación Preparatoria previo informe motivado del Órgano Administrador del Tributo. En los casos de los delitos previstos en los artículos 5-A, 5-B, 5-C y 5-E de la presente norma se elaborará un informe de hechos. (…)”."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Incorporación de artículo a la Ley Penal Tributaria",
+      "content": "Incorporar el artículo 5-E a la Ley Penal Tributaria, conforme al texto siguiente:"
+    },
+    {
+      "provision_ref": "art5e",
+      "section": "5-E",
+      "title": "Artículo 5-E.- Será reprimido con pena privativa de libertad no menor de 5 (cinco) ni mayor de 8 (ocho) años y con 180 (ciento ochenta) a 365 (trescientos sesenta y cinco) días-multa:",
+      "content": "1. El que estando obligado por las normas de la materia a efectuar el pago del depósito respecto de operaciones sujetas al Sistema de Pago de Obligaciones Tributarias, falsifique o adultere la constancia que acredita el citado depósito, con la finalidad de sustentar el traslado de bienes por operaciones sujetas a dicho Sistema. 2. El que presenta ante el órgano administrador del tributo constancias falsas o adulteradas por él mismo, para acreditar el depósito respecto de operaciones sujetas al Sistema de Pago de Obligaciones Tributarias con la finalidad de sustentar el traslado de bienes por operaciones sujetas a dicho Sistema.”"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y la Ministra de Economí a y Finanzas. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los tres días del mes de febrero del año dos mil veintiséis. JOSÉ ENRIQUE JERÍ ORÉ Presidente de la República ERNESTO JULIO ÁLVAREZ MIRANDA Presidente del Consejo de Ministros DENISSE AZUCENA MIRALLES MIRALLES Ministra de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

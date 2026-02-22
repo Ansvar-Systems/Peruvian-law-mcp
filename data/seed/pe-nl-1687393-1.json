@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-1687393-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley N° 28806, Ley General de Inspección del Trabajo",
+  "short_name": "N° 1383",
+  "status": "in_force",
+  "issued_date": "2018-09-04",
+  "in_force_date": "2018-09-04",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1687393-1",
+  "description": "DECRETO LEGISLATIVO | N° 1383 | Decreto Legislativo que modifica la Ley N° 28806, Ley General de Inspección del Trabajo",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto establecer las normas necesarias para optimizar el funcionamiento del Sistema de Inspección del Trabajo, fijando las facultades y atribuciones de los inspectores de trabajo, para un adecuado ejercicio de la función inspectiva, a fin de garantizar el cumplimiento del ordenamiento jurídico sociolaboral y de seguridad y salud en el trabajo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de la Ley N° 28806, Ley General de Inspección del Trabajo",
+      "content": "Modifíquese los artículos 6 y 11 de la Ley N° 28806, Ley General de Inspección del Trabajo, que quedan redactados de la siguiente manera:"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Atribución de competencias",
+      "content": "(…) Los Inspectores Auxiliares están facultados para ejercer las siguientes funciones: a. Funciones inspectivas de vigilancia y control de las normas, cuando las materias a ser inspeccionadas no revistan complejidad. Para este efecto, mediante Resolución de Superintendencia de SUNAFIL, se aprueban los criterios técnicos para la determinación de las inspecciones que se consideren complejas, pudiendo considerarse, entre otros, las características del sujeto inspeccionado. (…)”"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "Artículo 11.- Modalidades de actuación",
+      "content": "Las actuaciones inspectivas de investigación se desarrollan mediante requerimiento de información por medio de sistemas de comunicación electrónica, visita de inspección a los centros y lugares de trabajo, mediante requerimiento de comparecencia del sujeto inspeccionado ante el inspector actuante para aportar documentación y/o efectuar las aclaraciones pertinentes o mediante comprobación de datos o antecedentes que obren en el Sector Público. (…)”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Expediente electrónico",
+      "content": "Las actuaciones inspectivas y el procedimiento sancionador de inspección del trabajo se podrán realizar total o parcialmente a través de tecnologías y medios electrónicos, debiendo constar en un expediente electrónico, de conformidad con lo establecido en el Texto Único Ordenado de la Ley N° 27444, Ley del Procedimiento Administrativo General, aprobado por Decreto Supremo N° 006-2017-JUS. Primera.- Financiamiento La aplicación de lo establecido en el presente Decreto Legislativo, en el caso de las entidades públicas involucradas, se financia con cargo a su presupuesto institucional, sin demandar recursos adicionales del Tesoro Público. Segunda.- Refrendo El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Trabajo y Promoción del Empleo. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los tres días del mes de setiembre del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República CÉSAR VILLANUEVA ARÉVALO Presidente del Consejo de Ministros CHRISTIAN SÁNCHEZ REYES Ministro de Trabajo y Promoción del Empleo"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

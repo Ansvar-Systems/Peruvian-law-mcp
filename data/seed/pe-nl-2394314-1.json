@@ -1,0 +1,61 @@
+{
+  "id": "pe-nl-2394314-1",
+  "type": "statute",
+  "title": "Ley que crea la Comisión Especial Multipartidaria encargada de elaborar un Nuevo Código Penal actualizado recogiendo el trabajo existente de las comisiones anteriores",
+  "short_name": "N° 32310",
+  "status": "in_force",
+  "issued_date": "2025-04-26",
+  "in_force_date": "2025-04-26",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2394314-1",
+  "description": "LEY | N° 32310 | Ley que crea la Comisión Especial Multipartidaria encargada de elaborar un Nuevo Código Penal actualizado recogiendo el trabajo existente de las comisiones anteriores",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Creación de la Comisión Especial Multipartidaria",
+      "content": "Se crea la Comisión Especial denominada Comisión Especial Multipartidaria encargada de elaborar un Nuevo Código Penal actualizado recogiendo el trabajo existente de las comisiones anteriores, trabajos que están disponibles en el repositorio del Congreso de la República."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Atribuciones de la Comisión Especial Multipartidaria",
+      "content": "La Comisión Especial Multipartidaria tiene la atribución de coordinar con los diversos sectores, o instituciones involucrados o personas que tuvieran interés en hacer conocer sus opiniones o sugerencias sobre la materia relacionada."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Conformación de la Comisión Especial Multipartidaria",
+      "content": "3.1 La Comisión Especial Multipartidaria se conforma por los siguientes miembros: a) Un congresista representante elegido por la Comisión de Justicia y Derechos Humanos, quien lo preside. b) Un congresista representante de cada grupo parlamentario. 3.2 La Comisión Especial Multipartidaria cuenta con un secretario técnico que es designado por su presidente. 3.3 El Poder Judicial, el Ministerio Público, el Ministerio de Justicia y Derechos Humanos y demás instituciones involucradas se encuentran obligadas a cooperar con dicha comisión."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Plazo de entrega del anteproyecto",
+      "content": "El plazo para que la Comisión Especial Multipartidaria cumpla con la entrega del trabajo encomendado no debe exceder del Periodo Parlamentario 2021-2026. El plazo se computa a partir de la entrada en vigor de la presente ley."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Presentación del anteproyecto",
+      "content": "La Comisión Especial Multipartidaria pone a disposición de la Comisión de Justicia y Derechos Humanos del Congreso de la República el anteproyecto para su dictamen y aprobación."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Presupuesto",
+      "content": "Los gastos que irrogue el cumplimiento de la presente ley son con cargo al presupuesto del Congreso de la República. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día trece de diciembre de dos mil veinticuatro, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veinticinco días del mes de abril de dos mil veinticinco. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "1 La Comisión Especial Multipartidaria se conforma por los siguientes miembros",
+      "definition": "a) Un congresista representante elegido por la Comisión de Justicia y Derechos Humanos, quien lo preside",
+      "source_provision": "art3"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día trece de diciembre de dos mil veinticuatro, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art6"
+    }
+  ]
+}

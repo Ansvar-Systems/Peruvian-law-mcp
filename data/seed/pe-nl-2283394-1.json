@@ -1,0 +1,49 @@
+{
+  "id": "pe-nl-2283394-1",
+  "type": "statute",
+  "title": "Ley que crea la Universidad Nacional de Carabaya en el distrito de Macusani, provincia de Carabaya, departamento de Puno",
+  "short_name": "N° 32011",
+  "status": "in_force",
+  "issued_date": "2024-04-26",
+  "in_force_date": "2024-04-26",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2283394-1",
+  "description": "LEY | N° 32011 | Ley que crea la Universidad Nacional de Carabaya en el distrito de Macusani, provincia de Carabaya, departamento de Puno",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Creación de la Universidad Nacional de Carabaya",
+      "content": "Se crea la Universidad Nacional de Carabaya en el distrito de Macusani, provincia de Carabaya, departamento de Puno, con personería jurídica de derecho público interno con sede en dicho distrito."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Carreras profesionales",
+      "content": "La Universidad Nacional de Carabaya ofrece las siguientes carreras profesionales: a) Economía. b) Contabilidad. c) Ingeniería Agropecuaria. d) Ingeniería Ambiental. e) Ingeniería Civil. f) Ingeniería de Recursos Energéticos. g) Ingeniería de Sistemas. h) Medicina Humana. i) Obstetricia. j) Enfermería. k) Psicología."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Financiamiento",
+      "content": "3.1. La Universidad Nacional de Carabaya se financia con los siguientes recursos: propios autogenerados, canon minero, ingresos provenientes de donaciones y legados, y los que se gestionen en el ámbito de los gobiernos locales o con el gobierno regional y el gobierno central o con la cooperación internacional. 3.2. Los gastos corrientes de la universidad no pueden ser financiados con el canon minero."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Adecuación",
+      "content": "La Universidad Nacional de Carabaya elabora su estatuto y adecúa sus órganos de gobierno a lo que dispone la Ley 30220, Ley Universitaria. ÚNICA. Comisión organizadora El Ministerio de Educación (Minedu) constituirá una comisión organizadora de la Universidad Nacional de Carabaya, integrada por tres académicos de reconocido prestigio, tal como lo dispone el artículo 29 de la Ley 30220, Ley Universitaria. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los nueve días del mes de abril de dos mil veinticuatro. ALEJANDRO SOTO REYES Presidente del Congreso de la República ARTURO ALEGRÍA GARCÍA Primer Vicepresidente del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los veinticinco días del mes de abril del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "La Universidad Nacional de Carabaya ofrece las siguientes carreras profesionales",
+      "definition": "a) Economía",
+      "source_provision": "art2"
+    },
+    {
+      "term": "La Universidad Nacional de Carabaya se financia con los siguientes recursos",
+      "definition": "propios autogenerados, canon minero, ingresos provenientes de donaciones y legados, y los que se gestionen en el ámbito de los gobiernos locales o con el gobierno regional y el gobierno central o con la cooperación internacional",
+      "source_provision": "art3"
+    }
+  ]
+}

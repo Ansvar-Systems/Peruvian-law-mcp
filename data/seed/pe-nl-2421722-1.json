@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-2421722-1",
+  "type": "statute",
+  "title": "Ley que regula el procedimiento de la venta y la devolución del costo de las entradas a conciertos",
+  "short_name": "LEY",
+  "status": "in_force",
+  "issued_date": "2025-07-22",
+  "in_force_date": "2025-07-22",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2421722-1",
+  "description": "LEY | Ley que regula el procedimiento de la venta y la devolución del costo de las entradas a conciertos",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto establecer el marco normativo que regule el procedimiento de la venta y la devolución del costo de las entradas a conciertos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Ámbito de aplicación",
+      "content": "La presente ley se aplica a todo vendedor de entradas a conciertos, así como a su organizador. No es aplicable para la venta de entradas a eventos teatrales ni para aquellas entradas a eventos organizados en el marco de los estímulos económicos que brinda el Ministerio de Cultura."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Definiciones",
+      "content": "Para efectos de la presente ley, se consideran las siguientes definiciones: a) Concierto. Espectáculo en el que se desarrolla una o varias presentaciones musicales o artísticas, cuyo aforo es igual o mayor de quinientas personas y que conlleva la oferta de entradas en forma física o digital para el ingreso de los asistentes. b) Vendedor de entradas. Toda persona natural o jurídica, elegida por el organizador del concierto, responsable de gestionar la venta de entradas al público, ya sea mediante puntos de venta físicos o plataformas virtuales o electrónicas. c) Organizador del concierto. Toda persona natural o jurídica responsable de la planificación y ejecución de conciertos."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Documentos que autorizan la realización del concierto",
+      "content": "Para realizar un concierto, el organizador cuenta, diez días calendario previos a la realización del concierto, con la autorización municipal y con la resolución de otorgamiento de garantías de orden público expedida por el Ministerio del Interior (MININTER), que deben estar conformes con la normativa correspondiente."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Emisión y detalle de las entradas",
+      "content": "5.1. La cantidad de entradas emitidas no puede ser mayor, en ninguna circunstancia, que el aforo permitido en el lugar donde se desarrolla el concierto. 5.2. Las entradas emitidas para la asistencia al concierto deben consignar como mínimo lo siguiente: a) Razón social y registro único de contribuyentes (RUC) del organizador del concierto. b) Medio de verificación que permita validar la autenticidad de cada entrada vendida. c) Precio y, términos y condiciones del concierto. Cuando no sea posible consignar esta información por razones de espacio, se debe incluir el enlace donde el consumidor accede a la información respecto de los términos y condiciones."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Verificación de la autenticidad de las entradas",
+      "content": "La verificación de la autenticidad de las entradas es responsabilidad del organizador del concierto el día de su realización."
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7.- Devolución del costo de las entradas",
+      "content": "7.1. Ante la cancelación del concierto, el organizador procede a la devolución del costo total de la entrada adquirida por el consumidor. El procedimiento de devolución es informado oportunamente por el organizador. 7.2. En el caso de que ocurra una variación del lugar, de la fecha o del objeto del concierto, si el consumidor no acepta las nuevas condiciones o no las considera adecuadas a sus intereses, el organizador procede a la devolución del costo total de la entrada adquirida por este. 7.3. En el caso de la devolución, referida en los párrafos 7.1 y 7.2, esta se lleva a cabo en un plazo que no excede los quince días hábiles contados a partir de la solicitud presentada por el consumidor. 7.4. En el caso de que exista un saldo del costo de las entradas que no pudo ser devuelto a los consumidores en un plazo de ciento veinte días calendario contados desde la fecha en la que el concierto debió realizarse, el referido saldo se entrega al Instituto Nacional de Defensa de la Competencia y de la Protección de la Propiedad Intelectual (Indecopi) para ser destinado al fondo especial establecido en el párrafo 131.5 del artículo 131 de la Ley 29571, Código de Protección y Defensa del Consumidor. POR TANTO: Habiendo sido reconsiderada la Ley por la Comisión Permanente del Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiún días del mes de julio de dos mil veinticinco. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por la Comisión Permanente del Congreso de la República, aceptándose las observaciones formuladas por la Presidencia de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art7"
+    }
+  ]
+}

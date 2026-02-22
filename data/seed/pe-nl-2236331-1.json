@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-2236331-1",
+  "type": "statute",
+  "title": "Ley que modifica la Ley 29571, Código de Protección y Defensa del Consumidor, y el Decreto Ley 25884, Ley de Concesiones Eléctricas, reconociendo derechos en favor de los usuarios",
+  "short_name": "N° 31937",
+  "status": "in_force",
+  "issued_date": "2023-11-18",
+  "in_force_date": "2023-11-18",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2236331-1",
+  "description": "LEY | N° 31937 | Ley que modifica la Ley 29571, Código de Protección y Defensa del Consumidor, y el Decreto Ley 25884, Ley de Concesiones Eléctricas, reconociendo derechos en favor de los usuarios",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Modificación del artículo 66 de la Ley 29571, Código de Protección y Defensa del Consumidor",
+      "content": "Se incorpora el párrafo 66.9 al artículo 66 de la Ley 29571, Código de Protección y Defensa del Consumidor, en los siguientes términos: “ Artículo 66. Garantía de protección a los usuarios de servicios públicos regulados [...] 66.9 El usuario tiene derecho a que se le suspenda la orden de corte de servicio, inclusive hasta el momento de ejecutarse dicho procedimiento, si acredita el previo pago de la deuda”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 82 del Decreto Ley 25844, Ley de Concesiones Eléctricas",
+      "content": "Se modifica y se incorpora un párrafo al artículo 82 del Decreto Ley 25844, Ley de Concesiones Eléctricas, en los siguientes términos: “ Artículo 82. Todo solicitante, ubicado dentro de una zona de concesión de distribución tiene derecho a que el respectivo concesionario le suministre energía eléctrica, previo cumplimiento de los requisitos y pagos que al efecto fije la presente Ley y el Reglamento, conforme a las condiciones técnicas que rijan en el área. [...] El concesionario no puede condicionar la atención del reclamo formulado por el usuario al pago previo de la deuda”. Única. Reglamentación El Poder Ejecutivo, dentro del plazo de treinta (30) días calendario contados a partir de la vigencia de la presente ley, establece el procedimiento y la escala de multa aplicable y adecúa la normativa sectorial respectiva para la aplicación efectiva de la presente ley. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día tres de noviembre de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los diecisiete días del mes de noviembre de dos mil veintitrés. ALEJANDRO SOTO REYES Presidente del Congreso de la República ARTURO ALEGRÍA GARCÍA Primer Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día tres de noviembre de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art2"
+    }
+  ]
+}

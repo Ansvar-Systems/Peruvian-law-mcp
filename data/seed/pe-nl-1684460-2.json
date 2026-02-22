@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-1684460-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que fortalece y extiende la accesibilidad al Certificado Único Laboral para Jóvenes",
+  "short_name": "N° 1378",
+  "status": "in_force",
+  "issued_date": "2018-08-24",
+  "in_force_date": "2018-08-24",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1684460-2",
+  "description": "DECRETO LEGISLATIVO | N° 1378 | Decreto Legislativo que fortalece y extiende la accesibilidad al Certificado Único Laboral para Jóvenes",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "Incrementar las oportunidades de inserción al mercado laboral formal de los jóvenes entre 18 y 29 años mediante el otorgamiento, en un solo trámite, de toda la información requerida por los empleadores para facilitar su acceso a un puesto de trabajo, generando confianza en los empleadores sobre la veracidad de la información."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Certificado Único Laboral para Jóvenes",
+      "content": "2.1. El Certificado Único Laboral para Jóvenes – CERTIJOVEN, es un documento que integra información a cargo del Estado relevante para la contratación laboral, se emite gratuitamente por el Ministerio de Trabajo y Promoción del Empleo para los jóvenes entre 18 y 29 años, a fin de facilitar su inserción en el mercado de trabajo, a nivel nacional. 2.2 El CERTIJOVEN se emite a solicitud del titular de la información o su apoderado. 2.3. El CERTIJOVEN consta de información oficial sobre los datos de identidad, antecedentes policiales, penales y judiciales, educación (trayectoria educativa) y experiencia laboral. 2.4. Tratándose de la trayectoria educativa vinculada a la formación universitaria, el CERTIJOVEN incluirá información oficial sobre grados y títulos registrados. El Reglamento del presente Decreto Legislativo establece el alcance y características de la información oficial a incluirse en el CERTIJOVEN respecto de las demás etapas, niveles, modalidades, ciclos y programas del sistema educativo. 2.5. Mediante Decreto Supremo, con refrendo del Ministro de Trabajo y Promoción del Empleo y del ministro del sector involucrado, se puede ampliar la información oficial que se incorporará al CERTIJOVEN. 2.6. Para el tratamiento de los datos personales se adoptan las medidas de seguridad que resulten necesarias a fin de evitar cualquier tratamiento contrario a la Ley N° 29733, Ley de Protección de Datos Personales y su Reglamento."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Validación del CERTIJOVEN",
+      "content": "El CERTIJOVEN es un documento electrónico firmado digitalmente, el cual podrá ser impreso, validándose su autenticidad a través del mecanismo de verificación inserto en él; así como mediante el acceso vía web al portal del Servicio Nacional del Empleo del Ministerio de Trabajo y Promoción del Empleo, www.empleosperu.gob.pe."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Interoperabilidad para el CERTIJOVEN",
+      "content": "Todas las entidades de la administración pública que posean información requerida para la implementación del Certificado Único Laboral para jóvenes – CERTIJOVEN, deben ponerla a disposición de manera gratuita y permanente a través de la Plataforma de Interoperabilidad del Estado, administrada por la Presidencia del Consejo de Ministros, a través de la Secretaría de Gobierno Digital – SEGDI."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Del financiamiento",
+      "content": "La aplicación de lo establecido en el presente Decreto Legislativo, en el caso de las entidades públicas involucradas, se financia con cargo a sus presupuestos institucionales, sin demandar recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "Artículo 6.- Refrendos",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Trabajo y Promoción del Empleo. Primera.- Vigencia El presente Decreto Legislativo entra en vigencia al día siguiente de la publicación de su Reglamento. Segunda.- Plazo para la reglamentación El presente Decreto Legislativo es reglamentado por el Poder Ejecutivo mediante Decreto Supremo, con refrendo del Ministro de Trabajo y Promoción del Empleo y del Ministro de Educación, en un plazo no mayor de sesenta (60) días calendario, contados a partir de su publicación. Tercera.- Adopción de tecnologías digitales La adopción e implementación de tecnologías digitales, seguridad digital e interoperabilidad entre entidades de la administración pública, entre otros, se realiza en coordinación y siguiendo los lineamientos que emita la Secretaría de Gobierno Digital de la Presidencia del Consejo de Ministros. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintitrés días del mes de agosto del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República CÉSAR VILLANUEVA ARÉVALO Presidente del Consejo de Ministros CHRISTIAN SÁNCHEZ REYES Ministro de Trabajo y Promoción del Empleo"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art6"
+    }
+  ]
+}

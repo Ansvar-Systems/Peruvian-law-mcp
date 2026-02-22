@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-1672838-3",
+  "type": "statute",
+  "title": "Decreto Legislativo que regula la aplicación de la Ley N° 30556 en los encargos efectuados por el Ministerio de Transportes y Comunicaciones, en el marco de los contratos de concesión, para las intervenciones previstas en el Plan Integral de Reconstrucción con Cambios",
+  "short_name": "N° 1363",
+  "status": "in_force",
+  "issued_date": "2018-07-23",
+  "in_force_date": "2018-07-23",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1672838-3",
+  "description": "DECRETO LEGISLATIVO | N° 1363 | Decreto Legislativo que regula la aplicación de la Ley N° 30556 en los encargos efectuados por el Ministerio de Transportes y Comunicaciones, en el marco de los contratos de concesión, para las intervenciones previstas en el Plan Integral de Reconstrucción con Cambios",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Aplicación de la Ley Nº 30556 en Contratos de Concesión cuyo Titular es el Ministerio de Transportes y Comunicaciones",
+      "content": "Las intervenciones para la atención de fenómenos o desastres naturales, que el Ministerio de Transportes y Comunicaciones se encuentre facultado a encargar al Concesionario conforme a lo señalado en los respectivos contratos de concesión, se rigen por lo dispuesto en la Ley Nº 30556, Ley que aprueba disposiciones de carácter extraordinario para las intervenciones del Gobierno Nacional frente a desastres y que dispone la creación de la Autoridad para la Reconstrucción con Cambios, con excepción de lo dispuesto en el articulo 7-A de la referida norma, siempre y cuando se encuentren contempladas en el Plan Integral de Reconstrucción Con Cambios."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Transportes y Comunicaciones. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los veintidós días del mes de julio del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República CÉSAR VILLANUEVA ARÉVALO Presidente del Consejo de Ministros EDMER TRUJILLO MORI Ministro de Transportes y Comunicaciones"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art2"
+    }
+  ]
+}

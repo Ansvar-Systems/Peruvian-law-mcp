@@ -1,0 +1,26 @@
+{
+  "id": "pe-nl-1939453-2",
+  "type": "statute",
+  "title": "Ley que declara de interés nacional y necesidad pública la creación del distrito de Tambogán",
+  "short_name": "N° 31147",
+  "status": "in_force",
+  "issued_date": "2021-03-30",
+  "in_force_date": "2021-03-30",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1939453-2",
+  "description": "LEY | N° 31147 | Ley que declara de interés nacional y necesidad pública la creación del distrito de Tambogán",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Declaración de interés nacional y necesidad pública",
+      "content": "Declárase de interés nacional y necesidad pública la creación del distrito de Tambogán, en la provincia de Huánuco, departamento de Huánuco. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día catorce de setiembre de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintinueve días del mes de marzo de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día catorce de setiembre de dos mil veinte, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "artunico"
+    }
+  ]
+}

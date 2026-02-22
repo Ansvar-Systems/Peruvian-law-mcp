@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-1866220-10",
+  "type": "statute",
+  "title": "Decreto Legislativo que autoriza la contratación de la prestación de los servicios en las redes de infraestructura de telecomunicaciones",
+  "short_name": "N° 1509",
+  "status": "in_force",
+  "issued_date": "2020-05-11",
+  "in_force_date": "2020-05-11",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866220-10",
+  "description": "DECRETO LEGISLATIVO | N° 1509 | Decreto Legislativo que autoriza la contratación de la prestación de los servicios en las redes de infraestructura de telecomunicaciones",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene como objeto autorizar la contratación de la prestación de los servicios en las redes de infraestructura de telecomunicaciones, a fin de garantizar la continuidad de los proyectos a cargo del Ministerio de Transportes y Comunicaciones a través del Programa Nacional de Telecomunicaciones – PRONATEL."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Autorización para la contratación de la operación, mantenimiento y la prestación de los servicios en las redes de infraestructura de telecomunicaciones",
+      "content": "2.1 Autorízase, excepcionalmente, al Ministerio de Transportes y Comunicaciones, a través del Programa Nacional de Telecomunicaciones - PRONATEL, a efectuar las contrataciones necesarias para garantizar la prestación de los servicios en las redes de infraestructura de telecomunicaciones de los proyectos de inversión a su cargo que son financiados por el Estado, bajo el supuesto de desabastecimiento contenido en el literal c) del numeral 27.1 del artículo 27 de la Ley Nº 30225, Ley de Contrataciones del Estado, siempre que dichas contrataciones tengan como finalidad garantizar la continuidad de los referidos proyectos. 2.2 La autorización se efectúa hasta que se seleccione al concesionario mediante el proceso de promoción de la inversión privada correspondiente. 2.3 Los proyectos de inversión a los que hace referencia el numeral 2.1 del presente Decreto Legislativo deben ser seleccionados para la referida autorización por el Programa Nacional de Telecomunicaciones - PRONATEL, bajo responsabilidad."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros, la Ministra de Economía y Finanzas y el Ministro de Transportes y Comunicaciones. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los diez días del mes de mayo del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros MARÍA ANTONIETA ALVA LUPERDI Ministra de Economía y Finanzas CARLOS LOZADA CONTRERAS Ministro de Transportes y Comunicaciones"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art3"
+    }
+  ]
+}

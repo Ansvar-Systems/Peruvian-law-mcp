@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2034828-1",
+  "type": "statute",
+  "title": "Ley que fortalece el proceso de aprobación de leyes de reforma constitucional regulado en los artículos 40 y 44 de la Ley 26300, Ley de los Derechos de Participación y Control Ciudadanos",
+  "short_name": "N° 31399",
+  "status": "in_force",
+  "issued_date": "2022-01-30",
+  "in_force_date": "2022-01-30",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2034828-1",
+  "description": "LEY | N° 31399 | Ley que fortalece el proceso de aprobación de leyes de reforma constitucional regulado en los artículos 40 y 44 de la Ley 26300, Ley de los Derechos de Participación y Control Ciudadanos",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Modificación de los artículos 40 y 44 de la Ley 26300, Ley de los Derechos de Participación y Control Ciudadanos",
+      "content": "Se modifican los artículos 40 y 44 de la Ley 26300, Ley de los Derechos de Participación y Control Ciudadanos, conforme al siguiente texto:"
+    },
+    {
+      "provision_ref": "art40",
+      "section": "40",
+      "title": "Artículo 40.- Improcedencia de referéndum",
+      "content": "No pueden someterse a referéndum las materias y normas a que se refiere el segundo párrafo del artículo 32 de la Constitución, ni aquellas que no se tramiten según el procedimiento establecido en el primer párrafo del artículo 206 de la Constitución Política."
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "Artículo 44.- Autoridad que convoca a referéndum",
+      "content": "La convocatoria a referéndum corresponde efectuarla a la autoridad electoral en plazo no mayor de cuatro meses después de acreditadas las respectivas iniciativas, salvo que se trate de una reforma constitucional, en cuyo caso es convocado por el presidente de la República, por disposición del Congreso, de conformidad con el procedimiento establecido en el primer párrafo del artículo 206 de la Constitución Política ” . POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dieciséis de diciembre de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veinticinco días del mes de enero de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República ENRIQUE WONG PUJADA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dieciséis de diciembre de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art44"
+    }
+  ]
+}

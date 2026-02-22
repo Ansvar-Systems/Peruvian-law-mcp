@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2298247-1",
+  "type": "statute",
+  "title": "Ley que crea la Universidad Nacional Autónoma de Chupaca en la provincia de Chupaca del departamento de Junín",
+  "short_name": "N° 32060",
+  "status": "in_force",
+  "issued_date": "2024-06-15",
+  "in_force_date": "2024-06-15",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2298247-1",
+  "description": "LEY | N° 32060 | Ley que crea la Universidad Nacional Autónoma de Chupaca en la provincia de Chupaca del departamento de Junín",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Creación de la Universidad Nacional Autónoma de Chupaca",
+      "content": "Se crea la Universidad Nacional Autónoma de Chupaca, con personería jurídica de derecho público interno, con sede en el distrito de Chupaca de la provincia de Chupaca del departamento de Junín."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Carreras profesionales",
+      "content": "La Universidad Nacional Autónoma de Chupaca ofrece las siguientes carreras profesionales: a) Arquitectura b) Contabilidad c) Derecho y Ciencias Políticas d) Ingeniería Ambiental e) Enfermería f) Ingeniería Civil g) Ingeniería Electromecánica h) Ingeniería Económica i) Ingeniería Genética y Biotecnología j) Medicina Humana k) Pedagogía y Humanidades"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Financiamiento",
+      "content": "La Universidad Nacional Autónoma de Chupaca, se financia con los siguientes recursos: propios autogenerados, canon minero, ingresos provenientes de donaciones y legados, y los que se gestionen en el ámbito de los gobiernos locales o con el gobierno regional y el gobierno central o con la cooperación internacional. Asimismo, los gastos corrientes no pueden ser financiados con el canon minero."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Adecuación",
+      "content": "La Universidad Nacional Autónoma de Chupaca elabora su estatuto y adecúa sus órganos de gobierno a lo que dispone la Ley 30220, Ley Universitaria. PRIMERA. Comisión organizadora El Ministerio de Educación (Minedu) constituirá una comisión organizadora de la Universidad Nacional Autónoma de Chupaca integrada por tres académicos de reconocido prestigio, tal como lo dispone el artículo 29 de la Ley 30220, Ley Universitaria. SEGUNDA. Infraestructura inicial para el funcionamiento El Ministerio de Educación, en coordinación con el Gobierno Regional de Junín y la Municipalidad Provincial de Chupaca, autorizará el funcionamiento de manera inicial y transitoria de la Universidad Nacional Autónoma de Chupaca en la infraestructura del Instituto de Educación Superior Pedagógico Público Teodoro Peñaloza de Chupaca. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dieciocho de abril de dos mil veinticuatro, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los trece días del mes de junio de dos mil veinticuatro. ALEJANDRO SOTO REYES Presidente del Congreso de la República WALDEMAR JOSÉ CERRÓN ROJAS Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día dieciocho de abril de dos mil veinticuatro, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art4"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2361612-1",
+  "type": "statute",
+  "title": "Ley que modifica la Ley 26859, Ley Orgánica de Elecciones, para optimizar mecanismos de transparencia de resultados en procesos electorales",
+  "short_name": "N° 32243",
+  "status": "in_force",
+  "issued_date": "2025-01-14",
+  "in_force_date": "2025-01-14",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2361612-1",
+  "description": "LEY | N° 32243 | Ley que modifica la Ley 26859, Ley Orgánica de Elecciones, para optimizar mecanismos de transparencia de resultados en procesos electorales",
+  "provisions": [
+    {
+      "provision_ref": "art178",
+      "section": "178",
+      "title": "Artículo 178.- En el acta de escrutinio debe registrarse la siguiente información:",
+      "content": "a) Número total de ciudadanos que votaron. b) Número de votos obtenidos por cada lista de candidatos u opción según sea el caso. c) Número de votos nulos. d) Número de votos en blanco. e) Horas en que empezó y concluyó el escrutinio. f) Reclamaciones u observaciones formuladas por los personeros, así como las resoluciones de la mesa. g) Nombres, números de documento nacional de identificación y firmas de los miembros de la mesa y personeros que deseen suscribirla."
+    },
+    {
+      "provision_ref": "art279",
+      "section": "279",
+      "title": "Artículo 279.- Abierta el ánfora, el presidente de la mesa de sufragio constata que cada cédula esté correctamente visada con la firma de todos los miembros de mesa y que el número de cédulas depositadas en ella coincida con el número de votantes que aparece en el acta de sufragio.",
+      "content": "[…]"
+    },
+    {
+      "provision_ref": "art291",
+      "section": "291",
+      "title": "Artículo 291.- Un ejemplar del acta electoral se entrega a las siguientes instituciones:",
+      "content": "a) Jurado Nacional de Elecciones (JNE). b) Jurado Electoral Especial (JEE) del JNE de la respectiva circunscripción electoral. c) Oficina Nacional de Procesos Electorales (ONPE). d) Oficina Descentralizada de Procesos Electorales (ODPE) de la ONPE de la respectiva circunscripción electoral. La ONPE, a través del presidente de mesa o las plataformas digitales que para tal fin habilite, entrega de manera inmediata a los personeros acreditados copia del acta electoral, firmadas física o digitalmente por los miembros de mesa, según corresponda. La ONPE publica progresivamente en sus plataformas digitales institucionales las actas digitalizadas de cada mesa e información de los resultados."
+    },
+    {
+      "provision_ref": "art300",
+      "section": "300",
+      "title": "Artículo 300.- Concluido el escrutinio, las cédulas de sufragio no impugnadas son colocadas en un sobre lacrado y remitidas a la Oficina Nacional de Procesos Electorales (ONPE) para su custodia y conservación, bajo responsabilidad, por un plazo no menor de noventa días calendario de realizado el acto electoral. Transcurrido dicho plazo, la ONPE procede con la destrucción de las cédulas de sufragio en acto público con la presencia de un representante del Ministerio Público.",
+      "content": "La ejecución de lo dispuesto en el presente artículo se realiza con cargo al presupuesto electoral”. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los diecinueve días del mes de diciembre de dos mil veinticuatro. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República ALEJANDRO ENRIQUE CAVERO ALVA Tercer Vicepresidente del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los trece días del mes de enero del año dos mil veinticinco. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": []
+}

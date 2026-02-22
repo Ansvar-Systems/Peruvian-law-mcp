@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2160368-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "short_name": "N° 1545",
+  "status": "in_force",
+  "issued_date": "2023-03-15",
+  "in_force_date": "2023-03-15",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2160368-1",
+  "description": "DECRETO LEGISLATIVO | N° 1545 | Decreto Legislativo que modifica la Ley del Impuesto a la Renta",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El Decreto Legislativo tiene por objeto modificar el primer párrafo del artículo 26 de la Ley del Impuesto a la Renta, sobre rentas por intereses presuntos."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto del presente Decreto Legislativo se entiende por Ley del Impuesto a la Renta al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por Decreto Supremo N° 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Modificación del primer párrafo del artículo 26 de la Ley del Impuesto a la Renta",
+      "content": "Modificar el primer párrafo del artículo 26 de la Ley del Impuesto a la Renta, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Artículo 26.- Para los efectos del impuesto se presume, salvo prueba en contrario constituida por los libros de contabilidad del deudor, que todo préstamo en dinero, cualquiera que sea su denominación, naturaleza o forma o razón, devenga un interés no inferior a la tasa activa de mercado promedio mensual en moneda nacional (TAMN) que publique la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones multiplicada por un factor de ajuste. Regirá dicha presunción aun cuando no se hubiera fijado el tipo de interés, se hubiera estipulado que el préstamo no devengará intereses, o se hubiera convenido en el pago de un interés menor. Tratándose de préstamos en moneda extranjera se presume que devengan un interés no inferior a la tasa activa de mercado promedio mensual en moneda extranjera (TAMEX) que publique la Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones multiplicada por un factor de ajuste. El Ministerio de Economía y Finanzas mediante decreto supremo puede actualizar los referidos factores de ajuste.",
+      "content": "(…).”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. Primera.- Factor de ajuste inicial Para efectos de lo establecido en el primer párrafo del artículo 26 de la Ley del Impuesto a la Renta, para los préstamos en moneda nacional el factor de ajuste es 0,42, y tratándose de préstamos en moneda extranjera, el factor de ajuste es 0,65. Mediante decreto supremo refrendado por el Ministro de Economía y Finanzas se pueden modificar los factores de ajuste señalados en el párrafo anterior, los cuales serán mayores a 0 (cero) y menores o iguales a 1 (uno). Para actualizar dichos factores de ajuste se deben considerar las tasas de interés activas existentes en el mercado financiero nacional y/o las relaciones históricas entre estas, de ser el caso. Segunda.- Vigencia El presente Decreto Legislativo entra en vigencia el 1 de enero de 2024. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los catorce días del mes de marzo del año dos mil veintitrés. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República LUIS ALBERTO OTÁROLA PEÑARANDA Presidente del Consejo de Ministros ALEX ALONSO CONTRERAS MIRANDA Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

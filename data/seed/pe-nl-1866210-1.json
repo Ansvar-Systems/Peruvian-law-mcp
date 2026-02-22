@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-1866210-1",
+  "type": "statute",
+  "title": "Decreto Legislativo que establece la ampliación de los plazos para asegurar el cumplimiento de determinadas obligaciones mineras de los titulares mineros, a que hace referencia la Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM",
+  "short_name": "N° 1483",
+  "status": "in_force",
+  "issued_date": "2020-05-10",
+  "in_force_date": "2020-05-10",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1866210-1",
+  "description": "DECRETO LEGISLATIVO | N° 1483 | Decreto Legislativo que establece la ampliación de los plazos para asegurar el cumplimiento de determinadas obligaciones mineras de los titulares mineros, a que hace referencia la Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente Decreto Legislativo tiene por objeto establecer medidas que permitan a los titulares mineros cumplir con la acreditación de la obligación de producción mínima, así como efectuar el pago oportuno del derecho de vigencia y penalidad previstas en la Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Ampliación del plazo para la acreditación de la producción mínima",
+      "content": "Amplíase hasta el 30 de setiembre de 2020, el plazo para la presentación de la acreditación de la producción mínima correspondiente al año 2019, a que se refiere el artículo 38 de la Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Ampliación del plazo para el pago de derecho de vigencia y penalidad",
+      "content": "Amplíase hasta el 30 de setiembre de 2020, el plazo para el pago de las obligaciones contenidas en los artículos 39 y 40 de la Ley General de Minería cuyo Texto Único Ordenado fue aprobado por Decreto Supremo Nº 014-92-EM, correspondiente al año 2020."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y la Ministra de Energía y Minas. Única. Norma complementaria El Poder Ejecutivo, en el plazo máximo de treinta (30) días calendario, mediante decreto supremo refrendado por la Ministra de Energía y Minas, emite la norma complementaria para el cumplimiento del presente Decreto Legislativo. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de mayo del año dos mil veinte. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República VICENTE ANTONIO ZEBALLOS SALINAS Presidente del Consejo de Ministros SUSANA VILCA ACHATA Ministra de Energía y Minas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

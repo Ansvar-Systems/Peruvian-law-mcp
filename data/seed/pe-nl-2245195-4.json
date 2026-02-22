@@ -1,0 +1,56 @@
+{
+  "id": "pe-nl-2245195-4",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica los artículos 36, 62-A y 78 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones",
+  "short_name": "N° 1597",
+  "status": "in_force",
+  "issued_date": "2023-12-17",
+  "in_force_date": "2023-12-17",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2245195-4",
+  "description": "DECRETO LEGISLATIVO | N° 1597 | Decreto Legislativo que modifica los artículos 36, 62-A y 78 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "El presente decreto legislativo tiene por objeto modificar los artículos 36, 62-A y 78 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones, con la finalidad de fortalecer el marco normativo en materia migratoria en el marco de la seguridad nacional y facilitar una movilidad internacional segura y ordenada, reduciendo riesgos en el orden interno y en la seguridad nacional."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los artículos 36, 62-A y 78 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones.",
+      "content": "Modificar los artículos 36, 62-A y 78 del Decreto Legislativo Nº 1350, Decreto Legislativo de Migraciones, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art36",
+      "section": "36",
+      "title": "Artículo 36.- Regularización migratoria",
+      "content": "El Estado regula los procesos de regularización migratoria; a través de las disposiciones que dicte MIGRACIONES .” “ Artículo 62-A.- De las conductas infractoras y sanciones a las empresas de transporte internacional Son sancionadas con multa las siguientes conductas de las empresas de transporte internacional : a. No efectuar o llevar actualizado el registro y control de su tripulación y de los pasajeros que transporta. b. Transportar pasajeros y tripulantes que no cuenten con documentos de identidad y/o de viaje válido y vigente. c. Transportar pasajeros y tripulantes que no cuenten con las exigencias necesarias para su ingreso y salida del territorio nacional. d. No reembarcar en tiempo y forma, bajo su responsabilidad y propio costo, a los pasajeros o tripulantes con impedimento de ingreso al territorio nacional. e. No comunicar a MIGRACIONES sobre el personal de su tripulación que lleva a bordo. f. No brindar las facilidades necesarias al personal de MIGRACIONES para realizar sus funciones de control migratorio, lo que incluye lo indispensable para el transporte y permanencia en la embarcación mientras que se desarrollen las mismas, de tal manera que no implique costo alguno para MIGRACIONES, cuando se trate de medios de transporte marítimo. g. No permitir a MIGRACIONES el acceso a las instalaciones del medio de transporte internacional para la debida ejecución de sus atribuciones establecidas en la normativa migratoria vigente.” “ Artículo 78.- Gratuidad de la interoperabilidad 78.1 Todas las entidades , sin distinción por su naturaleza o dependencia , públicas o privadas , tienen la obligación de permitir a MIGRACIONES el acceso gratuito a sus bases de datos y registros, que permitan obtener información de personas nacionales y extranjeras para el cumplimiento de sus funciones, fortalecer la seguridad nacional, seguridad ciudadana, orden interno, orden público y facilitar la movilidad, con los límites establecidos por la Ley Nº 29733, Ley de Protección de Datos Personales, o norma que la sustituya, particularmente conforme con los principios de finalidad y proporcionalidad. 78.2 En el caso de entidades y empresas públicas, dicha información se publica, consume o utiliza, a través de la Plataforma Nacional de Interoperabilidad, y en su defecto, otros medios dispuestos para dicho fin; incurriendo en responsabilidad su incumplimiento.”"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Financiamiento",
+      "content": "La implementación del presente Decreto Legislativo se financia con cargo a los recursos asignados a MIGRACIONES, por lo que no irroga recursos adicionales al Tesoro Público."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro del Interior."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Publicación",
+      "content": "El presente Decreto Legislativo es publicado en la Plataforma Digital Única del Estado Peruano para Orientación al Ciudadano (www.gob.pe), y en la sede digital del Ministerio del Interior (www.gob.pe/mininter), el mismo día de su publicación en el diario oficial El Peruano. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los dieciséis días del mes de diciembre del año dos mil veintitrés. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República LUIS ALBERTO OTÁROLA PEÑARANDA Presidente del Consejo de Ministros VÍCTOR MANUEL TORRES FALCÓN Ministro del Interior"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art5"
+    }
+  ]
+}

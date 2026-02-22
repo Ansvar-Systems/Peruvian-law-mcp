@@ -1,0 +1,37 @@
+{
+  "id": "pe-nl-2184307-1",
+  "type": "statute",
+  "title": "Resolución Legislativa del Congreso que modifica el Artículo 26 del Reglamento del Congreso, con el fin de crear el Centro de Modalidades Formativas del Congreso de la República",
+  "short_name": "019-2022-2023-CR",
+  "status": "in_force",
+  "issued_date": "2023-06-06",
+  "in_force_date": "2023-06-06",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2184307-1",
+  "description": "RESOLUCION LEGISLATIVA | 019-2022-2023-CR | Resolución Legislativa del Congreso que modifica el Artículo 26 del Reglamento del Congreso, con el fin de crear el Centro de Modalidades Formativas del Congreso de la República",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Modificación del artículo 26 del Reglamento del Congreso",
+      "content": "Se modifica el artículo 26 del Reglamento del Congreso, conforme al siguiente texto: “ Estructura Orgánica del Congreso"
+    },
+    {
+      "provision_ref": "art26",
+      "section": "26",
+      "title": "Artículo 26.- En la organización del Congreso se distinguirá entre el ámbito de organización y trabajo de los Congresistas que se denominará organización parlamentaria y el de los órganos de asesoría y apoyo administrativo que se denominará servicio parlamentario.",
+      "content": "La Comisión Permanente tiene un régimen de organización especial. También lo tiene: a) El Centro de Estudios Constitucionales y Parlamentarios del Congreso, el mismo que se rige por su Estatuto aprobado por el Consejo Directivo a propuesta del Presidente. b) El Centro de Modalidades Formativas del Congreso de la República, el mismo que se rige por su Estatuto aprobado por la Mesa Directiva, que contempla como mínimo lo siguiente: i. Clases de modalidades formativas de servicios: prácticas preprofesionales y profesionales, las que tienen un plazo máximo de duración de un año, no renovable. ii. Ámbito de aplicación exclusiva a estudiantes y egresados, pertenecientes al tercio superior, de carreras profesionales necesariamente indispensables para el buen funcionamiento del Congreso. iii. El ejercicio de las modalidades formativas de servicios puede llevarse a cabo tanto en la organización parlamentaria como en el servicio parlamentario. iv. La implementación de cursos de extensión universitaria, como parte del proceso de selección para el acceso a las modalidades formativas de servicios. v. El acceso a las modalidades formativas de servicios y a los cursos de extensión universitaria se realiza en observancia a los principios de mérito e igualdad de oportunidades, a través de un concurso público, teniendo en cuenta lo señalado en los numerales ii) y iv). Para la selección como practicante, se considera como condición mínima habilitante la aprobación del curso de extensión universitaria. Las plazas son establecidas mediante acuerdo de la Mesa Directiva. vi. El monto de la subvención económica mensual para cualquier modalidad formativa no es inferior a una remuneración mínima vital, siempre y cuando la persona en práctica cumpla con la jornada máxima prevista en cada modalidad”. ÚNICA. SECIGRA-DERECHO El Centro de Modalidades Formativas del Congreso de la República está encargado también de la ejecución, supervisión y desarrollo al interior del Parlamento del Servicio Civil de Graduandos (SECIGRA-DERECHO), estipulado en el Decreto Ley 26113. Comuníquese, publíquese y archívese. Dada en el Palacio del Congreso, en Lima, a los cinco días del mes de junio de dos mil veintitrés. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "También lo tiene",
+      "definition": "a) El Centro de Estudios Constitucionales y Parlamentarios del Congreso, el mismo que se rige por su Estatuto aprobado por el Consejo Directivo a propuesta del Presidente",
+      "source_provision": "art26"
+    },
+    {
+      "term": "Clases de modalidades formativas de servicios",
+      "definition": "prácticas preprofesionales y profesionales, las que tienen un plazo máximo de duración de un año, no renovable",
+      "source_provision": "art26"
+    }
+  ]
+}

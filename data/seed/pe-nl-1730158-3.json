@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-1730158-3",
+  "type": "statute",
+  "title": "Ley de Reforma Constitucional que prohíbe la reelección inmediata de parlamentarios de la República",
+  "short_name": "N° 30906",
+  "status": "in_force",
+  "issued_date": "2019-01-10",
+  "in_force_date": "2019-01-10",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1730158-3",
+  "description": "LEY | N° 30906 | Ley de Reforma Constitucional que prohíbe la reelección inmediata de parlamentarios de la República",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Incorporación del artículo 90-A en la Constitución Política del Perú",
+      "content": "Incorpórase el artículo 90-A en la Constitución Política del Perú con el siguiente texto:"
+    },
+    {
+      "provision_ref": "art90a",
+      "section": "90-A",
+      "title": "Artículo 90-A.- Los parlamentarios no pueden ser reelegidos para un nuevo período, de manera inmediata, en el mismo cargo”.",
+      "content": "Comuníquese al señor Presidente de la República para que proceda a convocar a referéndum de conformidad con el artículo 206 de la Constitución Política. En Lima, a los cuatro días del mes de octubre de dos mil dieciocho. DANIEL SALAVERRY VILLA Presidente del Congreso de la República LEYLA CHIHUÁN RAMOS Primera Vicepresidenta del Congreso de la República Habiendo sido ratificada la Ley de Reforma Constitucional mediante REFERÉNDUM el 9 de diciembre de 2018; POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los nueve días del mes de enero del año dos mil diecinueve. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República César villanueva arévalo Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla",
+      "source_provision": "art90a"
+    }
+  ]
+}

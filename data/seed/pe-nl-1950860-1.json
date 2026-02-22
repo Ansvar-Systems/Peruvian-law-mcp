@@ -1,0 +1,43 @@
+{
+  "id": "pe-nl-1950860-1",
+  "type": "statute",
+  "title": "Ley que faculta a los afiliados al Sistema Privado de Administración de Fondos de Pensiones el retiro de sus fondos",
+  "short_name": "N° 31192",
+  "status": "in_force",
+  "issued_date": "2021-05-07",
+  "in_force_date": "2021-05-07",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1950860-1",
+  "description": "LEY | N° 31192 | Ley que faculta a los afiliados al Sistema Privado de Administración de Fondos de Pensiones el retiro de sus fondos",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "Autorízase de manera extraordinaria a todos los afiliados al Sistema Privado de Administración de Fondos de Pensiones, a retirar de manera facultativa hasta cuatro (4) unidades impositivas tributarias (UIT) del total de sus fondos acumulados en su cuenta individual de capitalización (CIC), a fin de aliviar la economía familiar afectada, por las consecuencias de la pandemia del COVID-19. La Ley no es aplicable a quienes califiquen para acceder al Régimen de Jubilación Anticipada por Desempleo."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Procedimiento para el retiro de fondos",
+      "content": "El procedimiento para el retiro de fondos es el siguiente: a) Los afiliados podrán presentar su solicitud de forma remota, virtual o presencial y, por única vez, dentro de los noventa (90) días calendario posteriores a la vigencia del reglamento de la presente ley. b) Se abonará hasta una (1) UIT cada treinta (30) días calendario, realizándose el primer desembolso a los treinta (30) días de presentada la solicitud ante la administradora privada de fondos de pensiones a la que pertenezca el afiliado. Ello es aplicable hasta el segundo desembolso y el resto será entregado en el tercer desembolso. c) En el caso de que el afiliado desee dejar de retirar los fondos de su cuenta individual de capitalización, podrá solicitarlo por única vez a la administradora privada de fondos de pensiones diez (10) días antes del desembolso."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Intangibilidad",
+      "content": "El retiro de los fondos a que se refiere la presente ley mantiene la condición de intangible, no pudiendo ser objeto de descuento, compensación legal o contractual, embargo, retención, cualquier forma de afectación, sea por orden judicial y/o administrativa, sin distingo de la cuenta en la que hayan sido depositados. Lo señalado en la presente disposición no se aplica a las retenciones judiciales o convencionales derivadas de deudas alimentarias, hasta un máximo de 30% de lo retirado. Única. Reglamentación La Superintendencia de Banca, Seguros y Administradoras Privadas de Fondos de Pensiones determina el procedimiento operativo para el cumplimiento de la presente norma, en un plazo que no excederá de quince (15) días calendario de publicada la ley, bajo responsabilidad de su titular. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día treinta de marzo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los seis días del mes de mayo de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "El procedimiento para el retiro de fondos es el siguiente",
+      "definition": "a) Los afiliados podrán presentar su solicitud de forma remota, virtual o presencial y, por única vez, dentro de los noventa (90) días calendario posteriores a la vigencia del reglamento de la presente ley",
+      "source_provision": "art2"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día treinta de marzo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art3"
+    }
+  ]
+}

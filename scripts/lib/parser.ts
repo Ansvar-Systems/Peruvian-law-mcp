@@ -164,7 +164,7 @@ export function parsePeruvianHtml(html: string, act: ActIndexEntry): ParsedAct {
   //   Artículo 1. Objeto
   //   Artículo I. Objeto
   //   “Artículo 12-A.- Adquisición, posesión y tráfico ...
-  const articleRegex = /(?:^|\n)[“"']?Artículo\s+(ÚNICO|Único|unico|[IVXLCDM]+|\d+[A-Za-z]?(?:-[A-Za-z0-9]+)?)\s*(?:\.\s*-\s*|\.\s+|-\s+|\.\-)\s*([^\n]*)/g;
+  const articleRegex = /(?:^|\n)[“"']?(?:art[íi]culo)\s+([ÚU]NICO|[IVXLCDM]+|\d+[A-Za-zº°]?(?:-[A-Za-z0-9]+)?)\s*(?:\.\s*-\s*|\.\s+|-\s*|\.\-|:\s*)\s*([^\n]*)/gi;
   const matches = [...joined.matchAll(articleRegex)];
 
   for (let i = 0; i < matches.length; i++) {

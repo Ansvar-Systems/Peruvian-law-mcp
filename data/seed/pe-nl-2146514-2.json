@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-2146514-2",
+  "type": "statute",
+  "title": "Ley que crea el Registro Nacional de las Micro y Pequeñas Empresas (MYPE) acreedoras del Estado",
+  "short_name": "N° 31677",
+  "status": "in_force",
+  "issued_date": "2023-01-27",
+  "in_force_date": "2023-01-27",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2146514-2",
+  "description": "LEY | N° 31677 | Ley que crea el Registro Nacional de las Micro y Pequeñas Empresas (MYPE) acreedoras del Estado",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto crear el Registro Nacional de las Micro y Pequeñas Empresas (MYPE) acreedoras del Estado con la finalidad de tener información actualizada, ordenada y pública de las deudas vigentes y contingentes que mantienen las entidades del Estado con las MYPE."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Ámbito de aplicación",
+      "content": "Los alcances de la presente ley son aplicables a las MYPE, de acuerdo a la definición y características que señala la legislación vigente."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Creación del Registro Nacional de las MYPE acreedoras de las entidades del Estado",
+      "content": "Se encarga al Ministerio de Economía y Finanzas la creación, mantenimiento y actualización del Registro Nacional de las Micro y Pequeñas Empresas (MYPE) acreedoras del Estado, en el que se asienta la inscripción de los acreedores, las deudas que tiene el Estado con las MYPE, el cual debe contener como mínimo la siguiente información: a) Nombres o razón social b) Número de RUC c) Domicilio fiscal d) Monto y resumen del origen de la deuda, observación hecha por la entidad y la situación en la que se encuentra ya sea en sede administrativa, arbitral y/o judicial."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Difusión del Registro Nacional de acreedores de entidades del Estado de la MYPE",
+      "content": "La difusión virtual, pública y actualizada del Registro Nacional de las MYPE acreedoras de entidades del Estado está a cargo del Ministerio de Economía y Finanzas, y el acceso será gratuito. La información registrada es actualizada mensualmente y tiene carácter público. El Ministerio de Economía y Finanzas incorporará en su página web la información sin restricción alguna. PRIMERA. Financiamiento Las disposiciones de la presente ley se financian con los recursos propios del Ministerio de Economía y Finanzas, sin demandar recursos adicionales al tesoro público. SEGUNDA. Reglamentación El Poder Ejecutivo reglamenta la presente ley dentro de los treinta (30) días hábiles de haber sido publicada. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día primero de setiembre de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiséis días del mes de enero de dos mil veintitrés. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día primero de setiembre de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art4"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "pe-nl-2394851-2",
+  "type": "statute",
+  "title": "Ley que modifica el Código Penal, Decreto Legislativo 635, y la Ley 30096, Ley de Delitos Informáticos, para incluir el uso de la inteligencia artificial en la comisión de delitos",
+  "short_name": "N° 32314",
+  "status": "in_force",
+  "issued_date": "2025-04-29",
+  "in_force_date": "2025-04-29",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2394851-2",
+  "description": "LEY | N° 32314 | Ley que modifica el Código Penal, Decreto Legislativo 635, y la Ley 30096, Ley de Delitos Informáticos, para incluir el uso de la inteligencia artificial en la comisión de delitos",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Modificación de los artículos 46, 129-M, 132, 196-A, 217, 218, 219, 220, 220-A, 220-B y 220-C del Código Penal, Decreto Legislativo 635",
+      "content": "Se modifican los artículos 46, literal e) del numeral 2 y se incorpora a este el literal ñ); 129-M, primer párrafo; 132, tercer párrafo; 196-A, para incorporar el numeral 7; 217, primer párrafo; 218, literales a) y d); 219; 220, para incorporar el literal f); 220-A; 220-B y 220-C del Código Penal, Decreto Legislativo 635, en los siguientes términos: “ Artículo 46. Circunstancias de atenuación y agravación […] 2. Constituyen circunstancias agravantes, siempre que no estén previstas específicamente para sancionar el delito y no sean elementos constitutivos del hecho punible, las siguientes: […] e) Emplear en la ejecución de la conducta punible medios de cuyo uso pueda resultar peligro común, así como el uso indebido de inteligencia artificial o de tecnologías similares o análogas; […] ñ) Cuando para la realización de la conducta punible se utilice la inteligencia artificial o tecnologías similares o análogas."
+    },
+    {
+      "provision_ref": "art129m",
+      "section": "129-M",
+      "title": "Artículo 129-M.- Pornografía infantil",
+      "content": "El que posee, promueve, fabrica, distribuye, exhibe, ofrece, comercializa, publicita, publica, importa, exporta o manipula por cualquier medio objetos, libros, escritos, imágenes, videos o audios, o utiliza tecnologías basadas en inteligencia artificial, incluidas las falsificaciones profundas (‘deepfakes’) o cualquier contenido multimedia generado por inteligencia artificial, con fines relacionados con la pornografía infantil o realiza espectáculos en vivo de carácter sexual, en los cuales participen menores de dieciocho años de edad, será sancionado con pena privativa de libertad no menor de seis ni mayor de diez años y con ciento veinte a trescientos sesenta y cinco días multa. […]."
+    },
+    {
+      "provision_ref": "art132",
+      "section": "132",
+      "title": "Artículo 132.- Difamación",
+      "content": "[…] Si el delito se comete por medio del libro, la prensa u otro medio de comunicación social, o mediante tecnologías de inteligencia artificial, falsificaciones profundas (‘deepfakes’) u otros contenidos generados mediante inteligencia artificial que difundan información falsa o denigrante que cause daño a la reputación o a la imagen, la pena será privativa de libertad no menor de uno ni mayor de tres años y de ciento veinte a trescientos sesenticinco días-multa."
+    },
+    {
+      "provision_ref": "art196a",
+      "section": "196-A",
+      "title": "Artículo 196-A.- Estafa agravada",
+      "content": "La pena será privativa de libertad no menor de cuatro ni mayor de ocho años y con noventa a doscientos días-multa, cuando la estafa: […] 7. Se realice mediante la manipulación de la voz, imagen, audio o movimiento corporal de terceros, utilizando inteligencia artificial o tecnologías análogas de forma que cause un perjuicio económico a la víctima."
+    },
+    {
+      "provision_ref": "art217",
+      "section": "217",
+      "title": "Artículo 217.- Reproducción, difusión, distribución y circulación de la obra sin la autorización del autor",
+      "content": "Será reprimido con pena privativa de libertad no menor de dos ni mayor de seis años y con treinta a noventa días-multa, el que, con respecto a una obra, una interpretación o ejecución artística, un fonograma o una emisión o transmisión de radiodifusión, o una grabación audiovisual o una imagen fotográfica, de autoría humana, expresada en cualquier forma, realiza alguno de los siguientes actos sin la autorización previa y escrita del autor o titular de los derechos: […]."
+    },
+    {
+      "provision_ref": "art218",
+      "section": "218",
+      "title": "Artículo 218.- Formas agravadas",
+      "content": "La pena será privativa de libertad no menor de cuatro ni mayor de ocho años y con noventa a ciento ochenta días multa cuando: a. Se dé a conocer al público una obra de autoría humana, inédita o no divulgada, que haya recibido en confianza del titular del derecho de autor o de alguien en su nombre, sin el consentimiento del titular. […] d. Se fabrique, ensamble, importe, exporte, modifique, venda, alquile, ofrezca para la venta o alquiler, o ponga de cualquier otra manera en circulación dispositivos, sistemas tangibles o intangibles, esquemas o equipos capaces de soslayar otro dispositivo destinado a impedir o restringir la realización de copias de obras de autoría humana, o a menoscabar la calidad de las copias realizadas, o capaces de permitir o fomentar la recepción de un programa codificado, radiodifundido o comunicado en otra forma al público, por aquellos que no están autorizados para ello. […]."
+    },
+    {
+      "provision_ref": "art219",
+      "section": "219",
+      "title": "Artículo 219.- Plagio",
+      "content": "Será reprimido con pena privativa de libertad no menor de tres ni mayor de seis años y noventa a ciento ochenta días multa, el que, con respecto a una obra de autoría humana, la difunda como propia, en todo o en parte, copiándola o reproduciéndola textualmente, o tratando de disimular la copia mediante ciertas alteraciones, atribuyéndose o atribuyendo a otro, la autoría o titularidad ajena."
+    },
+    {
+      "provision_ref": "art220",
+      "section": "220",
+      "title": "Artículo 220.- Formas agravadas",
+      "content": "Será reprimido con pena privativa de libertad no menor de cuatro ni mayor de ocho años y noventa a trescientos sesenticinco días-multa: […] f. Si el agente obtiene una ventaja patrimonial derivada de la explotación de la obra objeto del comportamiento descrito en el artículo 219."
+    },
+    {
+      "provision_ref": "art220a",
+      "section": "220-A",
+      "title": "Artículo 220-A.- Elusión de medida tecnológica efectiva",
+      "content": "El que, con fines de comercialización u otro tipo de ventaja económica, eluda sin autorización cualquier medida tecnológica efectiva que utilicen los productores de fonogramas, artistas, intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derechos de propiedad intelectual, será reprimido con pena privativa de libertad no menor de dos ni mayor de cuatro años y de sesenta a ciento veinte días- multa."
+    },
+    {
+      "provision_ref": "art220b",
+      "section": "220-B",
+      "title": "Artículo 220-B.- Productos destinados a la elusión de medidas tecnológicas",
+      "content": "El que, con fines de comercialización u otro tipo de ventaja económica, fabrique, importe, distribuya, ofrezca al pú blico, proporcione o de cualquier manera comercialice dispositivos, productos o componentes destinados principalmente a eludir una medida tecnológica que utilicen los productores de fonogramas, artistas intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derechos de propiedad intelectual, será reprimido con pena privativa de libertad no menor de dos ni mayor de cuatro años y de sesenta a ciento veinte días- multa."
+    },
+    {
+      "provision_ref": "art220c",
+      "section": "220-C",
+      "title": "Artículo 220-C.- Servicios destinados a la elusión de medidas tecnológicas",
+      "content": "El que, con fines de comercialización u otro tipo de ventaja económica, brinde u ofrezca servicios al público destinados principalmente a eludir una medida tecnológica efectiva que utilicen los productores de fonogramas, artistas intérpretes o ejecutantes, así como los autores de cualquier obra protegida por derechos de propiedad intelectual, será reprimido con pena privativa de libertad no menor de dos ni mayor de cuatro y de sesenta a ciento veinte días – multa”."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación del artículo 11 de la Ley 30096, Ley de Delitos Informáticos",
+      "content": "Se incorpora el numeral 5 al artículo 11 de la Ley 30096, Ley de Delitos Informáticos, en los siguientes términos: “ Artículo 11. Agravantes El juez aumenta la pena privativa de libertad hasta en un tercio por encima del máximo legal fijado para cualquiera de los delitos previstos en la presente Ley cuando: […] 5. El agente comete el delito empleando la inteligencia artificial o tecnologías similares o análogas”. ÚNICA. Normativa adicional El Poder Ejecutivo, a través de la Presidencia del Consejo de Ministros y del Ministerio de Justicia y Derechos Humanos, emite la normativa adicional necesaria para la aplicación de las modificaciones dispuestas en la presente ley, en un plazo de sesenta días calendario contados a partir de su entrada en vigor. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los veintidós días del mes de abril de dos mil veinticinco. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los veintiocho días del mes de abril del año dos mil veinticinco. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presid ente del Consejo de Ministros"
+    }
+  ],
+  "definitions": []
+}

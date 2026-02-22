@@ -1,0 +1,44 @@
+{
+  "id": "pe-nl-1691026-7",
+  "type": "statute",
+  "title": "Decreto Legislativo que promueve la inversión",
+  "short_name": "N° 1418",
+  "status": "in_force",
+  "issued_date": "2018-09-13",
+  "in_force_date": "2018-09-13",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1691026-7",
+  "description": "DECRETO LEGISLATIVO | N° 1418 | Decreto Legislativo que promueve la inversión",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "Inafectar del impuesto a la renta a las rentas derivadas de las transferencias de los derechos de cobro que derivan de los contratos de asociaciones público privadas."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Definición",
+      "content": "Para efecto del Decreto Legislativo se entiende por Ley al Texto Único Ordenado de la Ley del Impuesto a la Renta, aprobado por Decreto Supremo N° 179-2004-EF."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Incorporación del inciso i) al tercer párrafo del artículo 18 de la Ley",
+      "content": "Incorpórese el inc iso i) al tercer párrafo del artículo 18 de la Ley , conforme al texto siguiente: “ Artículo 18.- (…) Constituyen ingresos inafectos al impuesto: (…) i) Los ingresos por servicios obtenidos por las transferencias de los derechos de cobro del inversionista que derivan de los contratos de asociaciones público privadas suscritos por el Estado, cuando el adquiriente de los derechos de cobro asume el riesgo crediticio, en los términos señalados en los respectivos contratos de asociaciones público privada. (…)”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo",
+      "content": "El Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Economía y Finanzas. Única. Vigencia Lo dispuesto en el Decreto Legislativo entra en vigencia el 1 de enero de 2019. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los doce días del mes de setiembre del año dos mil dieciocho. MARTÍN ALBERTO VIZCARRA CORNEJO Presidente de la República César villanueva arévalo Presidente del Consejo de Ministros CARLOS OLIVA NEYRA Ministro de Economía y Finanzas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

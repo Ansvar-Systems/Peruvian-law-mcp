@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2151852-6",
+  "type": "statute",
+  "title": "Ley que modifica los artículos 10, 45, 61 y 63 del Decreto Legislativo 1350, Decreto Legislativo de Migraciones, en el marco de la seguridad ciudadana",
+  "short_name": "N° 31689",
+  "status": "in_force",
+  "issued_date": "2023-02-15",
+  "in_force_date": "2023-02-15",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2151852-6",
+  "description": "LEY | N° 31689 | Ley que modifica los artículos 10, 45, 61 y 63 del Decreto Legislativo 1350, Decreto Legislativo de Migraciones, en el marco de la seguridad ciudadana",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene como objeto modificar los artículos 10, 45, 61 y 63 del Decreto Legislativo 1350, Decreto Legislativo de Migraciones, en el marco de la seguridad ciudadana."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los artículos 10, 45, 61 y 63 del Decreto Legislativo 1350, Decreto Legislativo de Migraciones",
+      "content": "Modifícanse los artículos 10, 45, 61 y 63 del Decreto Legislativo 1350, Decreto Legislativo de Migraciones, en los términos siguientes: “ Artículo 10.- Deberes de los extranjeros [...] 10.6 Respetar el marco normativo vigente, en especial en lo referido al legado histórico y cultural del Perú, al orden público, orden interno, seguridad nacional, seguridad ciudadana y las disposiciones sanitarias y ambientales."
+    },
+    {
+      "provision_ref": "art45",
+      "section": "45",
+      "title": "Artículo 45.- Generalidades del control migratorio",
+      "content": "[...] 45.3. Por motivos de seguridad nacional, salud pública, orden interno, orden público y seguridad ciudadana se puede limitar el ingreso y tránsito de los extranjeros, de conformidad con el principio de proporcionalidad y soberanía."
+    },
+    {
+      "provision_ref": "art61",
+      "section": "61",
+      "title": "Artículo 61.- Obligaciones de los servicios de hospedaje",
+      "content": "[...] 61.3. Los arrendadores de inmuebles, cualquiera fuere su naturaleza y objeto, deben exigir la presentación de un documento que acredite la situación migratoria regular del extranjero con quien suscriba contrato de arrendamiento y de los otros extranjeros que habiten y formen parte del grupo arrendador en el mismo inmueble. Asimismo, el arrendador responsable de dicho arrendamiento debe informar a la Supe rintendencia Nacional de Migraciones, a través de sus plataformas digitales."
+    },
+    {
+      "provision_ref": "art63",
+      "section": "63",
+      "title": "Artículo 63.- De las conductas infractoras y las sanciones para el titular del servicio de hospedaje",
+      "content": "Serán sancionadas con multa las siguientes conductas: [...] b. Brindar alojamiento sin registrar la nacionalidad, fecha de nacimiento, nombres y apellidos completos, así como el número de documento de identidad o de viaje. c. No remitir a MIGRACIONES el registro o información que se detalla en el literal precedente”. ÚNICA. Reglamento El Poder Ejecutivo adecuará el Reglamento del Decreto Legislativo 1350, Decreto Legislativo de Migraciones, a lo dispuesto en la presente ley, en un plazo no mayor de treinta días calendario, contados a partir de su publicación. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día siete de julio de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los catorce días del mes de febrero de dos mil veintitrés. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día siete de julio de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art63"
+    }
+  ]
+}

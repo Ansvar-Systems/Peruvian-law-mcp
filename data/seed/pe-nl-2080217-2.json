@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2080217-2",
+  "type": "statute",
+  "title": "Ley que modifica los artículos 45-A y 45-D de la Ley 28044, Ley General de Educación, con la finalidad de incorporar especializaciones técnicas en la Educación Básica Regular y Educación Básica Alternativa",
+  "short_name": "N° 31499",
+  "status": "in_force",
+  "issued_date": "2022-06-23",
+  "in_force_date": "2022-06-23",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2080217-2",
+  "description": "LEY | N° 31499 | Ley que modifica los artículos 45-A y 45-D de la Ley 28044, Ley General de Educación, con la finalidad de incorporar especializaciones técnicas en la Educación Básica Regular y Educación Básica Alternativa",
+  "provisions": [
+    {
+      "provision_ref": "artunico",
+      "section": "UNICO",
+      "title": "Artículo UNICO.- Modificación de los artículos 45-A y 45-D de la Ley 28044, Ley General de Educación",
+      "content": "Se modifican los artículos 45-A y 45-D de la Ley 28044, Ley General de Educación, en los siguientes términos:"
+    },
+    {
+      "provision_ref": "art45a",
+      "section": "45-A",
+      "title": "Artículo 45-A.- Creación de los Centros de Educación Técnico–Productiva públicos",
+      "content": "Las Direcciones Regionales de Educación o las que hagan sus veces, en coordinación con las Unidades de Gestión Educativa Local respectivas, crean los Centros de Educación Técnico–Productiva públicos, sobre la base de un proceso de planificación regional, atendiendo a las demandas productivas y laborales de su contexto, considerando las brechas económicas, sociales y de acceso a derechos entre los diferentes grupos culturales del país; así como, las necesidades y características de los usuarios. En la educación básica regular y educación básica alternativa son las instituciones educativas, en coordinación y articulación con cada Unidad de Gestión Educativa Local o Centros de Educación Técnico–Productiva (CETPRO), las que proponen al estudiante que cursa los estudios de secundaria que reciba especializaciones técnicas debidamente acreditadas a nombre de la Nación, dentro de los programas de formación continua que imparten, de manera gradual, voluntaria y conforme a la previsión presupuestaria, vinculadas a la realidad del departamento o localidad, no pudiendo modificar dichas especializaciones mientras una promoción esté cursando los estudios de una de estas. El estudiante de un programa de formación continua puede trasladarse a otra especialidad, así también puede trasladarse a otros talleres, previa convalidación. Los estudiantes pueden acceder a pasantías con el apoyo de su institución educativa por medio de convenios con organismos y empresas públicas o privadas”."
+    },
+    {
+      "provision_ref": "art45d",
+      "section": "45-D",
+      "title": "Artículo 45-D.- Registro de títulos",
+      "content": "Los títulos de técnico emitidos por los Centros de Educación Técnico–Productiva se registran en el Registro Nacional de Certificados, Grados y Títulos de los Institutos de Educación Superior del Ministerio de Educación; conforme a los mecanismos que se establezcan para tal fin. El estudiante que egresa o hubiera culminado satisfactoriamente la especialización técnica en la educación básica regular o educación básica alternativa en institución educativa, lo hace con el título de auxiliar técnico y técnico en la especialización. En tal sentido, el título lo habilita para su desempeño en el mercado laboral a fin de realizar una serie de actividades determinadas y remuneradas, así como para continuar simultáneamente sus estudios superiores”. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día cinco de mayo de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiún días del mes de junio de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República ENRIQUE WONG PUJADA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día cinco de mayo de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art45d"
+    }
+  ]
+}

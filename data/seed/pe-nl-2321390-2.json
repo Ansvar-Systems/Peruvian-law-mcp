@@ -1,0 +1,62 @@
+{
+  "id": "pe-nl-2321390-2",
+  "type": "statute",
+  "title": "Decreto Legislativo que modifica el Decreto Legislativo N° 1137, Ley del Ejército del Perú",
+  "short_name": "N° 1640",
+  "status": "in_force",
+  "issued_date": "2024-09-04",
+  "in_force_date": "2024-09-04",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2321390-2",
+  "description": "DECRETO LEGISLATIVO | N° 1640 | Decreto Legislativo que modifica el Decreto Legislativo N° 1137, Ley del Ejército del Perú",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto y finalidad",
+      "content": "El presente Decreto Legislativo tiene por objeto modificar el artículo 3, el numeral 2) del artículo 4, el numeral 7) del artículo 5 y el numeral 15) del artículo 7, e incorporar el artículo 17-A al Decreto Legislativo N° 1137, Ley del Ejército del Perú, con la finalidad de incorporar la competencia y funciones, así como precisar la ubicación del órgano de línea en la estructura organizacional del Ejército del Perú."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Modificación de los artículos 3, 4, 5 y 7 del Decreto Legislativo N° 1137, Ley del Ejército del Perú .",
+      "content": "Modificar el artículo 3, el numeral 2) del artículo 4, el numeral 7) del artículo 5 y el numeral 15) del artículo 7 del Decreto Legislativo N° 1137, Ley del Ejército del Perú, conforme al siguiente texto:"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Ámbito de competencia",
+      "content": "El Ejército del Perú controla, vigila y defiende el territorio nacional, así como el ciberespacio con la capacidad de ciberdefensa en el ámbito de sus competencias , de conformidad con la ley y con los tratados ratificados por el Estado, con el propósito de contribuir a garantizar la independencia, soberanía e integridad territorial de la República. (….)”"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Refrendo.",
+      "content": "El presente Decreto Legislativo es refrendado por el Presidente del Consejo de Ministros y el Ministro de Defensa. ÚNICA. Adecuación del Reglamento del Decreto Legislativo N° 1137, Ley del Ejército del Perú El Poder Ejecutivo, mediante Decreto Supremo refrendado por el Titular del Ministerio de Defensa, adecúa el Reglamento del Decreto Legislativo N° 1137, Ley del Ejército del Perú, aprobado por Decreto Supremo N° 005-2015-DE a lo dispuesto en el presente Decreto Legislativo, en un plazo de sesenta (60) días hábiles, contado a partir de su entrada en vigencia. POR TANTO: Mando se publique y cumpla, dando cuenta al Congreso de la República. Dado en la Casa de Gobierno, en Lima, a los tres días del mes de setiembre del año dos mil veinticuatro. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República GUSTAVO LINO ADRIANZÉN OLAYA Presidente del Consejo de Ministros WALTER ENRIQUE ASTUDILLO CHAVEZ Ministro de Defensa"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Estructura Orgánica Básica",
+      "content": "El Ejército del Perú está compuesto por los siguientes órganos y sus funciones y atribuciones específicas se establecerán en el reglamento de la presente norma: (…) 7) Órganos de Línea Los Órganos de Línea son los entes operacionales de la institución y lo conforman las Divisiones de Ejército, la Aviación del Ejército y el Comando de Operaciones Cibernéticas. (…)”"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "Artículo 7.- Funciones",
+      "content": "Son funciones del Comandante General del Ejército del Perú, las siguientes: (…) 15) Disponer y supervisar que se ejecuten las acciones para el control, vigilancia y defensa del territorio nacional, así como del ciberespacio con la capacid ad de ciberdefensa en el ámbito de sus competencias. (…) ”"
+    },
+    {
+      "provision_ref": "art17a",
+      "section": "17-A",
+      "title": "Artículo 17-A.- Comando de Operaciones Cibernéticas",
+      "content": "El Comando de Operaciones Cibernéticas opera, defiende, responde, influye e informa en el dominio del ciberespacio, en el ámbito de su competencia, para proteger y defender la información y las comunicaciones, a través de la capacidad de ciberdefensa, asegurando el comando y control, frente a las amenazas que afecten la seguridad nacional, los intereses nacionales, los activos críticos nacionales (ACN) y recursos claves (RC) para mantener las capacidades nacionales en el área de su responsabilidad. El cargo de Comandante General de Operaciones Cibernéticas es ejercido por un Oficial del Grado de General. Su organización interna, conformación y funciones se regulan en el reglamento de la presente norma .”"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Mando se publique y cumpla, dando cuenta al Congreso de la República",
+      "source_provision": "art4"
+    }
+  ]
+}

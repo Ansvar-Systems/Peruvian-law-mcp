@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2407453-4",
+  "type": "statute",
+  "title": "Ley que modifica el Nuevo Código Procesal Penal, Decreto Legislativo 957, para incorporar el uso de la tecnología digital en la remisión de la carpeta fiscal, en la declaración del imputado y en las diligencias de la investigación preparatoria",
+  "short_name": "LEY",
+  "status": "in_force",
+  "issued_date": "2025-06-07",
+  "in_force_date": "2025-06-07",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2407453-4",
+  "description": "LEY | Ley que modifica el Nuevo Código Procesal Penal, Decreto Legislativo 957, para incorporar el uso de la tecnología digital en la remisión de la carpeta fiscal, en la declaración del imputado y en las diligencias de la investigación preparatoria",
+  "provisions": [
+    {
+      "provision_ref": "art86",
+      "section": "86",
+      "title": "Artículo 86.- Momento y carácter de la declaración",
+      "content": "1. En el curso de las actuaciones procesales, en todas las etapas del proceso y con arreglo a lo dispuesto por este Código, el imputado tiene derecho a prestar declaración, sea de manera presencial o por videoconferencia en circunstancias particulares debidamente justificadas, y a ampliarla, a fin de ejercer su defensa y responder a los cargos formulados en su contra. Las ampliaciones de declaración procederán si fueren pertinentes y no aparezcan sólo como un procedimiento dilatorio o malicioso. 2. Durante la Investigación Preparatoria el imputado, sin perjuicio de hacerlo ante la Policía con las previsiones establecidas en este Código, prestará declaración ante el Fiscal mediante las modalidades mencionadas en el numeral 1, con la necesaria asistencia de su abogado defensor, cuando éste lo ordene o cuando el imputado lo solicite. […]"
+    },
+    {
+      "provision_ref": "art88",
+      "section": "88",
+      "title": "Artículo 88.- Desarrollo de la declaración",
+      "content": "[…] 7. Durante la Investigación Preparatoria el acta que contenga la declaración del imputado reproducirá, del modo más fiel posible lo que suceda en la diligencia. El imputado está autorizado a dictar sus respuestas. La diligencia en dicha etapa finalizará con la lectura y firma o, en su caso, la impresión digital, del acta por todos los intervinientes. Si la declaración se realiza mediante videoconferencia, se almacenará en soporte magnético y se anexará al acta fiscal. Si el imputado se niega a declarar, total o parcialmente, se hará constar en el acta. En la declaración presencial del imputado, si se rehusare a suscribirla se consignará el motivo. Los sistemas informáticos utilizados para la declaración del imputado deben cumplir con estándares que garanticen la accesibilidad de las personas con discapacidad."
+    },
+    {
+      "provision_ref": "art337",
+      "section": "337",
+      "title": "Artículo 337.- Diligencias de la Investigación Preparatoria",
+      "content": "[…] 3. El Fiscal puede: a) Disponer la concurrencia del imputado, del agraviado y de las demás personas que se encuentren en posibilidad de informar sobre circunstancias útiles para los fines de la investigación. Estas personas y los peritos están obligados a comparecer ante la Fiscalía en las modalidades establecidas en el numeral 1 del artículo 86, y a manifestarse sobre los hechos objeto de investigación o emitir dictamen. Su inasistencia injustificada determinará su conducción compulsiva; […]”. ÚNICA. Normativa adicional El Poder Ejecutivo, a través del Ministerio de Justicia y Derechos Humanos, en un plazo de sesenta días calendario contados a partir de la entrada en vigor de la presente ley, emite la normativa adicional necesaria para la aplicación de las modificaciones dispuestas por esta ley. Comuníquese a la señora Presidenta de la República para su promulgación. En Lima, a los dieciséis días del mes de mayo de dos mil veinticinco. EDUARDO SALHUANA CAVIDES Presidente del Congreso de la República CARMEN PATRICIA JUÁREZ GALLEGOS Primera Vicepresidenta del Congreso de la República A LA SEÑORA PRESIDENTA DE LA REPÚBLICA POR TANTO: Mando se publique y cumpla. Dado en la Casa de Gobierno, en Lima, a los seis días del mes de junio del año dos mil veinticinco. DINA ERCILIA BOLUARTE ZEGARRA Presidenta de la República EDUARDO MELCHOR ARANA YSA Presidente del Consejo de Ministros"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "El Fiscal puede",
+      "definition": "a) Disponer la concurrencia del imputado, del agraviado y de las demás personas que se encuentren en posibilidad de informar sobre circunstancias útiles para los fines de la investigación",
+      "source_provision": "art337"
+    }
+  ]
+}

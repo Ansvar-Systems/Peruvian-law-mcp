@@ -1,0 +1,37 @@
+{
+  "id": "pe-nl-2235408-1",
+  "type": "statute",
+  "title": "Ley que reconoce derechos al concebido",
+  "short_name": "N° 31935",
+  "status": "in_force",
+  "issued_date": "2023-11-16",
+  "in_force_date": "2023-11-16",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2235408-1",
+  "description": "LEY | N° 31935 | Ley que reconoce derechos al concebido",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto reconocer los derechos del concebido."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Derechos del concebido",
+      "content": "El concebido es sujeto de derechos en todo cuanto le favorece, conforme al artículo 2 de la Constitución Política. Estos derechos se fundamentan en la dignidad humana. Son derechos del concebido los siguientes: a) A la vida. b) A la salud. c) A la integridad moral, psíquica y física. d) A la identidad. e) Al libre desarrollo y bienestar. f) Otros derechos que le favorezcan. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día trece de abril de dos mil veintitrés, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los quince días del mes de noviembre de dos mil veintitrés. ALEJANDRO SOTO REYES Presidente del Congreso de la República ARTURO ALEGRÍA GARCÍA Primer Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Son derechos del concebido los siguientes",
+      "definition": "a) A la vida",
+      "source_provision": "art2"
+    },
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día trece de abril de dos mil veintitrés, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art2"
+    }
+  ]
+}

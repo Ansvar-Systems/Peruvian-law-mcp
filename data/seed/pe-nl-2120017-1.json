@@ -1,0 +1,50 @@
+{
+  "id": "pe-nl-2120017-1",
+  "type": "statute",
+  "title": "Ley que promueve la descontaminación ambiental y establece el retiro del cableado aéreo en desuso o en mal estado en las zonas urbanas del país",
+  "short_name": "N° 31595",
+  "status": "in_force",
+  "issued_date": "2022-10-28",
+  "in_force_date": "2022-10-28",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2120017-1",
+  "description": "LEY | N° 31595 | Ley que promueve la descontaminación ambiental y establece el retiro del cableado aéreo en desuso o en mal estado en las zonas urbanas del país",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "La presente ley tiene por objeto establecer la descontaminación ambiental mediante el retiro del cableado aéreo de los servicios de electricidad y de telecomunicaciones que se encuentren en mal estado o en desuso en las zonas urbanas del país, a fin de garantizar la seguridad de la población y el derecho a vivir en un ambiente sano y equilibrado."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Ámbito de aplicación de la Ley",
+      "content": "La presente ley se aplica a las zonas urbanas donde se detecte instalaciones de cableado aéreo en mal estado o en desuso. Se entiende por zona urbana las áreas definidas por la Ley 30477, Ley que regula la ejecución de obras de servicios públicos autorizadas por las municipalidades en las áreas de dominio público."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Retiro del cableado",
+      "content": "Las empresas concesionarias de servicios de electricidad y de telecomunicaciones, así como las empresas proveedoras de infraestructura pasiva de telecomunicaciones, según corresponda, en un plazo no mayor a veinticuatro meses, contados desde la entrada en vigencia del reglamento de la presente ley, deben retirar el cableado aéreo en desuso o en mal estado que se encuentre en las zonas urbanas, sin trasladar los costos del retiro en las tarifas al público consumidor."
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "Artículo 4.- Supervisión",
+      "content": "El retiro del cableado queda sujeto a la supervisión ambiental por parte de la entidad de fiscalización ambiental competente, de acuerdo con las normas del Sistema Nacional de Evaluación y Fiscalización Ambiental. Asimismo, queda sujeto a la supervisión por parte de las municipalidades provinciales y distritales de la zona contaminada, únicamente en los aspectos de sus competencias, de conformidad con la Ley 27972, Ley Orgánica de Municipalidades, y la Ley 30477, Ley que regula la ejecución de obras de servicios públicos autorizadas por las municipalidades en las áreas de dominio público. De ser el caso, las autoridades señaladas en este artículo coordinan con los organismos reguladores respectivos, conforme a sus competencias."
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "Artículo 5.- Sanción por incumplimiento",
+      "content": "El incumplimiento de lo dispuesto en el artículo 3 constituye infracción muy grave sancionable con multa impuesta por el Organismo de Evaluación y Fiscalización Ambiental (OEFA), por el monto comprendido entre 5 y 20 UIT, de acuerdo al marco normativo aplicable. Única.- Reglamento El Poder Ejecutivo, en un plazo de noventa (90) días calendario contados desde la fecha de publicación de la presente ley, aprueba y publica los reglamentos de la presente ley y de la Ley 30477, Ley que regula la ejecución de obras de servicios públicos autorizadas por las municipalidades en las áreas de dominio público. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de junio de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los veintiséis días del mes de octubre de dos mil veintidós. JOSÉ DANIEL WILLIAMS ZAPATA Presidente del Congreso de la República MARTHA LUPE MOYANO DELGADO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día nueve de junio de dos mil veintidós, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art5"
+    }
+  ]
+}

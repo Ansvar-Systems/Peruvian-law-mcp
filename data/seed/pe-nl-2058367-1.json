@@ -1,0 +1,38 @@
+{
+  "id": "pe-nl-2058367-1",
+  "type": "statute",
+  "title": "Ley que exonera del impuesto general a las ventas los alimentos de la canasta básica familiar",
+  "short_name": "N° 31452",
+  "status": "in_force",
+  "issued_date": "2022-04-14",
+  "in_force_date": "2022-04-14",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/2058367-1",
+  "description": "LEY | N° 31452 | Ley que exonera del impuesto general a las ventas los alimentos de la canasta básica familiar",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto",
+      "content": "La presente norma tiene por objeto establecer medidas extraordinarias relacionadas con el impuesto general a las ventas aplicable a los principales alimentos que formen parte de la canasta básica familiar, con la finalidad de atenuar el impacto inflacionario generado por la coyuntura económica internacional."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Exoneración del impuesto general a las ventas",
+      "content": "2.1 Exonérase del impuesto general a las ventas, hasta el 31 de julio de 2022, la venta en el país o importación de los siguientes bienes que conforman la canasta básica familiar: PARTIDAS ARANCELARIAS PRODUCTOS 0207.11.00.00/ 0207.14.00.90 Carne de aves de la especie Gallus domesticus frescos, refrigerados o congelados 0407.21.90.00 Huevos frescos de gallina de la especie Gallus domesticus 1701.14.00.00 1701.99.90.00 Azúcar 1902.11.00.00/ 1902.19.00.00 Pastas alimenticias sin cocer, rellenar ni preparar de otra forma 1905.90.90.00 Solo: pan 2.2 Para efecto de lo dispuesto en el presente artículo la mención de los bienes es referencial, debiendo considerarse para los efectos del impuesto, los bienes contenidos en las partidas arancelarias indicadas en el párrafo anterior, salvo que expresamente se disponga lo contrario."
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "Artículo 3.- Uso del crédito fiscal",
+      "content": "Los contribuyentes que comercialicen los bienes señalados en el artículo 2 podrán aplicar como crédito fiscal el impuesto general a las ventas correspondiente a las adquisiciones y/o importaciones de los principales insumos requeridos en el proceso productivo de los bienes exonerados, los cuales serán determinados mediante decreto supremo refrendado por el ministro de Economía y Finanzas. PRIMERA. Vigencia Lo dispuesto en la presente ley entra en vigencia a partir del primer día del mes siguiente a la fecha de publicación de la presente ley en el diario oficial El Peruano. SEGUNDA. Normas reglamentarias Mediante decreto supremo, refrendado por el ministro de Economía y Finanzas, se establecen las normas reglamentarias necesarias para la adecuada aplicación de la presente ley en un plazo no mayor de quince (15) días calendario. TERCERA. Amazonía Lo dispuesto en la presente ley es de aplicación a las operaciones de importación o venta de los bienes señalados en el artículo 2 de la presente ley que se realicen en las zonas comprendidas en la Amazonía a que se refiere la Ley 27037, Ley de Promoción de la Inversión en la Amazonía. CUARTA. INDECOPI Encárguese al INDECOPI el monitoreo de los precios de venta al consumidor final de los bienes que forman parte de la canasta básica familiar comprendidos en la presente Ley. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por el señor Presidente de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los trece días del mes de abril de dos mil veintidós. MARÍA DEL CARMEN ALVA PRIETO Presidenta del Congreso de la República LADY MERCEDES CAMONES SORIANO Primera Vicepresidenta del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, aceptándose las observaciones formuladas por el señor Presidente de la República, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art3"
+    }
+  ]
+}

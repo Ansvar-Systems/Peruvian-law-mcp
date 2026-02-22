@@ -1,0 +1,32 @@
+{
+  "id": "pe-nl-1973481-2",
+  "type": "statute",
+  "title": "Ley que declara de necesidad pública, interés nacional y recurso estratégico la exploración, explotación e industrialización del litio y de sus derivados",
+  "short_name": "N° 31283",
+  "status": "in_force",
+  "issued_date": "2021-07-16",
+  "in_force_date": "2021-07-16",
+  "url": "https://busquedas.elperuano.pe/dispositivo/NL/1973481-2",
+  "description": "LEY | N° 31283 | Ley que declara de necesidad pública, interés nacional y recurso estratégico la exploración, explotación e industrialización del litio y de sus derivados",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "Artículo 1.- Objeto de la Ley",
+      "content": "Declárase de necesidad pública e interés nacional la exploración, explotación e industrialización del litio y sus derivados en el territorio nacional, con el propósito de garantizar su desarrollo sustentable. La comercialización del litio y de sus derivados constituyen recursos estratégicos para el desarrollo del país."
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "Artículo 2.- Reglamentación",
+      "content": "Encárgase al Poder Ejecutivo para que en el plazo de sesenta días naturales de promulgada la presente ley reglamente la declaratoria de recurso estratégico de la comercialización del litio y sus derivados, que garantice el desarrollo de la industria nacional en grado batería y el procedimiento para el reciclaje de las baterías de litio. POR TANTO: Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día catorce de mayo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla. En Lima, a los quince días del mes de julio de dos mil veintiuno. MIRTHA ESTHER VÁSQUEZ CHUQUILIN Presidenta a. i. del Congreso de la República LUIS ANDRÉS ROEL ALVA Segundo Vicepresidente del Congreso de la República"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "POR TANTO",
+      "definition": "Habiendo sido reconsiderada la Ley por el Congreso de la República, insistiendo en el texto aprobado en sesión del Pleno realizada el día catorce de mayo de dos mil veintiuno, de conformidad con lo dispuesto por el artículo 108 de la Constitución Política del Perú, ordeno que se publique y cumpla",
+      "source_provision": "art2"
+    }
+  ]
+}
