@@ -19,8 +19,8 @@
       }
     },
     {
-      "registryType": "url",
-      "identifier": "https://peruvian-law-mcp.vercel.app/mcp",
+      "registryType": "npm",
+      "identifier": "@ansvar/peruvian-law-mcp",
       "version": "1.0.0",
       "transport": {
         "type": "streamable-http",
