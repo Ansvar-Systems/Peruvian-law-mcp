@@ -109,6 +109,10 @@ export const TOOLS: Tool[] = [
           type: 'string',
           description: 'Direct provision reference (e.g., "s13"). Alternative to section parameter.',
         },
+        article: {
+          type: 'string',
+          description: 'Article number — alias for provision_ref (e.g., "13", "s13").',
+        },
       },
       required: ['document_id'],
     },
