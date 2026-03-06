@@ -10,6 +10,7 @@ export interface GetProvisionInput {
   document_id: string;
   section?: string;
   provision_ref?: string;
+  article?: string;
   as_of_date?: string;
 }
 
@@ -47,8 +48,8 @@ export async function getProvision(
     return { results: [], _metadata: generateResponseMetadata(db) };
   }
 
-  // Specific provision lookup
-  const ref = input.provision_ref ?? input.section;
+  // Specific provision lookup — accept article as alias for provision_ref
+  const ref = input.provision_ref ?? input.article ?? input.section;
   if (ref) {
     // Strip subsection references: "13(1)" -> "13", "s13(2)(a)" -> "s13"
     const refTrimmed = ref.trim().replace(/(\([\dA-Za-z]+\))+$/, '');

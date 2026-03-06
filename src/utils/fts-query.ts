@@ -5,7 +5,10 @@
  * and 6-tier variant generation for SQLite FTS5.
  */
 
-/** FTS5 boolean operators that should pass through to the engine. */
+/** Regex to detect FTS5 boolean operators as whole words. */
+const FTS5_BOOLEAN_OPS = /\b(AND|OR|NOT)\b/;
+
+/** FTS5 boolean operators for token-level filtering. */
 const BOOLEAN_OPERATORS = new Set(['AND', 'OR', 'NOT']);
 
 /**
@@ -37,10 +40,12 @@ export function stemWord(word: string): string | null {
 }
 
 /**
- * Check whether the input contains FTS5 boolean operators (AND, OR, NOT).
+ * Detect whether the input contains FTS5 boolean operators (AND, OR, NOT)
+ * as whole words. Uses regex rather than token splitting so it is robust
+ * against punctuation adjacent to operators.
  */
-function containsBooleanOperators(tokens: string[]): boolean {
-  return tokens.some(t => BOOLEAN_OPERATORS.has(t));
+export function hasBooleanOperators(input: string): boolean {
+  return FTS5_BOOLEAN_OPS.test(input);
 }
 
 /**
@@ -51,10 +56,9 @@ function containsBooleanOperators(tokens: string[]): boolean {
  * between search terms.
  */
 export function sanitizeFtsInput(input: string): string {
-  const tokens = input.split(/\s+/).filter(t => t.length > 0);
-  if (tokens.length === 0) return '';
+  if (!input || input.trim().length === 0) return '';
 
-  if (containsBooleanOperators(tokens)) {
+  if (hasBooleanOperators(input)) {
     // Boolean mode: narrow strip — preserve quotes and parens for phrase grouping
     return input.replace(/[{}[\]^~*:]/g, ' ').replace(/\s+/g, ' ').trim();
   }
@@ -88,13 +92,15 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
     return [];
   }
 
-  const tokens = sanitized.split(/\s+/).filter(t => t.length > 0);
-  if (tokens.length === 0) return [];
-
-  // Boolean passthrough: return as single variant for FTS5 to handle
-  if (containsBooleanOperators(tokens)) {
+  // Boolean passthrough: pass the query directly to FTS5 to handle boolean logic.
+  // Must check before tokenizing — token-level checks can miss operators adjacent
+  // to punctuation or in edge-case whitespace layouts.
+  if (hasBooleanOperators(sanitized)) {
     return [sanitized];
   }
+
+  const tokens = sanitized.split(/\s+/).filter(t => t.length > 0);
+  if (tokens.length === 0) return [];
 
   const variants: string[] = [];
 
